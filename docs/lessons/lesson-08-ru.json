@@ -1,0 +1,148 @@
+{
+  "id": "lesson-08-ru",
+  "title": "Группа глаголов 3: Движение и управление жизнью",
+  "type": "fill_gap",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Выберите глагол, описывающий рабочий режим.",
+      "sentence": "Eu ___ das nove às seis, de segunda a sexta.",
+      "options": ["trabalho", "moro", "saio", "espero"],
+      "correct": 0,
+      "explanation": "'Trabalho' — единственный глагол, подходящий к расписанию «das...às» (с...до). 'Moro' (живу), 'saio' (выхожу), 'espero' (жду/надеюсь) не сочетаются с временным промежутком как описанием рабочего дня."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «проживать».",
+      "sentence": "Eu ___ aqui há três anos e adoro este bairro.",
+      "options": ["moro", "trabalho", "saio", "chego"],
+      "correct": 0,
+      "explanation": "'Moro aqui há três anos' — «há + период времени» указывает на длительное проживание. 'Trabalho' возможен сам по себе, но «adoro este bairro» (обожаю этот район) подтверждает: человек здесь именно живёт, а не работает. 'Saio' (выхожу) и 'chego' (прихожу) не сочетаются с «há três anos»."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «уходить из дома».",
+      "sentence": "Ela ___ de casa às sete da manhã para ir ao trabalho.",
+      "options": ["sai", "chega", "mora", "espera"],
+      "correct": 0,
+      "explanation": "'Sair de casa' — устойчивое выражение «выйти из дома». 'Chegar de casa' неверно: приходят домой (chegar em casa), а не из дома. 'Mora de casa' и 'espera de casa' лишены смысла в португальском языке."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «прибывать».",
+      "sentence": "Quando você ___ em casa, me manda uma mensagem.",
+      "options": ["chegar", "morar", "sair", "esperar"],
+      "correct": 0,
+      "explanation": "'Chegar em casa' — прийти домой как событие, которое запускает отправку сообщения. 'Morar em casa' (жить дома) — постоянное состояние, а не событие. 'Sair' (уходить) — противоположное направление. 'Esperar em casa' означало бы ждать дома, а не прийти."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «ждать».",
+      "sentence": "___ aí, já volto!",
+      "options": ["Espera", "Olha", "Manda", "Ajuda"],
+      "correct": 0,
+      "explanation": "'Espera aí' = «Подожди там» — распространённая команда. 'Já volto' (я сейчас вернусь) подтверждает просьбу остаться на месте. 'Olha' (смотри), 'manda' (отправь), 'ajuda' (помоги) не подходят для просьбы подождать."
+    },
+    {
+      "prompt": "Выберите глагол, выражающий надежду.",
+      "sentence": "Nós ___ que o tempo melhore para o fim de semana.",
+      "options": ["esperamos", "vemos", "ligamos", "mandamos"],
+      "correct": 0,
+      "explanation": "'Esperar que + сослагательное наклонение' выражает надежду. 'Vemos que' (мы видим, что) требует изъявительного наклонения, а не сослагательного 'melhore'. 'Mandamos que o tempo melhore' означало бы «приказываем погоде улучшиться» — грамматически возможно, но абсурдно. 'Ligamos que' лишено смысла."
+    },
+    {
+      "prompt": "Выберите правильный глагол для «смотреть телевизор».",
+      "sentence": "Você ___ bastante televisão?",
+      "options": ["vê", "olha", "pede", "manda"],
+      "correct": 0,
+      "explanation": "'Ver televisão' (смотреть телевизор) — стандартное выражение в бразильском португальском. 'Olhar televisão' не употребляется: 'olhar' — для намеренного направленного взгляда. 'Pede televisão' (просит телевизор) и 'manda televisão' (отправляет телевизор) бессмысленны."
+    },
+    {
+      "prompt": "Выберите правильный глагол для направления чужого взгляда.",
+      "sentence": "___ para a câmera, vou tirar uma foto!",
+      "options": ["Olha", "Vê", "Chega", "Manda"],
+      "correct": 0,
+      "explanation": "'Olhar para' выражает намеренный, направленный взгляд — естественная фраза для позирования перед камерой. 'Vê para a câmera' не используется: 'ver' — пассивное восприятие, а не команда направить взгляд. 'Chega' (приходи) и 'Manda' (отправь) бессмысленны."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «положить/поместить».",
+      "sentence": "___ o sal na comida antes de provar.",
+      "options": ["Coloca", "Leva", "Manda", "Pede"],
+      "correct": 0,
+      "explanation": "'Colocar' означает «положить, поместить что-либо». 'Leva o sal na comida' (унеси соль в еду) не означает добавить её в блюдо. 'Manda' (отправь) и 'Pede' (попроси/закажи) не описывают добавление ингредиента."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «унести отсюда».",
+      "sentence": "Pode ___ este livro para a biblioteca por mim?",
+      "options": ["levar", "trazer", "mandar", "colocar"],
+      "correct": 0,
+      "explanation": "'Levar' — переместить что-либо подальше от говорящего. Библиотека находится в стороне от говорящего — 'levar' верно. 'Trazer' — принести к говорящему, противоположное направление. 'Mandar' подразумевает отправку через посредника. 'Colocar' (положить) не сочетается с 'para a biblioteca'."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «принести сюда».",
+      "sentence": "Quando você vier ao meu apartamento, pode ___ aquele livro que te emprestei?",
+      "options": ["trazer", "levar", "colocar", "pedir"],
+      "correct": 0,
+      "explanation": "'Trazer' — принести что-либо к говорящему. Говорящий дома и просит принести книгу к себе. 'Levar' — унести от говорящего, противоположное направление. 'Colocar' и 'pedir' не описывают возврат одолженной вещи."
+    },
+    {
+      "prompt": "Выберите глагол для действия «открыть».",
+      "sentence": "Você pode ___ a janela? Está muito quente aqui.",
+      "options": ["abrir", "fechar", "ligar", "mandar"],
+      "correct": 0,
+      "explanation": "'Abrir a janela' (открыть окно) впускает свежий воздух, когда жарко. 'Fechar' (закрыть) сделало бы жару ещё невыносимее — прямо противоречит причине просьбы. 'Ligar' (включить/позвонить) и 'mandar' (отправить) бессмысленны применительно к окну."
+    },
+    {
+      "prompt": "Выберите глагол для действия «закрыть».",
+      "sentence": "Por favor, ___ a porta ao sair.",
+      "options": ["feche", "abra", "mande", "ligue"],
+      "correct": 0,
+      "explanation": "При уходе ('ao sair') принято закрывать дверь за собой. 'Abra' (откройте) — противоположный смысл, не соответствующий ситуации выхода. 'Mande' (отправьте) и 'ligue' (позвоните/включите) бессмысленны для двери в данном контексте."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «позвонить по телефону».",
+      "sentence": "Vou ___ para você assim que chegar ao hotel.",
+      "options": ["ligar", "mandar", "pedir", "perguntar"],
+      "correct": 0,
+      "explanation": "'Ligar para alguém' — позвонить кому-либо по телефону. 'Assim que chegar' (как только приеду) — типичный повод для звонка. 'Vou mandar para você' без дополнения неполно («отправить что?»). 'Vou pedir para você' и 'vou perguntar para você' требуют дополнения."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «включить».",
+      "sentence": "Está escuro aqui. Você pode ___ a luz?",
+      "options": ["ligar", "fechar", "mandar", "colocar"],
+      "correct": 0,
+      "explanation": "'Ligar a luz' — включить свет: ключевое второе значение глагола ligar наряду с «позвонить». 'Fechar a luz' (закрыть свет) в португальском не употребляется. 'Mandar' (отправить) и 'colocar' (положить) не описывают включение освещения."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «отправить».",
+      "sentence": "___ o arquivo por e-mail quando terminar de editar.",
+      "options": ["Manda", "Leva", "Coloca", "Pede"],
+      "correct": 0,
+      "explanation": "'Mandar por e-mail' — отправить по электронной почте. 'Levar por e-mail' (унести по email) бессмысленно: levar требует физического перемещения. 'Coloca por e-mail' и 'Pede por e-mail' не описывают передачу файла."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «заказать/попросить что-либо».",
+      "sentence": "Ela foi à padaria ___ pão de queijo e café.",
+      "options": ["pedir", "perguntar", "levar", "colocar"],
+      "correct": 0,
+      "explanation": "'Pedir' — заказать или попросить что-либо: еду, услугу, помощь. В кондитерской делают заказ. 'Perguntar pão de queijo' невозможно: perguntar — для вопросов, а не для заказа товаров. 'Levar' подразумевает забрать готовое, а не заказывать. 'Colocar' (положить) бессмысленно."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «задать вопрос».",
+      "sentence": "Ela ___ ao professor qual seria a data da prova.",
+      "options": ["perguntou", "pediu", "mandou", "viu"],
+      "correct": 0,
+      "explanation": "'Perguntar' — узнать что-либо через вопрос. 'Qual seria a data' — это вопрос, поэтому 'perguntou' подходит идеально. 'Pediu' (попросил) — для запросов на предметы или услуги, а не для информационных вопросов. 'Mandou' (отправил) и 'viu' (увидел) бессмысленны."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «помочь».",
+      "sentence": "Você pode me ___ a carregar estas malas até o quarto?",
+      "options": ["ajudar", "levar", "mandar", "pedir"],
+      "correct": 0,
+      "explanation": "'Ajudar alguém a fazer algo' = «помочь кому-то сделать что-то». 'Levar as malas' (унести чемоданы) — переместить вещи без помощи человеку. 'Mandar' (отправить) и 'pedir' (попросить) не описывают оказание помощи."
+    },
+    {
+      "prompt": "Выберите правильный глагол для «уйти пораньше».",
+      "sentence": "Vamos ___ mais cedo hoje? O chefe liberou a equipe.",
+      "options": ["sair", "chegar", "esperar", "trabalhar"],
+      "correct": 0,
+      "explanation": "'Sair mais cedo' — уйти раньше обычного. 'O chefe liberou a equipe' (шеф отпустил команду) означает, что все расходятся. 'Chegar mais cedo' (прийти пораньше) противоречит смыслу «отпустили». 'Esperar' (ждать) и 'trabalhar' (работать) противоречат факту, что шеф всех отпустил."
+    }
+  ]
+}

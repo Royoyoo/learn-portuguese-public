@@ -1,0 +1,148 @@
+{
+  "id": "lesson-11-ru",
+  "title": "Группа глаголов 4: Мышление, чувства и общение — практика",
+  "type": "fill_gap",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Выберите глагол, подходящий по смыслу.",
+      "sentence": "Não consigo ___ meu passaporte em nenhuma gaveta.",
+      "options": ["achar", "lembrar", "entender", "trocar"],
+      "correct": 0,
+      "explanation": "'Achar' = найти (буквально, физически). 'Em nenhuma gaveta' (ни в одном ящике) указывает на физический поиск — только 'achar' подходит. 'Lembrar meu passaporte em nenhuma gaveta' не является естественной конструкцией в португальском. 'Entender' и 'trocar' не имеют смысла в данном контексте."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "Não ___ graça nenhuma nessa piada.",
+      "options": ["entendo", "acho", "lembro", "começo"],
+      "correct": 1,
+      "explanation": "'Achar graça' — устойчивое выражение, означающее «находить что-то смешным». Ни один из остальных вариантов не заменяет 'achar' в этом выражении. 'Entender graça', 'lembro graça' и 'começo graça' не являются стандартными конструкциями португальского языка."
+    },
+    {
+      "prompt": "Какой глагол дополняет это предложение?",
+      "sentence": "Vou ___ no assunto e te respondo amanhã.",
+      "options": ["lembrar", "tentar", "pensar", "escolher"],
+      "correct": 2,
+      "explanation": "'Pensar em algo' = думать о чём-либо. 'Vou pensar no assunto' = я подумаю над этим вопросом. 'Lembrar' требует предлога 'de', а не 'em' ('lembrar do assunto'), поэтому 'lembrar no' — ошибка. 'Tentar no' и 'escolher no' — неверные конструкции в португальском языке."
+    },
+    {
+      "prompt": "Выберите подходящий глагол.",
+      "sentence": "Esse contrato é complicado demais. Não ___ nada.",
+      "options": ["entendo", "escolho", "começo", "troco"],
+      "correct": 0,
+      "explanation": "Когда что-то слишком сложное, «ничего не понимать» — единственный логичный вывод. 'Não escolho nada' (ничего не выбираю), 'não começo nada' (ничего не начинаю) и 'não troco nada' (ничего не меняю) не вытекают логически из «этот договор слишком сложный»."
+    },
+    {
+      "prompt": "Выберите глагол, подходящий по смыслу.",
+      "sentence": "Você precisa ___ as regras do jogo antes de começar.",
+      "options": ["tentar", "sentir", "acreditar", "aprender"],
+      "correct": 3,
+      "explanation": "'Aprender as regras' = выучить правила — приобрести новые знания перед началом. 'Tentar as regras' не является естественным выражением — 'tentar' значит «пробовать», а не «усваивать». 'Sentir as regras' = чувствовать правила (правила нельзя чувствовать). 'Acreditar' требует предлога ('acreditar nas regras'), а не прямого дополнения."
+    },
+    {
+      "prompt": "Выберите правильную форму повеления.",
+      "sentence": "Não desista. ___ mais uma vez!",
+      "options": ["Esqueça", "Tente", "Mude", "Acabe"],
+      "correct": 1,
+      "explanation": "'Tentar mais uma vez' = попробовать ещё раз — естественное ободрение после «не сдавайся». 'Esqueça mais uma vez' = забудь ещё раз (противоречит ободрению). 'Mude mais uma vez' = измени ещё раз (не подходит без контекста). 'Acabe mais uma vez' = закончи ещё раз (не подходит)."
+    },
+    {
+      "prompt": "Какой глагол дополняет этот вопрос?",
+      "sentence": "Você ___ o nome do filme que assistimos semana passada?",
+      "options": ["lembra", "entende", "parece", "começa"],
+      "correct": 0,
+      "explanation": "'Lembrar o nome' = вспомнить название. 'Entende o nome do filme?' = понимаешь ли ты название фильма? (не имеет смысла как вопрос). 'Parece o nome do filme' — грамматически неверно ('parecer' обычно используется безлично: 'parece que'). 'Começa o nome do filme' не имеет смысла."
+    },
+    {
+      "prompt": "Выберите подходящий глагол.",
+      "sentence": "Ontem eu ___ de pagar a conta e agora estou sem luz.",
+      "options": ["lembrei", "tentei", "esqueci", "comecei"],
+      "correct": 2,
+      "explanation": "'Esquecer de fazer algo' = забыть что-то сделать. 'Agora estou sem luz' подтверждает, что счёт не был оплачен — только 'esqueci' логически верно. 'Lembrei de pagar' = вспомнил оплатить (если бы заплатил, свет бы не отключили, что противоречит 'sem luz'). 'Tentei de' и 'comecei de' — грамматически неверно: правильно 'tentei pagar' и 'comecei a pagar'."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "Depois de ganhar o prêmio, ela ___ muito feliz.",
+      "options": ["se sentiu", "se lembrou", "se esqueceu", "se escolheu"],
+      "correct": 0,
+      "explanation": "'Sentir-se + прилагательное' = чувствовать себя + прилагательное. 'Ela se sentiu muito feliz' = она почувствовала себя очень счастливой — естественное выражение после победы. Остальные три глагола ('lembrar-se', 'esquecer-se', 'escolher-se') не могут непосредственно сочетаться с прилагательным 'muito feliz'."
+    },
+    {
+      "prompt": "Какой глагол дополняет это предложение?",
+      "sentence": "Esse plano ___ arriscado demais para mim.",
+      "options": ["sente", "acredita", "tenta", "parece"],
+      "correct": 3,
+      "explanation": "'Parecer + прилагательное' = казаться + прилагательное. 'Esse plano parece arriscado demais' = этот план кажется слишком рискованным. Планы не могут «чувствовать» (sente), «верить» (acredita) или «пробовать» (tenta) — эти глаголы требуют одушевлённого подлежащего."
+    },
+    {
+      "prompt": "Выберите правильную форму повеления.",
+      "sentence": "___ nos seus sonhos e nunca desista!",
+      "options": ["Entenda", "Acredite", "Esqueça", "Lembre"],
+      "correct": 1,
+      "explanation": "'Acreditar em' = верить в. 'Acredite nos seus sonhos' = верьте в свои мечты — естественное мотивирующее выражение в паре с 'nunca desista'. 'Entenda nos seus sonhos' — грамматически неверно ('entender' не берёт 'em + существительное' в этом значении). 'Esqueça' (забудьте) прямо противоречит 'nunca desista'. 'Lembre nos seus sonhos' — неверно: 'lembrar' требует 'de' ('lembre-se dos seus sonhos')."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "Já ___ o que vai comer?",
+      "options": ["escolheu", "tentou", "começou", "entendeu"],
+      "correct": 0,
+      "explanation": "'Já escolheu?' = Вы уже выбрали? — классическая фраза официанта при приёме заказа. 'Tentou o que vai comer?' = уже попробовали то, что собираетесь есть? (не имеет смысла до заказа). 'Começou o que vai comer?' = уже начали то, что собираетесь есть? (не имеет смысла до прихода еды). 'Entendeu o que vai comer?' = поняли, что будете есть? (не имеет смысла)."
+    },
+    {
+      "prompt": "Выберите глагол, подходящий по смыслу.",
+      "sentence": "Comprei o tamanho errado. Posso ___ por um maior?",
+      "options": ["mudar", "escolher", "trocar", "tentar"],
+      "correct": 2,
+      "explanation": "'Trocar A por B' = обменять A на B — правильная конструкция при возврате или обмене товара в магазине. 'Mudar por um maior' не является естественным выражением — 'mudar' не сочетается с 'por' в значении обмена. 'Escolher por' и 'tentar por' — неверные конструкции."
+    },
+    {
+      "prompt": "Какой глагол дополняет это предложение?",
+      "sentence": "Ele ___ de ideia três vezes no mesmo dia.",
+      "options": ["mudou", "trocou", "acreditou", "pareceu"],
+      "correct": 0,
+      "explanation": "'Mudar de ideia' = передумать — устойчивое выражение португальского языка. 'Trocar de ideia' — нестандартно: 'trocar' означает физический обмен одного предмета на другой, тогда как 'mudar' выражает ментальные или абстрактные изменения. 'Acreditar de ideia' и 'parecer de ideia' — грамматически неверно."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "O show ___ às oito da noite, então precisamos chegar antes.",
+      "options": ["acaba", "parece", "encontra", "começa"],
+      "correct": 3,
+      "explanation": "'Precisamos chegar antes' (нам нужно прийти заранее) имеет смысл только если шоу НАЧИНАЕТСЯ в это время — приходят до начала, а не до конца. 'Acaba às oito' = заканчивается в восемь, но тогда «прийти заранее» не имеет смысла. 'Parece às oito' и 'encontra às oito' — грамматически неверно в данном предложении."
+    },
+    {
+      "prompt": "Выберите глагол, подходящий по смыслу.",
+      "sentence": "A bateria do celular ___ no meio da chamada.",
+      "options": ["começou", "acabou", "mudou", "tentou"],
+      "correct": 1,
+      "explanation": "'A bateria acabou' = батарея разрядилась — устойчивое и естественное выражение в бразильском португальском. 'Começou no meio da chamada' = начала во время звонка (не имеет смысла: батарея уже работала до звонка). 'Mudou' = изменилась (батареи не «меняются» в этом смысле). 'Tentou' = попробовала (батареи не могут «пробовать»)."
+    },
+    {
+      "prompt": "Какой глагол дополняет это предложение?",
+      "sentence": "Eles combinaram de ___ no bar depois do trabalho.",
+      "options": ["se encontrar", "se lembrar", "se sentir", "se esquecer"],
+      "correct": 0,
+      "explanation": "'Combinar de se encontrar' = договориться о встрече — естественное выражение при планировании встречи. 'Combinar de se lembrar' = договориться помнить друг о друге — странно и нетипично. 'Se sentir' = чувствовать друг друга (не имеет смысла как план). 'Se esquecer' = забыть друг друга (противоположность встрече)."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "Você ___ inglês? Preciso de ajuda com esse contrato.",
+      "options": ["aprende", "lembra", "entende", "esquece"],
+      "correct": 2,
+      "explanation": "'Entender inglês' = понимать/знать английский язык — вопрос о том, может ли собеседник помочь прямо сейчас. 'Você aprende inglês?' = вы учите английский? (о текущем процессе обучения, а не о способности помочь). 'Você lembra inglês?' = вы помните английский? (неестественная конструкция в португальском). 'Você esquece inglês?' = вы забываете английский? (не имеет смысла как просьба о помощи)."
+    },
+    {
+      "prompt": "Выберите подходящий глагол.",
+      "sentence": "Ela ___ de novo, mas não conseguiu abrir a porta.",
+      "options": ["começou", "tentou", "escolheu", "acreditou"],
+      "correct": 1,
+      "explanation": "'Tentar de novo' = попробовать снова после неудачной попытки. 'Não conseguiu' (не смогла) подтверждает, что попытка провалилась. 'Começou de novo' = начала снова (не подходит к контексту открывания двери). 'Escolheu de novo' = выбрала снова (не связано с открыванием двери). 'Acreditou de novo' = поверила снова (не связано с открыванием двери)."
+    },
+    {
+      "prompt": "Какой глагол дополняет это предложение?",
+      "sentence": "Esse cheiro me ___ da casa da minha avó.",
+      "options": ["sente", "parece", "acredita", "lembra"],
+      "correct": 3,
+      "explanation": "'Lembrar alguém de algo' = напоминать кому-то о чём-то, вызывать воспоминание. 'Esse cheiro me lembra da casa da minha avó' = этот запах напоминает мне бабушкин дом. 'Me sente da casa' — грамматически неверно. 'Me parece da casa' — нестандартная конструкция. 'Me acredita da casa' — грамматически неверно."
+    }
+  ]
+}

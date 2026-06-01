@@ -1,0 +1,31 @@
+[
+  { "id": "lesson-04-en", "title": "Prepositions", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-04-ru", "title": "Предлоги", "type": "fill_gap", "lang": "ru" },
+  { "id": "lesson-05-en", "title": "Connectors (Linking Ideas)", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-05-ru", "title": "Союзы (связь идей)", "type": "fill_gap", "lang": "ru" },
+  { "id": "lesson-14-en", "title": "Prepositions & Connectors", "type": "word_blocks", "lang": "en" },
+  { "id": "lesson-14-ru", "title": "Предлоги и союзы", "type": "word_blocks", "lang": "ru" },
+
+  { "id": "lesson-07-en", "title": "Essential Verbs: Translation", "type": "multiple_choice", "lang": "en" },
+  { "id": "lesson-07-ru", "title": "Ключевые глаголы: перевод", "type": "multiple_choice", "lang": "ru" },
+  { "id": "lesson-06-en", "title": "Verb Group 1: Existence & Possession", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-06-ru", "title": "Группа глаголов 1: Существование и обладание", "type": "fill_gap", "lang": "ru" },  
+  { "id": "lesson-10-en", "title": "Verb Group 2: Core Actions", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-10-ru", "title": "Группа глаголов 2: Ключевые действия", "type": "fill_gap", "lang": "ru" },  
+  { "id": "lesson-12-en", "title": "Verb Groups 1 & 2: Sentence Practice", "type": "word_blocks", "lang": "en" },
+  { "id": "lesson-12-ru", "title": "Группы глаголов 1 и 2: составление предложений", "type": "word_blocks", "lang": "ru" },
+
+  { "id": "lesson-16-en", "title": "Verb Group 3: Movement & Life Management — Translation", "type": "multiple_choice", "lang": "en" },
+  { "id": "lesson-16-ru", "title": "Группа глаголов 3: Движение и управление жизнью — перевод", "type": "multiple_choice", "lang": "ru" },
+  { "id": "lesson-08-en", "title": "Verb Group 3: Movement & Life Management", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-08-ru", "title": "Группа глаголов 3: Движение и управление жизнью", "type": "fill_gap", "lang": "ru" },
+  { "id": "lesson-15-en", "title": "Verb Group 3: Movement & Life Management — Sentence Practice", "type": "word_blocks", "lang": "en" },
+  { "id": "lesson-15-ru", "title": "Группа глаголов 3: Движение и управление жизнью — составление предложений", "type": "word_blocks", "lang": "ru" },
+
+  { "id": "lesson-09-en", "title": "Verb Group 4: Thinking, Feeling & Communication: Translation", "type": "multiple_choice", "lang": "en" },
+  { "id": "lesson-09-ru", "title": "Группа глаголов 4: Мышление, чувства и общение: перевод", "type": "multiple_choice", "lang": "ru" },  
+  { "id": "lesson-11-en", "title": "Verb Group 4: Thinking, Feeling & Communication", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-11-ru", "title": "Группа глаголов 4: Мышление, чувства и общение", "type": "fill_gap", "lang": "ru" },
+  { "id": "lesson-13-en", "title": "Verb Group 4: Thinking, Feeling & Communication — Sentence Practice", "type": "word_blocks", "lang": "en" },
+  { "id": "lesson-13-ru", "title": "Группа глаголов 4: Мышление, чувства и общение — составление предложений", "type": "word_blocks", "lang": "ru" }
+]

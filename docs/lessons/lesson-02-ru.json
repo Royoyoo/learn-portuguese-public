@@ -1,0 +1,23 @@
+{
+  "id": "lesson-02-ru",
+  "title": "Базовые фразы",
+  "type": "word_blocks",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Доброе утро!",
+      "answer": "Bom dia!",
+      "distractors": ["Boa", "noite", "tarde"]
+    },
+    {
+      "prompt": "Большое спасибо!",
+      "answer": "Muito obrigado!",
+      "distractors": ["Por", "favor", "desculpa"]
+    },
+    {
+      "prompt": "Как дела?",
+      "answer": "Como vai?",
+      "distractors": ["Onde", "esta", "bem"]
+    }
+  ]
+}

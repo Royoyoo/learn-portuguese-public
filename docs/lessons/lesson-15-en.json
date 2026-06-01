@@ -1,0 +1,158 @@
+{
+  "id": "lesson-15-en",
+  "title": "Verb Group 3: Movement & Life Management (21–35) — Word Blocks",
+  "type": "word_blocks",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "I work from Monday to Friday.",
+      "answer": "Eu trabalho de segunda a sexta.",
+      "distractors": ["moro", "chego", "saio"]
+    },
+    {
+      "prompt": "She works at night.",
+      "answer": "Ela trabalha à noite.",
+      "distractors": ["mora", "chega", "sai"]
+    },
+    {
+      "prompt": "We live far from downtown.",
+      "answer": "Nós moramos longe do centro.",
+      "distractors": ["chegamos", "levamos", "pedimos"]
+    },
+    {
+      "prompt": "Do you live in this neighborhood?",
+      "answer": "Você mora neste bairro?",
+      "distractors": ["trabalha", "espera", "chega"]
+    },
+    {
+      "prompt": "I go out at night with my friends.",
+      "answer": "Eu saio à noite com meus amigos.",
+      "distractors": ["moro", "olho", "fecho"]
+    },
+    {
+      "prompt": "He always leaves after ten.",
+      "answer": "Ele sempre sai depois das dez.",
+      "distractors": ["chega", "trabalha", "leva"]
+    },
+    {
+      "prompt": "She arrived at the airport early.",
+      "answer": "Ela chegou no aeroporto cedo.",
+      "distractors": ["saiu", "morou", "pediu"]
+    },
+    {
+      "prompt": "What time does the train arrive?",
+      "answer": "A que horas o trem chega?",
+      "distractors": ["sai", "para", "abre"]
+    },
+    {
+      "prompt": "Wait for me at the entrance.",
+      "answer": "Me espera na entrada.",
+      "distractors": ["Ajuda", "Manda", "Leva"]
+    },
+    {
+      "prompt": "We hope to see you soon.",
+      "answer": "Esperamos te ver em breve.",
+      "distractors": ["Mandamos", "Levamos", "Ajudamos"]
+    },
+    {
+      "prompt": "She takes her son to the doctor.",
+      "answer": "Ela leva o filho ao médico.",
+      "distractors": ["manda", "pede", "fecha"]
+    },
+    {
+      "prompt": "Take this letter to the principal.",
+      "answer": "Leve esta carta para a diretora.",
+      "distractors": ["Abra", "Feche", "Mande"]
+    },
+    {
+      "prompt": "Bring your planner to the meeting.",
+      "answer": "Traga sua agenda para a reunião.",
+      "distractors": ["Leve", "Mande", "Abra"]
+    },
+    {
+      "prompt": "Can you bring me a glass of water?",
+      "answer": "Você pode me trazer um copo de água?",
+      "distractors": ["levar", "mandar", "pedir"]
+    },
+    {
+      "prompt": "Can you open this jar for me?",
+      "answer": "Você pode abrir este pote para mim?",
+      "distractors": ["fechar", "levar", "mandar"]
+    },
+    {
+      "prompt": "The pharmacy opens at eight.",
+      "answer": "A farmácia abre às oito.",
+      "distractors": ["fecha", "chega", "sai"]
+    },
+    {
+      "prompt": "Close the refrigerator door.",
+      "answer": "Feche a porta da geladeira.",
+      "distractors": ["Abra", "Mande", "Leve"]
+    },
+    {
+      "prompt": "The mall closes at ten at night.",
+      "answer": "O shopping fecha às dez da noite.",
+      "distractors": ["abre", "sai", "chega"]
+    },
+    {
+      "prompt": "I'll call you tomorrow morning.",
+      "answer": "Vou te ligar amanhã de manhã.",
+      "distractors": ["mandar", "pedir", "levar"]
+    },
+    {
+      "prompt": "Turn on the fan, it's hot.",
+      "answer": "Liga o ventilador, está quente.",
+      "distractors": ["Fecha", "Leva", "Traz"]
+    },
+    {
+      "prompt": "Send me your address.",
+      "answer": "Me manda o seu endereço.",
+      "distractors": ["pede", "leva", "olha"]
+    },
+    {
+      "prompt": "Did you send the email?",
+      "answer": "Você mandou o e-mail?",
+      "distractors": ["abriu", "fechou", "perdeu"]
+    },
+    {
+      "prompt": "Can I order a coffee?",
+      "answer": "Posso pedir um café?",
+      "distractors": ["trazer", "perguntar", "mandar"]
+    },
+    {
+      "prompt": "She asked for more time.",
+      "answer": "Ela pediu mais tempo.",
+      "distractors": ["perguntou", "mandou", "trouxe"]
+    },
+    {
+      "prompt": "He asked where the office is.",
+      "answer": "Ele perguntou onde fica o escritório.",
+      "distractors": ["pediu", "mandou", "levou"]
+    },
+    {
+      "prompt": "Ask the teacher when the test is.",
+      "answer": "Pergunta à professora quando é a prova.",
+      "distractors": ["Pede", "Manda", "Leva"]
+    },
+    {
+      "prompt": "Can you help me carry this box?",
+      "answer": "Você pode me ajudar a carregar esta caixa?",
+      "distractors": ["levar", "mandar", "pedir"]
+    },
+    {
+      "prompt": "I always try to help my family.",
+      "answer": "Eu sempre tento ajudar minha família.",
+      "distractors": ["trazer", "mandar", "perguntar"]
+    },
+    {
+      "prompt": "Look at that building over there!",
+      "answer": "Olha aquele prédio ali!",
+      "distractors": ["Vê", "Chega", "Leva"]
+    },
+    {
+      "prompt": "She looked at the map carefully.",
+      "answer": "Ela olhou o mapa com cuidado.",
+      "distractors": ["pediu", "trouxe", "mandou"]
+    }
+  ]
+}

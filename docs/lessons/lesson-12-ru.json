@@ -1,0 +1,158 @@
+{
+  "id": "lesson-12-ru",
+  "title": "Группы глаголов 1 и 2: составление предложений",
+  "type": "word_blocks",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Он врач.",
+      "answer": "Ele é médico.",
+      "distractors": ["são", "somos", "estava"]
+    },
+    {
+      "prompt": "Сегодня среда.",
+      "answer": "Hoje é quarta-feira.",
+      "distractors": ["são", "estamos", "fica"]
+    },
+    {
+      "prompt": "Сегодня она больна.",
+      "answer": "Ela está doente hoje.",
+      "distractors": ["estão", "estou", "são"]
+    },
+    {
+      "prompt": "Книга на столе.",
+      "answer": "O livro está na mesa.",
+      "distractors": ["estão", "sou", "ficou"]
+    },
+    {
+      "prompt": "У вас есть ручка?",
+      "answer": "Você tem uma caneta?",
+      "distractors": ["têm", "tenho", "carro"]
+    },
+    {
+      "prompt": "У неё трое детей.",
+      "answer": "Ela tem três filhos.",
+      "distractors": ["têm", "tenho", "irmãos"]
+    },
+    {
+      "prompt": "Аптека находится рядом с банком.",
+      "answer": "A farmácia fica ao lado do banco.",
+      "distractors": ["ficam", "fiquei", "embaixo"]
+    },
+    {
+      "prompt": "Он стал очень нервным.",
+      "answer": "Ele ficou muito nervoso.",
+      "distractors": ["ficaram", "fiquei", "triste"]
+    },
+    {
+      "prompt": "Есть много вариантов.",
+      "answer": "Há muitas opções.",
+      "distractors": ["Havia", "Houve", "poucas"]
+    },
+    {
+      "prompt": "В системе есть ошибка.",
+      "answer": "Há um erro no sistema.",
+      "distractors": ["Havia", "Houve", "uma"]
+    },
+    {
+      "prompt": "Хотите кофе?",
+      "answer": "Você quer café?",
+      "distractors": ["querem", "quero", "chá"]
+    },
+    {
+      "prompt": "Я иду на пляж.",
+      "answer": "Vou à praia.",
+      "distractors": ["Vai", "Vamos", "ao"]
+    },
+    {
+      "prompt": "Она собирается учиться.",
+      "answer": "Ela vai estudar.",
+      "distractors": ["vão", "vou", "trabalhar"]
+    },
+    {
+      "prompt": "Чем вы занимаетесь?",
+      "answer": "O que você faz?",
+      "distractors": ["fazem", "faço", "fez"]
+    },
+    {
+      "prompt": "Я делаю домашнее задание каждый день.",
+      "answer": "Eu faço minha tarefa todo dia.",
+      "distractors": ["faz", "fazem", "escola"]
+    },
+    {
+      "prompt": "Можно здесь сесть?",
+      "answer": "Posso sentar aqui?",
+      "distractors": ["Pode", "Podemos", "ali"]
+    },
+    {
+      "prompt": "Вы говорите по-португальски?",
+      "answer": "Você fala português?",
+      "distractors": ["falam", "falo", "espanhol"]
+    },
+    {
+      "prompt": "Она говорит очень хорошо.",
+      "answer": "Ela fala muito bem.",
+      "distractors": ["falam", "falo", "mal"]
+    },
+    {
+      "prompt": "Я не знаю.",
+      "answer": "Não sei.",
+      "distractors": ["sabe", "sabemos", "conheço"]
+    },
+    {
+      "prompt": "Я знаю Рио-де-Жанейро.",
+      "answer": "Conheço o Rio de Janeiro.",
+      "distractors": ["Conhecem", "Sei", "visitar"]
+    },
+    {
+      "prompt": "Обними меня!",
+      "answer": "Me dá um abraço!",
+      "distractors": ["dão", "dou", "beijo"]
+    },
+    {
+      "prompt": "Мне нужна помощь.",
+      "answer": "Preciso de ajuda.",
+      "distractors": ["Precisa", "Precisamos", "trabalho"]
+    },
+    {
+      "prompt": "Ей нужно такси.",
+      "answer": "Ela precisa de um táxi.",
+      "distractors": ["precisam", "preciso", "ônibus"]
+    },
+    {
+      "prompt": "Я люблю музыку.",
+      "answer": "Gosto de música.",
+      "distractors": ["Gosta", "Gostamos", "cinema"]
+    },
+    {
+      "prompt": "Вам нравится бразильская кухня?",
+      "answer": "Você gosta de comida brasileira?",
+      "distractors": ["gostam", "gosto", "italiana"]
+    },
+    {
+      "prompt": "Иди сюда!",
+      "answer": "Vem cá!",
+      "distractors": ["Vão", "Venho", "lá"]
+    },
+    {
+      "prompt": "Пойдём поедим?",
+      "answer": "Vamos comer?",
+      "distractors": ["vou", "vai", "beber"]
+    },
+    {
+      "prompt": "Я пью кофе каждое утро.",
+      "answer": "Tomo café toda manhã.",
+      "distractors": ["Toma", "Tomamos", "chá"]
+    },
+    {
+      "prompt": "Где вы покупаете хлеб?",
+      "answer": "Onde você compra pão?",
+      "distractors": ["compram", "compro", "leite"]
+    },
+    {
+      "prompt": "Я заплачу через Pix.",
+      "answer": "Vou pagar com Pix.",
+      "distractors": ["vão", "vai", "cartão"]
+    }
+  ]
+}

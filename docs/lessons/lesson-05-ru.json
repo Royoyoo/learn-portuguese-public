@@ -1,0 +1,148 @@
+{
+  "id": "lesson-05-ru",
+  "title": "Союзы (связь идей)",
+  "type": "fill_gap",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Eu como arroz ___ feijão todos os dias.",
+      "options": ["e", "mas", "então", "porque"],
+      "correct": 0,
+      "explanation": "'E' (и) объединяет два существительных в перечислении. 'Mas' требует после себя полного противительного предложения — он не может связывать два отдельных существительных."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Ele queria dormir, ___ o bebê começou a chorar.",
+      "options": ["mas", "porque", "então", "se"],
+      "correct": 0,
+      "explanation": "'Mas' (но) выражает контраст или неожиданный поворот. Плач ребёнка мешает сну, а не вызывает желание поспать — 'porque' здесь нелогичен. 'Então' ошибочно подразумевал бы, что желание поспать заставило ребёнка заплакать."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Esse produto é azul ___ verde?",
+      "options": ["ou", "mas", "porque", "então"],
+      "correct": 0,
+      "explanation": "'Ou' (или) предлагает два варианта. 'Mas', 'porque' и 'então' требуют после себя глагольного предложения — они не могут связывать два прилагательных как альтернативы в вопросе."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Ela não veio à festa ___ estava doente.",
+      "options": ["porque", "mas", "então", "também"],
+      "correct": 0,
+      "explanation": "'Porque' (потому что) вводит причину отсутствия. 'Mas' означало бы, что она не пришла несмотря на болезнь — обратная логика."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "___ você está triste?",
+      "options": ["Por que", "Porque", "Já", "Se"],
+      "correct": 0,
+      "explanation": "'Por que' (два слова) задаёт вопрос «почему» в прямом вопросе. 'Porque' (одно слово) означает «потому что» — это ответ на вопрос, а не его начало."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Ela terminou cedo, ___ pôde descansar.",
+      "options": ["então", "mas", "porque", "se"],
+      "correct": 0,
+      "explanation": "'Então' (поэтому) обозначает закономерный результат раннего завершения. 'Mas' означало бы, что отдых был неожиданным — но он вполне логичен, когда заканчиваешь рано."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Ele nasceu ___ a guerra acabou.",
+      "options": ["quando", "então", "porque", "mas"],
+      "correct": 0,
+      "explanation": "'Quando' (когда) связывает два события, происходящих в одно время. 'Então' ошибочно подразумевал бы, что его рождение положило конец войне."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "___ eu fosse rico, compraria uma casa na praia.",
+      "options": ["Se", "Quando", "Mas", "Porque"],
+      "correct": 0,
+      "explanation": "'Se' (если) вводит контрфактическое условие и сочетается с сослагательным наклонением прошедшего времени 'fosse'. 'Quando' требует сослагательного будущего 'for', а не 'fosse' — поэтому 'quando eu fosse' грамматически невозможно в этом шаблоне."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Eu acho ___ você tem razão.",
+      "options": ["que", "se", "mas", "quando"],
+      "correct": 0,
+      "explanation": "'Que' (что) вводит придаточное дополнительное предложение после глагола мнения 'achar'. 'Se' превратило бы его в косвенный вопрос, полностью изменив смысл."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "___ que você está aqui, pode me ajudar?",
+      "options": ["Já", "Mas", "Então", "Ou"],
+      "correct": 0,
+      "explanation": "'Já que' — устойчивое двухсловное выражение, означающее «раз уж» или «поскольку». Ни один из других вариантов не образует корректного союза с 'que' в этой позиции."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Mesmo depois de dois anos, ela ___ sente saudade do Brasil.",
+      "options": ["ainda", "já", "também", "mas"],
+      "correct": 0,
+      "explanation": "'Ainda' (всё ещё) выражает продолжение чувства во времени. Фраза 'mesmo depois de dois anos' подчёркивает длительность — 'já' (уже) противоречит этому, подразумевая, что чувство новое."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Eu falo inglês e ___ falo espanhol.",
+      "options": ["também", "ainda", "já", "mas"],
+      "correct": 0,
+      "explanation": "'Também' (тоже/также) добавляет однородный факт. 'Ainda' и 'já' привносят ненужный временной оттенок; 'mas' противоречит союзу 'e', уже стоящему в предложении."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "O mercado vende frutas, legumes ___ carnes.",
+      "options": ["e", "mas", "então", "porque"],
+      "correct": 0,
+      "explanation": "'E' (и) соединяет элементы перечисления. 'Mas', 'então' и 'porque' требуют после себя глагольного предложения — они не могут связывать существительные в списке."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Quero ir à praia, ___ preciso trabalhar.",
+      "options": ["mas", "então", "porque", "se"],
+      "correct": 0,
+      "explanation": "'Mas' (но) выражает противопоставление: желание поехать на пляж вступает в конфликт с необходимостью работать. 'Então' ошибочно подразумевал бы, что желание поехать стало причиной рабочей обязанности."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Podemos ir de táxi ___ de Uber.",
+      "options": ["ou", "mas", "porque", "então"],
+      "correct": 0,
+      "explanation": "'Ou' (или) предлагает два варианта передвижения. 'Mas', 'porque' и 'então' требуют полного глагольного предложения — они не могут связывать два предложных оборота как альтернативы."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Fui ao médico ___ estava com muita febre.",
+      "options": ["porque", "mas", "então", "também"],
+      "correct": 0,
+      "explanation": "'Porque' (потому что) объясняет причину визита к врачу. 'Então' перевернул бы логику, подразумевая, что визит вызвал жар."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Estava com fome, ___ pedi uma pizza.",
+      "options": ["então", "mas", "porque", "se"],
+      "correct": 0,
+      "explanation": "'Então' (поэтому) обозначает закономерное следствие голода. 'Mas' подразумевал бы, что заказ пиццы — неожиданный контраст с голодом, что лишено смысла."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Fico nervoso ___ tenho que falar em público.",
+      "options": ["quando", "mas", "então", "também"],
+      "correct": 0,
+      "explanation": "'Quando' (когда) связывает повторяющееся условие с привычной эмоциональной реакцией. 'Então' подразумевал бы, что нервозность является причиной необходимости выступать — обратная логика."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "Não sei ___ o voo vai atrasar.",
+      "options": ["se", "que", "porque", "mas"],
+      "correct": 0,
+      "explanation": "'Se' (ли/если) вводит косвенный вопрос типа «да/нет» после глагола 'saber'. 'Que' вводит утвердительное дополнительное предложение — 'não sei que o voo vai atrasar' не является нормой португальского в данной конструкции."
+    },
+    {
+      "prompt": "Выберите правильный союз.",
+      "sentence": "É importante ___ você estude todos os dias.",
+      "options": ["que", "se", "mas", "quando"],
+      "correct": 0,
+      "explanation": "'Que' вводит придаточное в сослагательном наклонении после безличных выражений типа 'é importante'. 'Se' образовало бы условное придаточное, а не дополнительное."
+    }
+  ]
+}

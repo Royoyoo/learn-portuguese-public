@@ -1,0 +1,128 @@
+{
+  "id": "lesson-07-en",
+  "title": "Essential Verbs 1–20: Translation",
+  "type": "multiple_choice",
+  "lang": "en",
+  "exercises": [
+    {
+      "question": "What is the Portuguese verb for 'to be' when describing permanent traits like nationality or profession?",
+      "options": ["estar", "ficar", "ser", "ter"],
+      "correct": 2,
+      "explanation": "'Ser' covers permanent identity: 'Sou americano' (I'm American), 'Ela é médica' (She's a doctor)."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to be' when describing temporary states, moods, or locations?",
+      "options": ["estar", "ser", "ficar", "ter"],
+      "correct": 0,
+      "explanation": "'Estar' covers temporary states: 'Estou em casa' (I'm at home). In casual speech the contracted forms are 'tô / tá'."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to have'? (It also means 'there is' in spoken Brazilian Portuguese.)",
+      "options": ["dar", "ter", "fazer", "tomar"],
+      "correct": 1,
+      "explanation": "'Ter' is the highest-frequency verb. 'Tem Wi-Fi aqui?' means both 'Have you got Wi-Fi?' and 'Is there Wi-Fi here?'"
+    },
+    {
+      "question": "Which Portuguese verb expresses 'to stay', 'to remain', and 'to become' — all three with one word?",
+      "options": ["estar", "ir", "saber", "ficar"],
+      "correct": 3,
+      "explanation": "'Ficar' is very versatile: 'Fica aqui' (Stay here), 'Ficou feliz' (Became happy), 'Ficou bom' (Turned out good)."
+    },
+    {
+      "question": "In the formal phrase 'Há muitas opções' (There are many options), which verb does 'há' come from?",
+      "options": ["ter", "ser", "estar", "haver"],
+      "correct": 3,
+      "explanation": "'Haver' (há) means 'there is/are' in formal and written Brazilian Portuguese. In everyday speech, Brazilians use 'tem' instead."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to want'?",
+      "options": ["gostar", "precisar", "querer", "poder"],
+      "correct": 2,
+      "explanation": "'Querer' is direct: 'Quer café?' (Want coffee?). For a softer tone, use 'queria' (I'd like)."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to go'? (It also forms the spoken future tense.)",
+      "options": ["vir", "ir", "saber", "fazer"],
+      "correct": 1,
+      "explanation": "'Ir' = to go and the spoken future: 'Vou sair' = I'm going to leave. 'Vou / vai' are the most common forms."
+    },
+    {
+      "question": "What is the Portuguese verb for both 'to do' and 'to make'?",
+      "options": ["tomar", "dar", "comprar", "fazer"],
+      "correct": 3,
+      "explanation": "'Fazer' covers both: 'O que você faz?' (What do you do?). Also used for weather: 'Faz frio' (It's cold)."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to be able to' or 'can'?",
+      "options": ["querer", "saber", "precisar", "poder"],
+      "correct": 3,
+      "explanation": "'Pode' alone means 'sure / OK'. 'Não pode' means 'not allowed'. Incredibly common in daily speech."
+    },
+    {
+      "question": "In Brazil, which single verb covers all three meanings: 'to speak', 'to say', and 'to tell'?",
+      "options": ["saber", "falar", "conhecer", "fazer"],
+      "correct": 1,
+      "explanation": "'Falar' is one verb for all three: 'Fala português?' (Do you speak Portuguese?), 'Fala sério!' (Are you serious?)"
+    },
+    {
+      "question": "What is the Portuguese verb for 'to know' a fact or how to do something?",
+      "options": ["saber", "conhecer", "poder", "falar"],
+      "correct": 0,
+      "explanation": "'Saber' = know a fact or skill: 'Não sei' (I don't know). 'Sei nadar' = I know how to swim."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to know' a person or place — to be acquainted with?",
+      "options": ["saber", "falar", "gostar", "conhecer"],
+      "correct": 3,
+      "explanation": "'Conhecer' = be acquainted with: 'Conheço o Rio' (I know / have been to Rio). Test: replace 'know' with 'am familiar with' → use conhecer."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to give'?",
+      "options": ["tomar", "dar", "pagar", "comprar"],
+      "correct": 1,
+      "explanation": "'Dar' also appears in 'Dá pra fazer' (It's doable) and 'Me dá um café' (Give me a coffee)."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to need'?",
+      "options": ["querer", "gostar", "poder", "precisar"],
+      "correct": 3,
+      "explanation": "'Precisar' takes 'de': 'Preciso de ajuda' (I need help). Note: querer = to want, poder = can — both differ from needing."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to like' — to enjoy something?",
+      "options": ["querer", "fazer", "gostar", "tomar"],
+      "correct": 2,
+      "explanation": "'Gostar' always takes 'de': 'Gosto de música' (I like music). Never say 'gosto música'."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to come'?",
+      "options": ["ir", "ficar", "saber", "vir"],
+      "correct": 3,
+      "explanation": "'Vir' = to come, the opposite of 'ir' (to go): 'Vem cá!' (Come here!). 'De onde você vem?' (Where do you come from?)"
+    },
+    {
+      "question": "What is the Portuguese verb for 'to eat'?",
+      "options": ["tomar", "fazer", "comprar", "comer"],
+      "correct": 3,
+      "explanation": "'Comer' is a regular -er verb: 'Vamos comer?' (Shall we eat?) — a very common invite in Brazil."
+    },
+    {
+      "question": "Which Portuguese verb covers drinking coffee, taking a shower, taking medicine, and sunbathing — all in one word?",
+      "options": ["comer", "comprar", "pagar", "tomar"],
+      "correct": 3,
+      "explanation": "'Tomar' is a Swiss Army verb: tomar café (drink coffee), tomar banho (shower), tomar remédio (take medicine), tomar sol (sunbathe)."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to buy'?",
+      "options": ["pagar", "dar", "ter", "comprar"],
+      "correct": 3,
+      "explanation": "'Comprar' is a regular -ar verb: 'Onde compra isso?' (Where do you buy this?)"
+    },
+    {
+      "question": "What is the Portuguese verb for 'to pay'?",
+      "options": ["comprar", "dar", "tomar", "pagar"],
+      "correct": 3,
+      "explanation": "'Pagar' is a regular -ar verb: 'Vou pagar com Pix' (I'll pay with Pix)."
+    }
+  ]
+}

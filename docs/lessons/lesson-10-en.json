@@ -1,0 +1,148 @@
+{
+  "id": "lesson-10-en",
+  "title": "Verb Group 2: Core Actions (6–20)",
+  "type": "fill_gap",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "Choose the verb that expresses wanting or requesting.",
+      "sentence": "Eu ___ uma mesa para dois às oito da noite.",
+      "options": ["quero", "vou", "faço", "sei"],
+      "correct": 0,
+      "explanation": "'Quero' expresses wanting or requesting something. 'Vou' = I'm going (movement or future auxiliary — needs another verb after it). 'Faço' = I make (would mean I'm building a table, not booking one). 'Sei' = I know (different meaning entirely)."
+    },
+    {
+      "prompt": "Select the verb that means 'to go'.",
+      "sentence": "Neste fim de semana, eu ___ à praia com minha família.",
+      "options": ["vou", "venho", "como", "pago"],
+      "correct": 0,
+      "explanation": "'Vou' expresses going to a place. 'Venho' = I come (direction toward the speaker — opposite of going away). 'Como' = I eat (a different action). 'Pago' = I pay (a different action)."
+    },
+    {
+      "prompt": "Select the verb used in weather expressions.",
+      "sentence": "Quando ___ frio, a Ana sempre bebe chá quente.",
+      "options": ["faz", "dá", "vem", "quer"],
+      "correct": 0,
+      "explanation": "'Faz frio' is the fixed expression for 'it's cold' — weather expressions in Portuguese use fazer. 'Dá frio' is not a standard weather construction. 'Vem frio' = the cold is coming (unusual and literal). 'Quer frio' = the cold wants something (absurd)."
+    },
+    {
+      "prompt": "Choose the verb that expresses permission or prohibition.",
+      "sentence": "O médico disse que eu não ___ comer gordura por dois meses.",
+      "options": ["posso", "quero", "sei", "venho"],
+      "correct": 0,
+      "explanation": "'Posso' expresses prohibition: the doctor said I'm not allowed to eat fat. 'Quero' = I want — changes the meaning to 'the doctor said I don't want to eat fat', describing desire rather than a medical restriction. 'Sei comer' = I know how to eat (irrelevant here). 'Venho comer' = I come to eat (wrong action)."
+    },
+    {
+      "prompt": "Which verb means 'to speak' or 'to say'?",
+      "sentence": "O professor ___ devagar para os alunos entenderem melhor.",
+      "options": ["fala", "dá", "vem", "paga"],
+      "correct": 0,
+      "explanation": "'Fala' = speaks (the teacher speaks slowly). 'Dá' = gives (you give objects, not a speech style). 'Vem devagar' = comes slowly (movement, not communication). 'Paga devagar' = pays slowly (financial action, not speech)."
+    },
+    {
+      "prompt": "Choose the verb for knowing a fact or piece of information.",
+      "sentence": "Eu não ___ onde fica a farmácia mais próxima.",
+      "options": ["sei", "conheço", "posso", "vou"],
+      "correct": 0,
+      "explanation": "'Sei' = know (a fact). 'Conheço' = know by acquaintance — 'conhecer' takes a place or person as a direct object, not an indirect question like 'onde fica'. 'Posso' = I can (ability, not knowledge). 'Vou' = I go (movement, not knowledge)."
+    },
+    {
+      "prompt": "Select the verb for knowing a place by personal acquaintance.",
+      "sentence": "Você ___ o novo restaurante japonês que abriu no centro?",
+      "options": ["conhece", "sabe", "toma", "paga"],
+      "correct": 0,
+      "explanation": "'Conhece' = know / have been to (a place by experience). 'Sabe' = know a fact — 'saber' cannot take a place as a direct object; 'você sabe o restaurante' is grammatically wrong. 'Toma' = takes/drinks (different action). 'Paga' = pays (different action)."
+    },
+    {
+      "prompt": "Choose the verb that completes this fixed expression.",
+      "sentence": "Ela ___ um abraço na avó toda vez que a visita.",
+      "options": ["dá", "faz", "compra", "quer"],
+      "correct": 0,
+      "explanation": "'Dar um abraço' is the fixed expression for 'to give a hug'. 'Faz um abraço' is not used in Portuguese. 'Compra um abraço' = buys a hug (absurd). 'Quer um abraço' = wants a hug — expresses desire, not the act of hugging that happens on every visit."
+    },
+    {
+      "prompt": "Select the verb that expresses need or necessity.",
+      "sentence": "Eu ___ de ajuda para montar esse móvel — é muito complicado.",
+      "options": ["preciso", "quero", "gosto", "sei"],
+      "correct": 0,
+      "explanation": "'Preciso de' = I need (always followed by 'de'). 'Quero' doesn't take 'de' before a noun — 'quero de ajuda' is grammatically wrong; the correct form is 'quero ajuda'. 'Gosto de ajuda' = I like help (general preference, not necessity). 'Sei de ajuda' is not a natural construction."
+    },
+    {
+      "prompt": "Which verb means 'to like' and always requires 'de'?",
+      "sentence": "Eu não ___ de filmes de terror — prefiro comédia.",
+      "options": ["gosto", "sei", "venho", "faço"],
+      "correct": 0,
+      "explanation": "'Gosto de' = I like (always requires 'de'). 'Sei de filmes' is not natural Portuguese. 'Venho de filmes' = I come from movies (wrong). Substituting 'faço' gives 'I don't make horror movies', which makes no sense alongside 'I prefer comedy'."
+    },
+    {
+      "prompt": "Choose the verb that asks about origin or direction toward the speaker.",
+      "sentence": "De onde você ___ — do Rio, de São Paulo ou de outro estado?",
+      "options": ["vem", "vai", "sabe", "quer"],
+      "correct": 0,
+      "explanation": "'Vem' asks about origin — where you come from. 'Vai' = go — 'de onde você vai?' means 'where are you going?' (destination), not origin. 'De onde você sabe?' is ungrammatical. 'De onde você quer?' is ungrammatical."
+    },
+    {
+      "prompt": "Select the verb for consuming solid food.",
+      "sentence": "Todo dia de manhã, eu ___ uma fruta antes de sair de casa.",
+      "options": ["como", "tomo", "pago", "compro"],
+      "correct": 0,
+      "explanation": "'Como' = eat (correct for solid food). 'Tomo' = take/drink — 'tomar' is for drinks, medicine, showers, and sun, not solid fruit. 'Pago uma fruta' = pay a fruit (financial action). 'Compro uma fruta' = buy a fruit (purchasing, not eating)."
+    },
+    {
+      "prompt": "Choose the verb used in this fixed expression.",
+      "sentence": "Ela ___ sol na varanda enquanto lê um livro.",
+      "options": ["toma", "come", "sabe", "conhece"],
+      "correct": 0,
+      "explanation": "'Tomar sol' is the fixed expression for sunbathing and cannot be replaced. 'Come sol' = eats sun (absurd). 'Sabe sol' = knows sun (wrong). 'Conhece sol' = is acquainted with sun (wrong). Only 'tomar' forms this expression."
+    },
+    {
+      "prompt": "Select the verb that means 'to buy'.",
+      "sentence": "Para conseguir um bom preço, eu sempre ___ os eletrônicos no Black Friday.",
+      "options": ["compro", "vou", "sei", "venho"],
+      "correct": 0,
+      "explanation": "'Compro' = buy (purchasing goods). 'Vou os eletrônicos' is wrong — 'ir' needs a preposition before a place, not a direct object. 'Sei os eletrônicos' = I know the electronics (wrong syntax). 'Venho os eletrônicos' is wrong for the same reason as 'vou'."
+    },
+    {
+      "prompt": "Choose the verb that means 'to pay'.",
+      "sentence": "Você ___ a conta com Pix ou no cartão?",
+      "options": ["paga", "dá", "compra", "quer"],
+      "correct": 0,
+      "explanation": "'Paga a conta' = pays the bill. 'Dá a conta' = gives/hands the bill to someone — and 'dá com Pix' is not a natural construction. 'Compra a conta' = buys the bill (absurd). 'Quer a conta' = wants the bill (desire, not payment)."
+    },
+    {
+      "prompt": "Select the verb that expresses wanting when offering a choice.",
+      "sentence": "Você ___ água ou suco de laranja?",
+      "options": ["quer", "come", "sabe", "vem"],
+      "correct": 0,
+      "explanation": "'Quer' = do you want (offering a choice of drinks). 'Come água ou suco' = do you eat water or juice (wrong — liquids are drunk, not eaten). 'Sabe água ou suco' = do you know water or juice (wrong). 'Vem água ou suco' is wrong entirely."
+    },
+    {
+      "prompt": "Choose the verb for a polite request.",
+      "sentence": "Desculpe, você ___ falar mais devagar? Não entendi nada.",
+      "options": ["pode", "quer", "sabe", "vem"],
+      "correct": 0,
+      "explanation": "'Pode falar mais devagar?' = can you speak more slowly? — the standard polite request. 'Quer falar mais devagar?' = do you want to speak slowly? — asking about desire makes no sense when requesting help. 'Sabe falar mais devagar?' = do you know how to speak slowly? — implies they lack the skill, which sounds rude. 'Vem falar' = comes to speak (wrong)."
+    },
+    {
+      "prompt": "Select the verb used in the 'is it possible to' expression.",
+      "sentence": "Esse aplicativo ___ para funcionar sem internet?",
+      "options": ["dá", "faz", "quer", "sabe"],
+      "correct": 0,
+      "explanation": "'Dá para' is the Brazilian expression meaning 'is it possible to / can it'. 'Faz para funcionar' is not standard Portuguese. 'Quer para funcionar' = wants to function (apps don't express wants). 'Sabe para funcionar' = knows to function (wrong construction)."
+    },
+    {
+      "prompt": "Choose the verb for knowing a specific piece of information.",
+      "sentence": "Você ___ quanto custa a passagem de ônibus até o centro?",
+      "options": ["sabe", "conhece", "pode", "quer"],
+      "correct": 0,
+      "explanation": "'Sabe' = know a fact (the price of the ticket). 'Conhece' = know by acquaintance — 'conhecer' cannot take an indirect question like 'quanto custa'; it takes places and people as direct objects. 'Pode' = can (ability, not knowledge). 'Quer' = want (desire, not knowledge)."
+    },
+    {
+      "prompt": "Select the verb that expresses a recipe requirement.",
+      "sentence": "Para fazer essa receita, você ___ de farinha, ovos e açúcar.",
+      "options": ["precisa", "quer", "gosta", "compra"],
+      "correct": 0,
+      "explanation": "'Precisa de' = need (the recipe demands these ingredients). 'Quer' doesn't take 'de' before a noun — 'você quer de farinha' is grammatically wrong (correct form: 'você quer farinha'). 'Gosta de farinha, ovos e açúcar' = you like flour, eggs and sugar (personal preference, not a recipe requirement). 'Compra' = you buy (purchasing action, not a requirement)."
+    }
+  ]
+}

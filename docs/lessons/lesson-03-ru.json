@@ -1,0 +1,29 @@
+{
+  "id": "lesson-03-ru",
+  "title": "Предлоги и глаголы",
+  "type": "fill_gap",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Выберите правильный предлог.",
+      "sentence": "Eu vou ___ mercado.",
+      "options": ["ao", "no", "do", "pelo"],
+      "correct": 0,
+      "explanation": "Ao объединяет a + o и значит «в» или «к»."
+    },
+    {
+      "prompt": "Выберите форму глагола для «я».",
+      "sentence": "Eu ___ cafe de manha.",
+      "options": ["bebe", "bebem", "bebo", "bebemos"],
+      "correct": 2,
+      "explanation": "Bebo — форма первого лица единственного числа от beber."
+    },
+    {
+      "prompt": "Выберите правильный предлог.",
+      "sentence": "Ela mora ___ Brasil.",
+      "options": ["em", "no", "na", "ao", "do", "pelo"],
+      "correct": 1,
+      "explanation": "No объединяет em + o и используется со словом Brasil."
+    }
+  ]
+}

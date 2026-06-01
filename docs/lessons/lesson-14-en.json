@@ -1,0 +1,158 @@
+{
+  "id": "lesson-14-en",
+  "title": "Prepositions & Connectors: Build Sentences",
+  "type": "word_blocks",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "She is from Rio de Janeiro.",
+      "answer": "Ela é do Rio de Janeiro.",
+      "distractors": ["no", "ao", "pelo"]
+    },
+    {
+      "prompt": "He works in the downtown area.",
+      "answer": "Ele trabalha no centro.",
+      "distractors": ["ao", "do", "pelo"]
+    },
+    {
+      "prompt": "They travel to Argentina every year.",
+      "answer": "Eles viajam para a Argentina todo ano.",
+      "distractors": ["na", "da", "pela"]
+    },
+    {
+      "prompt": "She bought the dress for fifty reais.",
+      "answer": "Ela comprou o vestido por cinquenta reais.",
+      "distractors": ["de", "para", "em"]
+    },
+    {
+      "prompt": "He left home with a backpack.",
+      "answer": "Ele saiu de casa com uma mochila.",
+      "distractors": ["sem", "ao", "na"]
+    },
+    {
+      "prompt": "She left without her keys.",
+      "answer": "Ela saiu sem as chaves.",
+      "distractors": ["com", "pelas", "sobre"]
+    },
+    {
+      "prompt": "The meeting starts at nine in the morning.",
+      "answer": "A reunião começa às nove da manhã.",
+      "distractors": ["pelas", "das", "nas"]
+    },
+    {
+      "prompt": "He waited for the doctor for two hours.",
+      "answer": "Ele esperou o médico por duas horas.",
+      "distractors": ["de", "para", "em"]
+    },
+    {
+      "prompt": "The cat hid under the sofa.",
+      "answer": "O gato se escondeu sob o sofá.",
+      "distractors": ["sobre", "no", "ao"]
+    },
+    {
+      "prompt": "The pharmacy is between the school and the bank.",
+      "answer": "A farmácia fica entre a escola e o banco.",
+      "distractors": ["sobre", "sob", "além"]
+    },
+    {
+      "prompt": "The restaurant is open until midnight.",
+      "answer": "O restaurante fica aberto até a meia-noite.",
+      "distractors": ["desde", "das", "pelas"]
+    },
+    {
+      "prompt": "She walked through the forest.",
+      "answer": "Ela caminhou pela floresta.",
+      "distractors": ["na", "à", "da"]
+    },
+    {
+      "prompt": "They went to Paris.",
+      "answer": "Eles foram para Paris.",
+      "distractors": ["de", "em", "por"]
+    },
+    {
+      "prompt": "He studied hard to get the job.",
+      "answer": "Ele estudou muito para conseguir o emprego.",
+      "distractors": ["por", "sem", "de"]
+    },
+    {
+      "prompt": "The table is made of wood.",
+      "answer": "A mesa é de madeira.",
+      "distractors": ["com", "em", "por"]
+    },
+    {
+      "prompt": "I like rice and beans.",
+      "answer": "Eu gosto de arroz e feijão.",
+      "distractors": ["mas", "ou", "porque"]
+    },
+    {
+      "prompt": "He wanted to sleep, but the noise woke him up.",
+      "answer": "Ele queria dormir, mas o barulho o acordou.",
+      "distractors": ["então", "ou", "porque"]
+    },
+    {
+      "prompt": "Is the shirt blue or green?",
+      "answer": "A camisa é azul ou verde?",
+      "distractors": ["e", "mas", "porque"]
+    },
+    {
+      "prompt": "She didn't come to the party because she was sick.",
+      "answer": "Ela não veio à festa porque estava doente.",
+      "distractors": ["mas", "então", "se"]
+    },
+    {
+      "prompt": "It was raining, so we stayed home.",
+      "answer": "Estava chovendo, então ficamos em casa.",
+      "distractors": ["mas", "porque", "ou"]
+    },
+    {
+      "prompt": "When she arrives, call me.",
+      "answer": "Quando ela chegar, me liga.",
+      "distractors": ["se", "porque", "mas"]
+    },
+    {
+      "prompt": "I think that you are right.",
+      "answer": "Eu acho que você tem razão.",
+      "distractors": ["se", "mas", "porque"]
+    },
+    {
+      "prompt": "If I were rich, I would buy a house.",
+      "answer": "Se eu fosse rico, compraria uma casa.",
+      "distractors": ["quando", "porque", "mas"]
+    },
+    {
+      "prompt": "She also speaks Spanish.",
+      "answer": "Ela também fala espanhol.",
+      "distractors": ["já", "ainda", "mas"]
+    },
+    {
+      "prompt": "He woke up late, so he missed the bus.",
+      "answer": "Ele acordou tarde, então perdeu o ônibus.",
+      "distractors": ["mas", "porque", "ou"]
+    },
+    {
+      "prompt": "Since you are here, let's start.",
+      "answer": "Já que você está aqui, vamos começar.",
+      "distractors": ["se", "quando", "mas"]
+    },
+    {
+      "prompt": "He still works at that company.",
+      "answer": "Ele ainda trabalha naquela empresa.",
+      "distractors": ["já", "também", "mas"]
+    },
+    {
+      "prompt": "I asked whether the store was open.",
+      "answer": "Perguntei se a loja estava aberta.",
+      "distractors": ["mas", "e", "ou"]
+    },
+    {
+      "prompt": "It is important that you sleep well.",
+      "answer": "É importante que você durma bem.",
+      "distractors": ["se", "mas", "quando"]
+    },
+    {
+      "prompt": "She studied despite being tired.",
+      "answer": "Ela estudou apesar de estar cansada.",
+      "distractors": ["mas", "porque", "quando"]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "lesson-04-en",
+  "title": "Prepositions",
+  "type": "fill_gap",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Ela é ___ Portugal.",
+      "options": ["de", "em", "no", "do"],
+      "correct": 0,
+      "explanation": "Portugal is an exception — it takes 'de' without an article. 'Em' means 'in', 'no'/'do' require an article that Portuguese doesn't use."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Este é o carro ___ meu irmão.",
+      "options": ["do", "no", "ao", "pelo"],
+      "correct": 0,
+      "explanation": "'Do' (de + o) expresses possession — 'my brother's car'. The others mean in/to/through the brother, which make no sense here."
+    },
+    {
+      "prompt": "Select the preposition that indicates location.",
+      "sentence": "O banco fica ___ centro da cidade.",
+      "options": ["no", "ao", "do", "pelo"],
+      "correct": 0,
+      "explanation": "'No' (em + o) marks a fixed location. 'Ao' = to (movement), 'do' = from/of (origin), 'pelo' = through (passage)."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Ele estuda muito ___ conseguir uma boa nota.",
+      "options": ["para", "por", "com", "sem"],
+      "correct": 0,
+      "explanation": "'Para' expresses purpose — 'in order to get a good grade'. 'Por' expresses cause, 'sem' means without, 'com' means with."
+    },
+    {
+      "prompt": "Select the preposition that expresses price.",
+      "sentence": "Comprei este livro ___ vinte reais.",
+      "options": ["de", "por", "em", "até"],
+      "correct": 1,
+      "explanation": "'Por' expresses price — 'I bought this book for twenty reais'. 'Até' means up to (a maximum), not the actual amount paid."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Maria saiu ___ seus filhos para o parque.",
+      "options": ["com", "sem", "por", "para"],
+      "correct": 0,
+      "explanation": "'Com' indicates company — 'Maria went out with her children'. 'Sem' = without, 'por' = because of, 'para' = for (recipient), all give different meanings."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Ele saiu ___ guarda-chuva e se molhou todo.",
+      "options": ["com", "pelo", "sem", "do"],
+      "correct": 2,
+      "explanation": "'Sem' means without. Getting completely soaked only makes sense if he left without an umbrella. 'Com' (with) would contradict the result."
+    },
+    {
+      "prompt": "Select the preposition that means 'about'.",
+      "sentence": "Vamos conversar ___ seus planos para o futuro.",
+      "options": ["com", "por", "entre", "sobre"],
+      "correct": 3,
+      "explanation": "'Sobre' means 'about' when discussing a topic. 'Com' = with, 'por' = for/because of, 'entre' = between — none fit a conversation topic."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Ela mora ___ Bahia.",
+      "options": ["em", "na", "da", "pela"],
+      "correct": 1,
+      "explanation": "Bahia takes the feminine article 'a', so 'em + a = na'. 'Em' alone omits the required article. 'Da' = from Bahia (origin), 'pela' = through Bahia (passage)."
+    },
+    {
+      "prompt": "Select the preposition that indicates origin.",
+      "sentence": "O professor é ___ Estados Unidos.",
+      "options": ["dos", "nos", "pelos", "aos"],
+      "correct": 0,
+      "explanation": "'Dos' (de + os) indicates origin. 'Nos' = in the US (location), 'pelos' = through the US (passage), 'aos' = to the US (destination)."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Nós passamos ___ túnel para chegar ao centro.",
+      "options": ["no", "ao", "pelo", "do"],
+      "correct": 2,
+      "explanation": "'Pelo' (por + o) indicates passage through a place. 'No' = in/at (fixed location), 'ao' = to (destination), 'do' = from/of (origin or possession)."
+    },
+    {
+      "prompt": "Select the preposition that marks a specific time.",
+      "sentence": "A reunião começa ___ duas da tarde.",
+      "options": ["às", "nas", "pelas", "das"],
+      "correct": 0,
+      "explanation": "'Às' (a + as) marks the exact time an event starts. 'Pelas duas' means around two (approximate). 'Das duas' starts a time range. 'Nas duas' is not used for clock times."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Eles viajam ___ Paris todo ano.",
+      "options": ["em", "para", "de", "por"],
+      "correct": 1,
+      "explanation": "'Para' marks the destination of a trip — 'they travel to Paris'. 'Em' = in Paris (static location), 'de' = from Paris (origin), 'por' = through Paris (passage)."
+    },
+    {
+      "prompt": "Select the preposition that indicates material.",
+      "sentence": "O copo é ___ vidro.",
+      "options": ["de", "em", "por", "com"],
+      "correct": 0,
+      "explanation": "'De' expresses the material something is made of — 'the glass is made of glass'. This is the standard form in Brazilian Portuguese for material composition."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Esperamos o ônibus ___ quarenta minutos.",
+      "options": ["em", "até", "de", "por"],
+      "correct": 3,
+      "explanation": "'Por' expresses duration — 'we waited for the bus for forty minutes'. 'Em quarenta minutos' means in (within) forty minutes. 'Até' = until/up to (endpoint, not duration)."
+    },
+    {
+      "prompt": "Select the preposition that indicates location in a country.",
+      "sentence": "Minha família mora ___ Japão.",
+      "options": ["ao", "do", "no", "pelo"],
+      "correct": 2,
+      "explanation": "'No' (em + o) marks a fixed location in a masculine country. 'Ao' = to Japan (movement), 'do' = from Japan (origin), 'pelo' = through Japan (passage)."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "O parque fica ___ o museu e o teatro.",
+      "options": ["sobre", "entre", "sob", "contra"],
+      "correct": 1,
+      "explanation": "'Entre' means 'between' — 'the park is between the museum and the theater'. 'Sobre' = above/on, 'sob' = under, 'contra' = against."
+    },
+    {
+      "prompt": "Select the preposition that indicates cause.",
+      "sentence": "Ela não foi ao trabalho ___ estar doente.",
+      "options": ["por", "para", "sem", "com"],
+      "correct": 0,
+      "explanation": "'Por' introduces the reason or cause — 'because she was sick'. 'Para' expresses purpose (in order to), which does not fit here."
+    },
+    {
+      "prompt": "Choose the correct preposition.",
+      "sentence": "Eles foram ___ pé até a praia.",
+      "options": ["de", "por", "em", "a"],
+      "correct": 3,
+      "explanation": "'A pé' is the fixed expression for 'on foot'. 'De pé' and 'em pé' both mean 'standing upright' (a position), not a mode of travel."
+    },
+    {
+      "prompt": "Select the correct preposition.",
+      "sentence": "Qual é o nome ___ professora de português?",
+      "options": ["na", "pela", "da", "para a"],
+      "correct": 2,
+      "explanation": "'Da' (de + a) expresses a possessive or identifying relationship — 'the name of the Portuguese teacher'. 'Na' = in the teacher (location), 'pela' = by/through the teacher (agent or passage)."
+    }
+  ]
+}

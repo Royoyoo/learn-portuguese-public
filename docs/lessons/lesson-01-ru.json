@@ -1,0 +1,26 @@
+{
+  "id": "lesson-01-ru",
+  "title": "Приветствия",
+  "type": "multiple_choice",
+  "lang": "ru",
+  "exercises": [
+    {
+      "question": "Как сказать «Доброе утро»?",
+      "options": ["Boa tarde", "Bom dia", "Boa noite", "Olá"],
+      "correct": 1,
+      "explanation": "Bom dia используют утром и примерно до полудня."
+    },
+    {
+      "question": "Как сказать «Доброй ночи»?",
+      "options": ["Boa noite", "Bom dia", "Tchau", "Obrigado"],
+      "correct": 0,
+      "explanation": "Boa noite используют вечером и перед сном."
+    },
+    {
+      "question": "Как сказать «Привет»?",
+      "options": ["Por favor", "Olá", "Até logo", "Desculpa"],
+      "correct": 1,
+      "explanation": "Olá — простое приветствие."
+    }
+  ]
+}

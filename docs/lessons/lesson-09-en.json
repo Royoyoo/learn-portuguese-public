@@ -1,0 +1,128 @@
+{
+  "id": "lesson-09-en",
+  "title": "Verb Group 4: Thinking, Feeling & Communication",
+  "type": "multiple_choice",
+  "lang": "en",
+  "exercises": [
+    {
+      "question": "What is the Portuguese verb for 'to understand'?",
+      "options": ["aprender", "lembrar", "achar", "entender"],
+      "correct": 3,
+      "explanation": "'Entender' is your safety-net verb. 'Não entendo' (I don't understand) is one of the most important phrases a beginner can know."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to learn'?",
+      "options": ["entender", "tentar", "aprender", "esquecer"],
+      "correct": 2,
+      "explanation": "'Estou aprendendo português' (I'm learning Portuguese) — Brazilians genuinely love hearing this from foreigners."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to try'?",
+      "options": ["começar", "tentar", "aprender", "escolher"],
+      "correct": 1,
+      "explanation": "'Vou tentar' = I'll try. 'Tenta de novo' = Try again. A regular -ar verb."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to remember'?",
+      "options": ["lembrar", "esquecer", "sentir", "encontrar"],
+      "correct": 0,
+      "explanation": "'Lembra daquele dia?' = Remember that day? 'Não lembro' = I don't remember."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to forget'?",
+      "options": ["lembrar", "pensar", "esquecer", "acreditar"],
+      "correct": 2,
+      "explanation": "'Esqueci!' = I forgot! The direct opposite of 'lembrar' (to remember)."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to feel' (emotions or physical sensations)?",
+      "options": ["parecer", "acreditar", "lembrar", "sentir"],
+      "correct": 3,
+      "explanation": "'Sinto muito' = I'm very sorry. 'Como você se sente?' = How do you feel?"
+    },
+    {
+      "question": "What is the Portuguese verb for 'to seem' or 'to look like'?",
+      "options": ["sentir", "parecer", "entender", "começar"],
+      "correct": 1,
+      "explanation": "'Parece bom!' = Looks good! / Sounds good! 'Parece que vai chover' = Looks like it's going to rain."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to believe' (in someone or something)?",
+      "options": ["acreditar", "parecer", "achar", "sentir"],
+      "correct": 0,
+      "explanation": "'Não acredito!' = I can't believe it! — one of Brazil's most common exclamations. Not the same as 'achar' (to think/opine)."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to choose'?",
+      "options": ["trocar", "mudar", "começar", "escolher"],
+      "correct": 3,
+      "explanation": "'Já escolheu?' = Have you chosen yet? — the phrase every waiter asks in a restaurant."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to exchange' or 'swap' one item for another?",
+      "options": ["mudar", "escolher", "trocar", "encontrar"],
+      "correct": 2,
+      "explanation": "'Posso trocar?' = Can I exchange this? 'Trocar' specifically means swapping one thing for another, not simply changing something."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to change' (plans or opinions) or 'to relocate / move'?",
+      "options": ["mudar", "trocar", "começar", "acabar"],
+      "correct": 0,
+      "explanation": "'Mudei de ideia' = I changed my mind. 'Vou mudar de cidade' = I'm going to move cities. Not 'trocar', which means to swap one thing for another."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to start' or 'to begin'?",
+      "options": ["acabar", "tentar", "mudar", "começar"],
+      "correct": 3,
+      "explanation": "'Começa às oito' = It starts at eight. Its direct opposite is 'acabar' (to finish)."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to finish' or 'to end'?",
+      "options": ["começar", "encontrar", "acabar", "escolher"],
+      "correct": 2,
+      "explanation": "'Acabou!' = It's over! / All gone! / Done! You'll hear this constantly in everyday Brazilian life."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to find someone' or 'to meet up with' a person?",
+      "options": ["escolher", "encontrar", "lembrar", "sentir"],
+      "correct": 1,
+      "explanation": "'Onde a gente se encontra?' = Where do we meet up? 'Te encontro lá' = I'll meet you there."
+    },
+    {
+      "question": "Which verb means 'to think' in the sense of reflecting or considering — as in 'Vou pensar' (I'll think about it)?",
+      "options": ["pensar", "achar", "entender", "lembrar"],
+      "correct": 0,
+      "explanation": "'Pensar' = to think (reflect/consider). 'Pensa bem' = Think it over carefully. Not the same as 'achar', which expresses opinions."
+    },
+    {
+      "question": "The phrase 'Eu acho que...' (I think that...) is the most natural way to express a personal opinion in Brazil. 'Acho' comes from which verb?",
+      "options": ["pensar", "acreditar", "entender", "achar"],
+      "correct": 3,
+      "explanation": "'Achar' is the go-to verb for personal opinions — called the 'secret weapon' of Brazilian conversation. It also has a second meaning: 'to find (an object)'."
+    },
+    {
+      "question": "Which verb from this group ALSO carries the secondary meaning of 'to find (an object)'?",
+      "options": ["pensar", "sentir", "achar", "lembrar"],
+      "correct": 2,
+      "explanation": "'Achar' has two meanings: 'to think (opinion)' as in 'Acho bonito' (I find it beautiful) AND 'to find': 'Não acho minha chave' (I can't find my key)."
+    },
+    {
+      "question": "You want to say 'I'll think it over carefully' — reflecting and weighing options, not just stating a view. Which verb do you use?",
+      "options": ["achar", "acreditar", "entender", "pensar"],
+      "correct": 3,
+      "explanation": "'Pensar' = to think (reflect). 'Vou pensar bem' = I'll think it over carefully. Use 'achar' for opinions, 'pensar' for deliberate reflection."
+    },
+    {
+      "question": "In the phrase 'Mudei de ideia' (I changed my mind), the form 'mudei' comes from which verb?",
+      "options": ["trocar", "escolher", "mudar", "começar"],
+      "correct": 2,
+      "explanation": "'Mudar' covers changing opinions, plans, or location. 'Mudei de ideia' = I changed my mind. Compare 'trocar' = to swap one item for another."
+    },
+    {
+      "question": "The phrase 'Onde a gente se encontra?' (Where do we meet up?) uses which verb?",
+      "options": ["encontrar", "lembrar", "escolher", "sentir"],
+      "correct": 0,
+      "explanation": "'Encontrar' = to find / to meet. In the reflexive form 'se encontrar' it means 'to meet each other'. Also used as 'encontrar alguém' = to run into someone."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "lesson-06-ru",
+  "title": "Группа глаголов 1: Существование и обладание",
+  "type": "fill_gap",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Выберите подходящий глагол.",
+      "sentence": "Eu ___ americano.",
+      "options": ["sou", "estou", "tenho", "fico"],
+      "correct": 0,
+      "explanation": "Национальность — постоянное свойство: используется ser. «Estou americano» неверно — estar обозначает временные состояния. «Tenho americano» = «у меня есть американец». «Fico americano» — неверно."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "Ela ___ engenheira de software.",
+      "options": ["é", "está", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Профессия — постоянная характеристика: используется ser. «Está engenheira» неверно — estar обозначает временные состояния, но не профессии. «Tem engenheira» = «у неё есть инженер». «Fica engenheira» — неверно."
+    },
+    {
+      "prompt": "Какой глагол подходит для этого предложения?",
+      "sentence": "Hoje ___ quarta-feira.",
+      "options": ["é", "está", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Дни недели и даты всегда используют ser. «Está quarta-feira» неверно — дни недели не являются временными состояниями. «Tem quarta-feira» и «fica quarta-feira» — оба неверны."
+    },
+    {
+      "prompt": "Выберите подходящий глагол.",
+      "sentence": "O apartamento ___ do meu pai.",
+      "options": ["é", "está", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Принадлежность выражается через ser. «Está do meu pai», «tem do meu pai» и «fica do meu pai» — все неверны: ни один из этих глаголов не может выразить принадлежность."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "A reunião ___ às dez da manhã.",
+      "options": ["é", "está", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Запланированные события и время используют ser. «Está às dez» подразумевает временное состояние — для расписания нужен ser. «Tem às dez» и «fica às dez» — оба неверны."
+    },
+    {
+      "prompt": "Какой глагол используется в этом приветствии?",
+      "sentence": "Como você ___?",
+      "options": ["está", "é", "tem", "fica"],
+      "correct": 0,
+      "explanation": "«Como você está?» — стандартное приветствие, спрашивающее о текущем самочувствии (временное состояние). «Como você é?» спрашивает о характере или личности (постоянная черта). «Como você tem?» — неверно. «Como você fica?» — неверно в данном контексте."
+    },
+    {
+      "prompt": "Выберите подходящий глагол.",
+      "sentence": "Eu ___ com muito sono agora.",
+      "options": ["estou", "sou", "tenho", "fico"],
+      "correct": 0,
+      "explanation": "Конструкция «estar com + существительное» выражает временное физическое или эмоциональное состояние. «Sou com sono» — неверно. «Tenho com sono» — неверно: с ter говорят «tenho sono» без «com». «Fico com sono» означает «я обычно хочу спать» (привычка), а не «мне сейчас хочется спать»."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "O João ___ doente desde segunda-feira.",
+      "options": ["está", "é", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Временные состояния здоровья используют estar. «É doente» подразумевает хроническую болезнь, что противоречит «с понедельника». «Tem doente» — неверно: «doente» — прилагательное и не может следовать за ter. «Fica doente» означает «заболевает» (переход в состояние), а не «болеет с понедельника»."
+    },
+    {
+      "prompt": "Какой глагол подходит для этого предложения?",
+      "sentence": "O banco ___ aberto agora.",
+      "options": ["está", "é", "tem", "fica"],
+      "correct": 0,
+      "explanation": "«Aberto» (открытый) обозначает текущее временное состояние — используется estar. «É aberto» означало бы, что банк всегда открыт, что противоречит обычному рабочему расписанию. «Tem aberto» — неверно. «Fica aberto» означает «остаётся открытым», а не «сейчас открыт»."
+    },
+    {
+      "prompt": "Выберите подходящий глагол.",
+      "sentence": "Ela ___ três irmãos.",
+      "options": ["tem", "é", "está", "fica"],
+      "correct": 0,
+      "explanation": "Обладание выражается через ter. «É três irmãos», «está três irmãos» и «fica três irmãos» — все неверны: ни один из этих глаголов не может выразить наличие братьев и сестёр."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "Eu ___ sede.",
+      "options": ["tenho", "estou", "sou", "fico"],
+      "correct": 0,
+      "explanation": "Физические ощущения — жажда и голод — используют конструкцию «ter + существительное»: ter sede (хотеть пить), ter fome (хотеть есть). «Estou sede» — неверно: с estar говорят «estou com sede». «Sou sede» и «fico sede» — оба неверны."
+    },
+    {
+      "prompt": "Какой глагол означает «есть» в разговорном бразильском португальском?",
+      "sentence": "___ trânsito na avenida principal agora.",
+      "options": ["Tem", "É", "Está", "Fica"],
+      "correct": 0,
+      "explanation": "В разговорном бразильском португальском «tem» означает «есть / имеется». «É trânsito» = «это пробка» (идентичность — неверно). «Está trânsito» неверно для обозначения существования. «Fica trânsito» — неверно."
+    },
+    {
+      "prompt": "Выберите глагол, который спрашивает о наличии чего-либо.",
+      "sentence": "___ Wi-Fi gratuito neste café?",
+      "options": ["Tem", "É", "Está", "Fica"],
+      "correct": 0,
+      "explanation": "«Tem» — естественный способ спросить «Есть ли…?» в разговорном бразильском португальском. «É Wi-Fi» = «это Wi-Fi» (идентичность). «Está Wi-Fi» и «fica Wi-Fi» — оба неверны."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола.",
+      "sentence": "Ela ___ no escritório até as oito da noite quase todos os dias.",
+      "options": ["fica", "é", "está", "tem"],
+      "correct": 0,
+      "explanation": "«Ficar» выражает пребывание или нахождение где-либо, особенно как привычное действие. «É no escritório» — грамматически неверно. «Está no escritório» описывает конкретное текущее состояние, а не регулярную привычку — «quase todos os dias» указывает на закономерность, и «fica» — правильный выбор. «Tem no escritório» — неверно."
+    },
+    {
+      "prompt": "Какой глагол используется в этом разговорном выражении-успокоении?",
+      "sentence": "___ tranquilo, vai resolver.",
+      "options": ["Fica", "É", "Está", "Tem"],
+      "correct": 0,
+      "explanation": "«Fica tranquilo» — стандартное разговорное выражение, означающее «успокойся / не волнуйся». Это неформальное повелительное наклонение от ficar. «É tranquilo» = «он/она спокоен» (описание, а не команда). «Está tranquilo» описывает текущее состояние, а не успокоение. «Tem tranquilo» — неверно."
+    },
+    {
+      "prompt": "Выберите глагол, который выражает выбор или взятие чего-либо.",
+      "sentence": "Eu ___ com esse, obrigado.",
+      "options": ["fico", "sou", "estou", "tenho"],
+      "correct": 0,
+      "explanation": "«Ficar com» выражает выбор или желание взять что-либо — «я возьму вот этот». «Sou com esse» — неверно. «Estou com esse» = «у меня сейчас есть этот», а не выбор. «Tenho com esse» — неверно."
+    },
+    {
+      "prompt": "Выберите правильный глагол для описания фиксированного местоположения.",
+      "sentence": "O metrô ___ a dois quarteirões daqui.",
+      "options": ["fica", "é", "está", "tem"],
+      "correct": 0,
+      "explanation": "«Ficar» — естественный глагол для обозначения постоянного местоположения или расстояния до мест и зданий. «É a dois quarteirões» — неестественная конструкция в португальском. «Está a dois quarteirões» подразумевает, что метро временно переместилось туда. «Tem a dois quarteirões» — неверно."
+    },
+    {
+      "prompt": "Выберите официальный глагол со значением «имеется».",
+      "sentence": "No documento oficial, ___ várias inconsistências.",
+      "options": ["há", "tem", "é", "está"],
+      "correct": 0,
+      "explanation": "В официальном письменном языке «há» (от haver) означает «имеется». «Tem» верно в разговорной речи, но не соответствует официальному регистру «documento oficial». «É» = «это» (идентичность — неверно). «Está» обозначает временное состояние, а не существование."
+    },
+    {
+      "prompt": "Выберите официальную форму со значением «существует».",
+      "sentence": "___ muitas oportunidades nessa área de trabalho.",
+      "options": ["Há", "Tem", "É", "Estão"],
+      "correct": 0,
+      "explanation": "«Há» — официальная безличная форма, означающая «есть / существует». «Tem» употребляется в разговорной речи, но данное предложение содержит официальное или письменное утверждение. «É» обозначает идентичность, а не существование. «Estão» = «они находятся» (требует подлежащего)."
+    },
+    {
+      "prompt": "Выберите официальный глагол со значением «имеется».",
+      "sentence": "Conforme o relatório, ___ um erro no sistema.",
+      "options": ["há", "tem", "é", "está"],
+      "correct": 0,
+      "explanation": "«Há» выражает существование в официальном письменном языке — «имеется ошибка». «Tem» подходит в разговорной речи, но не в официальном регистре «conforme o relatório». «É um erro» = «это ошибка» (идентичность). «Está um erro» — неверно."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "lesson-08-en",
+  "title": "Verb Group 3: Movement & Life Management",
+  "type": "fill_gap",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "Choose the verb that describes a daily work schedule.",
+      "sentence": "Eu ___ das nove às seis, de segunda a sexta.",
+      "options": ["trabalho", "moro", "saio", "espero"],
+      "correct": 0,
+      "explanation": "'Trabalho' is the only verb that fits a schedule expressed with 'das...às'. 'Moro' (I live), 'saio' (I leave), and 'espero' (I wait/hope) make no sense with a time range describing a daily work routine."
+    },
+    {
+      "prompt": "Choose the verb that means 'to reside'.",
+      "sentence": "Eu ___ aqui há três anos e adoro este bairro.",
+      "options": ["moro", "trabalho", "saio", "chego"],
+      "correct": 0,
+      "explanation": "'Moro aqui há três anos' — 'há + time period' marks continuous residence. 'Trabalho' is possible alone, but 'adoro este bairro' (I love this neighborhood) confirms the person lives here, not just works here. 'Saio' (I leave) and 'chego' (I arrive) don't fit with 'há três anos'."
+    },
+    {
+      "prompt": "Choose the verb that means 'to leave home'.",
+      "sentence": "Ela ___ de casa às sete da manhã para ir ao trabalho.",
+      "options": ["sai", "chega", "mora", "espera"],
+      "correct": 0,
+      "explanation": "'Sair de casa' is the fixed phrase for leaving home. 'Chegar de casa' is wrong — you arrive AT home (chegar em casa), not from it. 'Mora de casa' and 'espera de casa' make no sense in Portuguese."
+    },
+    {
+      "prompt": "Choose the verb that means 'to arrive'.",
+      "sentence": "Quando você ___ em casa, me manda uma mensagem.",
+      "options": ["chegar", "morar", "sair", "esperar"],
+      "correct": 0,
+      "explanation": "'Chegar em casa' means to arrive home — a timed event that triggers sending a message. 'Morar em casa' (to live at home) is a permanent state, not an event. 'Sair' (leave) is the opposite direction. 'Esperar em casa' means to wait at home, not to arrive."
+    },
+    {
+      "prompt": "Choose the verb that means 'to wait'.",
+      "sentence": "___ aí, já volto!",
+      "options": ["Espera", "Olha", "Manda", "Ajuda"],
+      "correct": 0,
+      "explanation": "'Espera aí' = 'Wait there' — a common command. 'Já volto' (I'll be right back) confirms someone is being asked to stay put. 'Olha' (look), 'manda' (send), and 'ajuda' (help) don't fit a request to wait."
+    },
+    {
+      "prompt": "Choose the verb that expresses hope.",
+      "sentence": "Nós ___ que o tempo melhore para o fim de semana.",
+      "options": ["esperamos", "vemos", "ligamos", "mandamos"],
+      "correct": 0,
+      "explanation": "'Esperar que + subjunctive' expresses hope. 'Vemos que' (we see that) requires the indicative, not the subjunctive 'melhore'. 'Mandamos que o tempo melhore' would mean ordering the weather to improve — grammatically possible but semantically absurd. 'Ligamos que' makes no sense."
+    },
+    {
+      "prompt": "Choose the correct verb for watching TV.",
+      "sentence": "Você ___ bastante televisão?",
+      "options": ["vê", "olha", "pede", "manda"],
+      "correct": 0,
+      "explanation": "'Ver televisão' (watch TV) is the standard Brazilian phrase. 'Olhar televisão' is not used — 'olhar' is for intentional directed looking ('look at' something). 'Pede televisão' (requests TV) and 'manda televisão' (sends TV) are nonsensical."
+    },
+    {
+      "prompt": "Choose the correct verb for directing someone's gaze.",
+      "sentence": "___ para a câmera, vou tirar uma foto!",
+      "options": ["Olha", "Vê", "Chega", "Manda"],
+      "correct": 0,
+      "explanation": "'Olhar para' expresses intentional, directed looking — the natural phrase for facing a camera. 'Vê para a câmera' is not a used construction; 'ver' is passive perception, not a command to direct attention. 'Chega' (arrive) and 'Manda' (send) make no sense."
+    },
+    {
+      "prompt": "Choose the verb that means 'to put/place'.",
+      "sentence": "___ o sal na comida antes de provar.",
+      "options": ["Coloca", "Leva", "Manda", "Pede"],
+      "correct": 0,
+      "explanation": "'Colocar' means to put or place something. 'Leva o sal na comida' (take the salt into the food) doesn't mean adding it. 'Manda' (send) and 'Pede' (ask for/order) don't describe placing an ingredient in a dish."
+    },
+    {
+      "prompt": "Choose the verb that means 'to take away from here'.",
+      "sentence": "Pode ___ este livro para a biblioteca por mim?",
+      "options": ["levar", "trazer", "mandar", "colocar"],
+      "correct": 0,
+      "explanation": "'Levar' moves something away from the speaker's location. A library is away from the speaker, so 'levar' is correct. 'Trazer' means to bring toward the speaker — the opposite direction. 'Mandar' implies sending via a third party. 'Colocar' (put) doesn't work with 'para a biblioteca'."
+    },
+    {
+      "prompt": "Choose the verb that means 'to bring here'.",
+      "sentence": "Quando você vier ao meu apartamento, pode ___ aquele livro que te emprestei?",
+      "options": ["trazer", "levar", "colocar", "pedir"],
+      "correct": 0,
+      "explanation": "'Trazer' means to bring something toward the speaker. The speaker is at home and wants the book brought to them. 'Levar' means to take away from the speaker — the opposite direction. 'Colocar' and 'pedir' don't describe returning a borrowed item."
+    },
+    {
+      "prompt": "Choose the verb for the action of opening.",
+      "sentence": "Você pode ___ a janela? Está muito quente aqui.",
+      "options": ["abrir", "fechar", "ligar", "mandar"],
+      "correct": 0,
+      "explanation": "'Abrir a janela' (open the window) brings in fresh air when it's hot. 'Fechar' (close) would make the heat worse — it directly contradicts the reason given. 'Ligar' (turn on/call) and 'mandar' (send) make no sense with a window."
+    },
+    {
+      "prompt": "Choose the verb for the action of closing.",
+      "sentence": "Por favor, ___ a porta ao sair.",
+      "options": ["feche", "abra", "mande", "ligue"],
+      "correct": 0,
+      "explanation": "When leaving ('ao sair'), you close the door behind you. 'Abra' (open) is the opposite of what's expected on exit. 'Mande' (send) and 'ligue' (call/turn on) make no sense for a door in this context."
+    },
+    {
+      "prompt": "Choose the verb that means 'to call by phone'.",
+      "sentence": "Vou ___ para você assim que chegar ao hotel.",
+      "options": ["ligar", "mandar", "pedir", "perguntar"],
+      "correct": 0,
+      "explanation": "'Ligar para alguém' means to call someone by phone. 'Assim que chegar' (as soon as I arrive) is a classic trigger for a phone call. 'Vou mandar para você' without an object is incomplete ('send what?'). 'Vou pedir para você' and 'vou perguntar para você' need an object to complete the meaning."
+    },
+    {
+      "prompt": "Choose the verb that means 'to turn on'.",
+      "sentence": "Está escuro aqui. Você pode ___ a luz?",
+      "options": ["ligar", "fechar", "mandar", "colocar"],
+      "correct": 0,
+      "explanation": "'Ligar a luz' means to turn on the light — a key secondary meaning of ligar alongside 'call'. 'Fechar a luz' (close the light) is not used in Portuguese. 'Mandar' (send) and 'colocar' (put) don't describe switching on a light."
+    },
+    {
+      "prompt": "Choose the verb that means 'to send'.",
+      "sentence": "___ o arquivo por e-mail quando terminar de editar.",
+      "options": ["Manda", "Leva", "Coloca", "Pede"],
+      "correct": 0,
+      "explanation": "'Mandar por e-mail' means to send via email. 'Levar por e-mail' (take by email) makes no sense — levar requires physical movement. 'Coloca por e-mail' and 'Pede por e-mail' don't describe transmitting a file."
+    },
+    {
+      "prompt": "Choose the verb that means 'to order/request something'.",
+      "sentence": "Ela foi à padaria ___ pão de queijo e café.",
+      "options": ["pedir", "perguntar", "levar", "colocar"],
+      "correct": 0,
+      "explanation": "'Pedir' means to order or ask for something — food, a service, a favor. You order items at a bakery. 'Perguntar pão de queijo' is impossible — perguntar is for asking questions, not ordering items. 'Levar' implies taking something away, not ordering it. 'Colocar' (put) makes no sense."
+    },
+    {
+      "prompt": "Choose the verb that means 'to ask a question'.",
+      "sentence": "Ela ___ ao professor qual seria a data da prova.",
+      "options": ["perguntou", "pediu", "mandou", "viu"],
+      "correct": 0,
+      "explanation": "'Perguntar' is for seeking information through a question. 'Qual seria a data' is a question — 'perguntou' fits perfectly. 'Pediu' (asked for/requested) is for requesting objects or favors, not asking informational questions. 'Mandou' (sent) and 'viu' (saw) make no sense here."
+    },
+    {
+      "prompt": "Choose the verb that means 'to help'.",
+      "sentence": "Você pode me ___ a carregar estas malas até o quarto?",
+      "options": ["ajudar", "levar", "mandar", "pedir"],
+      "correct": 0,
+      "explanation": "'Ajudar alguém a fazer algo' = 'to help someone do something'. 'Levar as malas' (take the suitcases) moves them without assisting the person. 'Mandar' (send) and 'pedir' (ask for) don't describe offering assistance."
+    },
+    {
+      "prompt": "Choose the correct verb for leaving early.",
+      "sentence": "Vamos ___ mais cedo hoje? O chefe liberou a equipe.",
+      "options": ["sair", "chegar", "esperar", "trabalhar"],
+      "correct": 0,
+      "explanation": "'Sair mais cedo' means to leave earlier than usual. 'O chefe liberou a equipe' (the boss let the team go) makes it clear everyone is departing. 'Chegar mais cedo' (arrive earlier) contradicts being released. 'Esperar' (wait) and 'trabalhar' (work) go against being let go early."
+    }
+  ]
+}

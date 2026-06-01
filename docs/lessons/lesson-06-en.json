@@ -1,0 +1,148 @@
+{
+  "id": "lesson-06-en",
+  "title": "Verb Group 1: Existence & Possession",
+  "type": "fill_gap",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "Choose the verb that fits this sentence.",
+      "sentence": "Eu ___ americano.",
+      "options": ["sou", "estou", "tenho", "fico"],
+      "correct": 0,
+      "explanation": "Nationality is a permanent identity — use ser. 'Estou americano' is wrong; estar marks temporary states. 'Tenho americano' means 'I have an American'. 'Fico americano' is wrong."
+    },
+    {
+      "prompt": "Select the correct verb form.",
+      "sentence": "Ela ___ engenheira de software.",
+      "options": ["é", "está", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Profession is a permanent identity — use ser. 'Está engenheira' is wrong; estar marks temporary states, not jobs. 'Tem engenheira' means 'she has a female engineer'. 'Fica engenheira' is wrong."
+    },
+    {
+      "prompt": "Which verb completes this sentence?",
+      "sentence": "Hoje ___ quarta-feira.",
+      "options": ["é", "está", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Days of the week and dates always use ser. 'Está quarta-feira' is wrong — days aren't temporary states. 'Tem quarta-feira' and 'fica quarta-feira' are both wrong."
+    },
+    {
+      "prompt": "Choose the verb that fits this sentence.",
+      "sentence": "O apartamento ___ do meu pai.",
+      "options": ["é", "está", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Ownership uses ser. 'Está do meu pai', 'tem do meu pai', and 'fica do meu pai' are all wrong — none of these verbs can express belonging to someone."
+    },
+    {
+      "prompt": "Select the correct verb form.",
+      "sentence": "A reunião ___ às dez da manhã.",
+      "options": ["é", "está", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Scheduled events and times use ser. 'Está às dez' implies a temporary state; ser is required for scheduled events. 'Tem às dez' and 'fica às dez' are both wrong."
+    },
+    {
+      "prompt": "Which verb completes this greeting?",
+      "sentence": "Como você ___?",
+      "options": ["está", "é", "tem", "fica"],
+      "correct": 0,
+      "explanation": "'Como você está?' is the standard greeting asking about current wellbeing — a temporary state. 'Como você é?' asks about your personality or character (permanent trait). 'Como você tem?' is wrong. 'Como você fica?' is wrong in this context."
+    },
+    {
+      "prompt": "Choose the verb that fits this sentence.",
+      "sentence": "Eu ___ com muito sono agora.",
+      "options": ["estou", "sou", "tenho", "fico"],
+      "correct": 0,
+      "explanation": "The construction 'estar com + noun' expresses a temporary physical or emotional state. 'Sou com sono' is wrong. 'Tenho com sono' is wrong — with ter you say 'tenho sono' without 'com'. 'Fico com sono' means 'I tend to get sleepy' (a recurring pattern), not 'I am sleepy right now'."
+    },
+    {
+      "prompt": "Select the correct verb form.",
+      "sentence": "O João ___ doente desde segunda-feira.",
+      "options": ["está", "é", "tem", "fica"],
+      "correct": 0,
+      "explanation": "Temporary health conditions use estar. 'É doente' implies a permanent or chronic condition, which contradicts 'since Monday'. 'Tem doente' is wrong — 'doente' is an adjective that cannot follow ter. 'Fica doente' means 'gets sick' (a transition into sickness), not 'has been sick since Monday'."
+    },
+    {
+      "prompt": "Which verb completes this sentence?",
+      "sentence": "O banco ___ aberto agora.",
+      "options": ["está", "é", "tem", "fica"],
+      "correct": 0,
+      "explanation": "'Aberto' (open) refers to a current, temporary state — use estar. 'É aberto' would mean the bank is permanently open, which contradicts normal banking hours. 'Tem aberto' is wrong. 'Fica aberto' means 'stays open' or 'remains open', not 'is currently open'."
+    },
+    {
+      "prompt": "Choose the verb that fits this sentence.",
+      "sentence": "Ela ___ três irmãos.",
+      "options": ["tem", "é", "está", "fica"],
+      "correct": 0,
+      "explanation": "Possession uses ter. 'É três irmãos', 'está três irmãos', and 'fica três irmãos' are all wrong — none can express having siblings."
+    },
+    {
+      "prompt": "Select the correct verb form.",
+      "sentence": "Eu ___ sede.",
+      "options": ["tenho", "estou", "sou", "fico"],
+      "correct": 0,
+      "explanation": "Physical sensations like thirst and hunger use 'ter + noun': ter sede (to be thirsty), ter fome (to be hungry). 'Estou sede' is wrong — with estar you need 'estou com sede'. 'Sou sede' and 'fico sede' are both wrong."
+    },
+    {
+      "prompt": "Which verb means 'there is' in informal Brazilian Portuguese?",
+      "sentence": "___ trânsito na avenida principal agora.",
+      "options": ["Tem", "É", "Está", "Fica"],
+      "correct": 0,
+      "explanation": "In informal Brazilian Portuguese, 'tem' means 'there is/are'. 'É trânsito' means 'it is traffic' (identity — wrong here). 'Está trânsito' is wrong for expressing existence. 'Fica trânsito' is wrong."
+    },
+    {
+      "prompt": "Choose the verb that asks about existence.",
+      "sentence": "___ Wi-Fi gratuito neste café?",
+      "options": ["Tem", "É", "Está", "Fica"],
+      "correct": 0,
+      "explanation": "'Tem' is the natural way to ask 'Is there…?' in informal Brazilian Portuguese. 'É Wi-Fi' means 'it is Wi-Fi' (identity). 'Está Wi-Fi' and 'fica Wi-Fi' are both wrong."
+    },
+    {
+      "prompt": "Select the correct verb form.",
+      "sentence": "Ela ___ no escritório até as oito da noite quase todos os dias.",
+      "options": ["fica", "é", "está", "tem"],
+      "correct": 0,
+      "explanation": "'Ficar' expresses staying or remaining somewhere, especially as a habitual pattern. 'É no escritório' is wrong grammar. 'Está no escritório' describes a specific current state, not a recurring habit — 'quase todos os dias' signals a pattern, making 'fica' the right choice. 'Tem no escritório' is wrong."
+    },
+    {
+      "prompt": "Which verb completes this informal expression of reassurance?",
+      "sentence": "___ tranquilo, vai resolver.",
+      "options": ["Fica", "É", "Está", "Tem"],
+      "correct": 0,
+      "explanation": "'Fica tranquilo' is the standard informal expression meaning 'relax / don't worry'. It's an informal command using ficar. 'É tranquilo' means 'he/she is calm' (a description, not a command). 'Está tranquilo' describes a current state, not a reassurance. 'Tem tranquilo' is wrong."
+    },
+    {
+      "prompt": "Choose the verb that expresses choosing or taking something.",
+      "sentence": "Eu ___ com esse, obrigado.",
+      "options": ["fico", "sou", "estou", "tenho"],
+      "correct": 0,
+      "explanation": "'Ficar com' expresses choosing or taking something — 'I'll take this one'. 'Sou com esse' is wrong. 'Estou com esse' means 'I have this one on me right now', not a choice. 'Tenho com esse' is wrong."
+    },
+    {
+      "prompt": "Select the correct verb for describing a fixed location.",
+      "sentence": "O metrô ___ a dois quarteirões daqui.",
+      "options": ["fica", "é", "está", "tem"],
+      "correct": 0,
+      "explanation": "'Ficar' is the natural verb for stating the fixed location or distance of places and buildings. 'É a dois quarteirões' is not a natural construction in Portuguese. 'Está a dois quarteirões' implies the metro temporarily moved there. 'Tem a dois quarteirões' is wrong."
+    },
+    {
+      "prompt": "Choose the formal verb meaning 'there are'.",
+      "sentence": "No documento oficial, ___ várias inconsistências.",
+      "options": ["há", "tem", "é", "está"],
+      "correct": 0,
+      "explanation": "In formal written contexts, 'há' (from haver) means 'there are'. 'Tem' is correct informally but does not fit the formal register of 'documento oficial'. 'É' means 'it is' (identity — wrong here). 'Está' refers to a temporary state, not existence."
+    },
+    {
+      "prompt": "Select the formal form of 'there are'.",
+      "sentence": "___ muitas oportunidades nessa área de trabalho.",
+      "options": ["Há", "Tem", "É", "Estão"],
+      "correct": 0,
+      "explanation": "'Há' is the formal impersonal form meaning 'there are'. 'Tem' works in informal speech but this sentence describes a formal or written observation. 'É' means identity (it is), not existence. 'Estão' means 'they are' (requires a subject already stated)."
+    },
+    {
+      "prompt": "Choose the formal verb meaning 'there is'.",
+      "sentence": "Conforme o relatório, ___ um erro no sistema.",
+      "options": ["há", "tem", "é", "está"],
+      "correct": 0,
+      "explanation": "'Há' expresses existence in formal written language — 'there is an error'. 'Tem' would work colloquially but not in the formal register of 'conforme o relatório'. 'É um erro' means 'it is an error' (identity). 'Está um erro' is wrong."
+    }
+  ]
+}

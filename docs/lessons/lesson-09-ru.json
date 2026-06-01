@@ -1,0 +1,128 @@
+{
+  "id": "lesson-09-ru",
+  "title": "Группа глаголов 4: Мышление, чувства и общение",
+  "type": "multiple_choice",
+  "lang": "ru",
+  "exercises": [
+    {
+      "question": "Какой португальский глагол означает «понимать»?",
+      "options": ["aprender", "lembrar", "achar", "entender"],
+      "correct": 3,
+      "explanation": "«Entender» — ваша страховочная сетка. «Não entendo» (Я не понимаю) — одна из важнейших фраз для начинающих."
+    },
+    {
+      "question": "Какой португальский глагол означает «учиться» или «изучать»?",
+      "options": ["entender", "tentar", "aprender", "esquecer"],
+      "correct": 2,
+      "explanation": "«Estou aprendendo português» (Я учу португальский) — бразильцы искренне радуются, когда иностранцы произносят эту фразу."
+    },
+    {
+      "question": "Какой португальский глагол означает «пробовать» / «стараться»?",
+      "options": ["começar", "tentar", "aprender", "escolher"],
+      "correct": 1,
+      "explanation": "«Vou tentar» = Попробую / Постараюсь. «Tenta de novo» = Попробуй ещё раз. Правильный глагол на -ar."
+    },
+    {
+      "question": "Какой португальский глагол означает «помнить»?",
+      "options": ["lembrar", "esquecer", "sentir", "encontrar"],
+      "correct": 0,
+      "explanation": "«Lembra daquele dia?» = Помнишь тот день? «Não lembro» = Не помню."
+    },
+    {
+      "question": "Какой португальский глагол означает «забывать»?",
+      "options": ["lembrar", "pensar", "esquecer", "acreditar"],
+      "correct": 2,
+      "explanation": "«Esqueci!» = Забыл(а)! Прямая противоположность «lembrar» (помнить)."
+    },
+    {
+      "question": "Какой португальский глагол означает «чувствовать» (эмоции или физические ощущения)?",
+      "options": ["parecer", "acreditar", "lembrar", "sentir"],
+      "correct": 3,
+      "explanation": "«Sinto muito» = Мне очень жаль. «Como você se sente?» = Как вы себя чувствуете?"
+    },
+    {
+      "question": "Какой португальский глагол означает «казаться» или «выглядеть»?",
+      "options": ["sentir", "parecer", "entender", "começar"],
+      "correct": 1,
+      "explanation": "«Parece bom!» = Звучит хорошо! / Выглядит хорошо! «Parece que vai chover» = Похоже, будет дождь."
+    },
+    {
+      "question": "Какой португальский глагол означает «верить» (кому-то или во что-то)?",
+      "options": ["acreditar", "parecer", "achar", "sentir"],
+      "correct": 0,
+      "explanation": "«Não acredito!» = Не могу поверить! — одно из самых распространённых восклицаний в Бразилии. Не путайте с «achar» (думать/полагать)."
+    },
+    {
+      "question": "Какой португальский глагол означает «выбирать»?",
+      "options": ["trocar", "mudar", "começar", "escolher"],
+      "correct": 3,
+      "explanation": "«Já escolheu?» = Вы уже выбрали? — именно так спрашивает официант в ресторане."
+    },
+    {
+      "question": "Какой португальский глагол означает «обменивать» или «менять местами» одну вещь на другую?",
+      "options": ["mudar", "escolher", "trocar", "encontrar"],
+      "correct": 2,
+      "explanation": "«Posso trocar?» = Можно обменять? «Trocar» — это именно обмен одного на другое, а не просто изменение чего-либо."
+    },
+    {
+      "question": "Какой португальский глагол означает «изменить» (планы, мнение) или «переехать»?",
+      "options": ["mudar", "trocar", "começar", "acabar"],
+      "correct": 0,
+      "explanation": "«Mudei de ideia» = Я передумал(а). «Vou mudar de cidade» = Я собираюсь переехать в другой город. Не путайте с «trocar» = обменять одно на другое."
+    },
+    {
+      "question": "Какой португальский глагол означает «начинать»?",
+      "options": ["acabar", "tentar", "mudar", "começar"],
+      "correct": 3,
+      "explanation": "«Começa às oito» = Начинается в восемь. Прямая противоположность — «acabar» (заканчивать)."
+    },
+    {
+      "question": "Какой португальский глагол означает «заканчивать» или «завершать»?",
+      "options": ["começar", "encontrar", "acabar", "escolher"],
+      "correct": 2,
+      "explanation": "«Acabou!» = Всё! / Кончилось! / Готово! Это восклицание вы будете слышать в Бразилии постоянно."
+    },
+    {
+      "question": "Какой португальский глагол означает «встретить(ся)» или «найти кого-то»?",
+      "options": ["escolher", "encontrar", "lembrar", "sentir"],
+      "correct": 1,
+      "explanation": "«Onde a gente se encontra?» = Где мы встретимся? «Te encontro lá» = Встречу тебя там."
+    },
+    {
+      "question": "Какой глагол означает «думать» в смысле «размышлять» или «взвешивать» — как в фразе «Vou pensar» (Я подумаю)?",
+      "options": ["pensar", "achar", "entender", "lembrar"],
+      "correct": 0,
+      "explanation": "«Pensar» = думать (размышлять). «Pensa bem» = Хорошо подумай. Не путайте с «achar», который выражает личное мнение."
+    },
+    {
+      "question": "Фраза «Eu acho que...» (Я думаю, что...) — самый естественный способ выразить личное мнение в Бразилии. От какого глагола образована форма «acho»?",
+      "options": ["pensar", "acreditar", "entender", "achar"],
+      "correct": 3,
+      "explanation": "«Achar» — главный глагол для выражения личного мнения, «секретное оружие» бразильского разговора. Плюс второе значение: «найти (предмет)»."
+    },
+    {
+      "question": "Какой глагол из этой группы ТАКЖЕ имеет второе значение «найти (предмет)»?",
+      "options": ["pensar", "sentir", "achar", "lembrar"],
+      "correct": 2,
+      "explanation": "У «achar» два значения: «думать (мнение)» — «Acho bonito» (Я нахожу это красивым) — И «найти»: «Não acho minha chave» (Не могу найти мои ключи)."
+    },
+    {
+      "question": "Вы хотите сказать «Я подумаю» в смысле тщательно взвесить и рассмотреть, а не просто высказать мнение. Какой глагол использовать?",
+      "options": ["achar", "acreditar", "entender", "pensar"],
+      "correct": 3,
+      "explanation": "«Pensar» = думать (размышлять). «Vou pensar bem» = Я хорошо подумаю. Используйте «achar» для мнений, «pensar» — для обдумывания."
+    },
+    {
+      "question": "В фразе «Mudei de ideia» (Я передумал/а) форма «mudei» образована от какого глагола?",
+      "options": ["trocar", "escolher", "mudar", "começar"],
+      "correct": 2,
+      "explanation": "«Mudar» охватывает изменение мнений, планов и места жительства. «Mudei de ideia» = Я передумал(а). Сравните: «trocar» = обменять одно на другое."
+    },
+    {
+      "question": "В фразе «Onde a gente se encontra?» (Где мы встретимся?) какой глагол используется?",
+      "options": ["encontrar", "lembrar", "escolher", "sentir"],
+      "correct": 0,
+      "explanation": "«Encontrar» = найти / встретить. В возвратной форме «se encontrar» означает «встретиться». Также: «encontrar alguém» = случайно столкнуться с кем-то."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "lesson-13-ru",
+  "title": "Группа глаголов 4: Мышление, чувства и общение — словесные блоки",
+  "type": "word_blocks",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Я думаю, что он устал.",
+      "answer": "Eu acho que ele está cansado.",
+      "distractors": ["disse", "amigos", "lindo"]
+    },
+    {
+      "prompt": "Я не могу найти свои ключи.",
+      "answer": "Não acho minhas chaves.",
+      "distractors": ["perdi", "livro", "novas"]
+    },
+    {
+      "prompt": "Я подумаю об этом.",
+      "answer": "Vou pensar nisso.",
+      "distractors": ["fazer", "meu", "amanhã"]
+    },
+    {
+      "prompt": "Она думает о будущем.",
+      "answer": "Ela está pensando no futuro.",
+      "distractors": ["fala", "lindo", "muito"]
+    },
+    {
+      "prompt": "Я не понимаю.",
+      "answer": "Não entendo.",
+      "distractors": ["falo", "muito", "aqui"]
+    },
+    {
+      "prompt": "Ты понимаешь вопрос?",
+      "answer": "Você entende a pergunta?",
+      "distractors": ["sabe", "ontem", "nova"]
+    },
+    {
+      "prompt": "Я учу португальский.",
+      "answer": "Estou aprendendo português.",
+      "distractors": ["ensinando", "inglês", "agora"]
+    },
+    {
+      "prompt": "Мы учимся на своих ошибках.",
+      "answer": "A gente aprende com os erros.",
+      "distractors": ["foge", "dias", "muitos"]
+    },
+    {
+      "prompt": "Я попробую снова.",
+      "answer": "Vou tentar de novo.",
+      "distractors": ["fazer", "hoje", "aqui"]
+    },
+    {
+      "prompt": "Старайся больше!",
+      "answer": "Tenta mais!",
+      "distractors": ["Faz", "menos", "agora"]
+    },
+    {
+      "prompt": "Я не помню её имя.",
+      "answer": "Não lembro o nome dela.",
+      "distractors": ["sei", "meu", "bonito"]
+    },
+    {
+      "prompt": "Ты помнишь тот день?",
+      "answer": "Você lembra daquele dia?",
+      "distractors": ["sabe", "ontem", "bonito"]
+    },
+    {
+      "prompt": "Я забыл кошелёк.",
+      "answer": "Esqueci minha carteira.",
+      "distractors": ["Perdi", "livro", "nova"]
+    },
+    {
+      "prompt": "Не забудь позвонить мне!",
+      "answer": "Não esquece de me ligar!",
+      "distractors": ["para", "amanhã", "carta"]
+    },
+    {
+      "prompt": "Мне очень жаль.",
+      "answer": "Sinto muito.",
+      "distractors": ["Estou", "pouco", "nada"]
+    },
+    {
+      "prompt": "Как ты себя чувствуешь сегодня?",
+      "answer": "Como você se sente hoje?",
+      "distractors": ["sempre", "lá", "eles"]
+    },
+    {
+      "prompt": "Еда выглядит аппетитно!",
+      "answer": "A comida parece boa!",
+      "distractors": ["está", "bonita", "hoje"]
+    },
+    {
+      "prompt": "Ты выглядишь усталым.",
+      "answer": "Você parece cansado.",
+      "distractors": ["está", "doente", "muito"]
+    },
+    {
+      "prompt": "Я верю в тебя.",
+      "answer": "Eu acredito em você.",
+      "distractors": ["gosto", "nós", "hoje"]
+    },
+    {
+      "prompt": "Она не верит в призраков.",
+      "answer": "Ela não acredita em fantasmas.",
+      "distractors": ["gosta", "aqui", "dois"]
+    },
+    {
+      "prompt": "Ты уже выбрал?",
+      "answer": "Já escolheu?",
+      "distractors": ["pediu", "ainda", "um"]
+    },
+    {
+      "prompt": "Можно обменять эту рубашку?",
+      "answer": "Posso trocar essa camisa?",
+      "distractors": ["devolver", "minha", "aqui"]
+    },
+    {
+      "prompt": "Я передумал.",
+      "answer": "Mudei de ideia.",
+      "distractors": ["Perdi", "agora", "casa"]
+    },
+    {
+      "prompt": "Она переехала в другой город.",
+      "answer": "Ela mudou para outra cidade.",
+      "distractors": ["foi", "viagem", "ontem"]
+    },
+    {
+      "prompt": "Фильм начинается в восемь.",
+      "answer": "O filme começa às oito.",
+      "distractors": ["termina", "sete", "hoje"]
+    },
+    {
+      "prompt": "Давайте начнём!",
+      "answer": "Vamos começar!",
+      "distractors": ["terminar", "agora", "juntos"]
+    },
+    {
+      "prompt": "Всё кончено!",
+      "answer": "Acabou tudo!",
+      "distractors": ["começou", "nada", "aqui"]
+    },
+    {
+      "prompt": "Я закончил работу.",
+      "answer": "Acabei o trabalho.",
+      "distractors": ["comecei", "amanhã", "escola"]
+    },
+    {
+      "prompt": "Где мы встречаемся?",
+      "answer": "Onde a gente se encontra?",
+      "distractors": ["você", "fala", "aqui"]
+    },
+    {
+      "prompt": "Встречу тебя там.",
+      "answer": "Te encontro lá.",
+      "distractors": ["vejo", "aqui", "amanhã"]
+    }
+  ]
+}
