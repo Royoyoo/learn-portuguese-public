@@ -107,7 +107,7 @@ function renderExercise({ exercise, getIsAnswered, onAnswered, renderNextButton 
 
   renderRows();
   wordBlocks.append(answerRow, tokenPool);
-  fragment.append(wordBlocks, feedbackContainer, actions);
+  fragment.append(wordBlocks, actions, feedbackContainer);
   return fragment;
 }
 

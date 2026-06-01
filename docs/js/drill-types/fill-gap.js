@@ -85,7 +85,7 @@ function renderExercise({ exercise, getIsAnswered, onAnswered, renderNextButton 
     optionList.append(button);
   });
 
-  fragment.append(optionList, feedbackContainer, actions);
+  fragment.append(optionList, actions, feedbackContainer);
   return fragment;
 }
 
