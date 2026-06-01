@@ -5,154 +5,274 @@
   "lang": "ru",
   "exercises": [
     {
-      "prompt": "Она родом из Рио-де-Жанейро.",
-      "answer": "Ela é do Rio de Janeiro.",
-      "distractors": ["no", "ao", "pelo"]
-    },
-    {
-      "prompt": "Он работает в центре города.",
-      "answer": "Ele trabalha no centro.",
-      "distractors": ["ao", "do", "pelo"]
-    },
-    {
-      "prompt": "Они каждый год ездят в Аргентину.",
-      "answer": "Eles viajam para a Argentina todo ano.",
-      "distractors": ["na", "da", "pela"]
-    },
-    {
-      "prompt": "Она купила платье за пятьдесят реалов.",
-      "answer": "Ela comprou o vestido por cinquenta reais.",
-      "distractors": ["de", "para", "em"]
-    },
-    {
-      "prompt": "Он вышел из дома с рюкзаком.",
-      "answer": "Ele saiu de casa com uma mochila.",
-      "distractors": ["sem", "ao", "na"]
-    },
-    {
-      "prompt": "Она ушла без ключей.",
-      "answer": "Ela saiu sem as chaves.",
-      "distractors": ["com", "pelas", "sobre"]
-    },
-    {
-      "prompt": "Собрание начинается в девять утра.",
-      "answer": "A reunião começa às nove da manhã.",
-      "distractors": ["pelas", "das", "nas"]
-    },
-    {
-      "prompt": "Он ждал врача два часа.",
-      "answer": "Ele esperou o médico por duas horas.",
-      "distractors": ["de", "para", "em"]
-    },
-    {
-      "prompt": "Кот спрятался под диваном.",
-      "answer": "O gato se escondeu sob o sofá.",
-      "distractors": ["sobre", "no", "ao"]
-    },
-    {
-      "prompt": "Аптека находится между школой и банком.",
-      "answer": "A farmácia fica entre a escola e o banco.",
-      "distractors": ["sobre", "sob", "além"]
-    },
-    {
-      "prompt": "Ресторан открыт до полуночи.",
-      "answer": "O restaurante fica aberto até a meia-noite.",
-      "distractors": ["desde", "das", "pelas"]
-    },
-    {
-      "prompt": "Она шла через лес.",
-      "answer": "Ela caminhou pela floresta.",
-      "distractors": ["na", "à", "da"]
-    },
-    {
-      "prompt": "Они поехали в Париж.",
-      "answer": "Eles foram para Paris.",
-      "distractors": ["de", "em", "por"]
-    },
-    {
-      "prompt": "Он много учился, чтобы получить работу.",
-      "answer": "Ele estudou muito para conseguir o emprego.",
-      "distractors": ["por", "sem", "de"]
-    },
-    {
-      "prompt": "Стол сделан из дерева.",
-      "answer": "A mesa é de madeira.",
-      "distractors": ["com", "em", "por"]
-    },
-    {
-      "prompt": "Мне нравится рис и фасоль.",
-      "answer": "Eu gosto de arroz e feijão.",
-      "distractors": ["mas", "ou", "porque"]
-    },
-    {
-      "prompt": "Он хотел спать, но шум его разбудил.",
-      "answer": "Ele queria dormir, mas o barulho o acordou.",
-      "distractors": ["então", "ou", "porque"]
-    },
-    {
-      "prompt": "Рубашка синяя или зелёная?",
-      "answer": "A camisa é azul ou verde?",
-      "distractors": ["e", "mas", "porque"]
-    },
-    {
-      "prompt": "Она не пришла на вечеринку, потому что была больна.",
-      "answer": "Ela não veio à festa porque estava doente.",
-      "distractors": ["mas", "então", "se"]
-    },
-    {
-      "prompt": "Шёл дождь, поэтому мы остались дома.",
-      "answer": "Estava chovendo, então ficamos em casa.",
-      "distractors": ["mas", "porque", "ou"]
-    },
-    {
-      "prompt": "Когда она приедет, позвони мне.",
-      "answer": "Quando ela chegar, me liga.",
-      "distractors": ["se", "porque", "mas"]
-    },
-    {
       "prompt": "Я думаю, что ты прав.",
       "answer": "Eu acho que você tem razão.",
-      "distractors": ["se", "mas", "porque"]
-    },
-    {
-      "prompt": "Если бы я был богатым, я бы купил дом.",
-      "answer": "Se eu fosse rico, compraria uma casa.",
-      "distractors": ["quando", "porque", "mas"]
-    },
-    {
-      "prompt": "Она также говорит по-испански.",
-      "answer": "Ela também fala espanhol.",
-      "distractors": ["já", "ainda", "mas"]
-    },
-    {
-      "prompt": "Он встал поздно, поэтому опоздал на автобус.",
-      "answer": "Ele acordou tarde, então perdeu o ônibus.",
-      "distractors": ["mas", "porque", "ou"]
-    },
-    {
-      "prompt": "Раз уж ты здесь, давай начнём.",
-      "answer": "Já que você está aqui, vamos começar.",
-      "distractors": ["se", "quando", "mas"]
-    },
-    {
-      "prompt": "Он всё ещё работает в той компании.",
-      "answer": "Ele ainda trabalha naquela empresa.",
-      "distractors": ["já", "também", "mas"]
+      "distractors": [
+        "se",
+        "mas",
+        "porque"
+      ]
     },
     {
       "prompt": "Я спросил, открыт ли магазин.",
       "answer": "Perguntei se a loja estava aberta.",
-      "distractors": ["mas", "e", "ou"]
+      "distractors": [
+        "mas",
+        "e",
+        "ou"
+      ]
+    },
+    {
+      "prompt": "Если бы я был богатым, я бы купил дом.",
+      "answer": "Se eu fosse rico, compraria uma casa.",
+      "distractors": [
+        "quando",
+        "porque",
+        "mas"
+      ]
+    },
+    {
+      "prompt": "Она не пришла на вечеринку, потому что была больна.",
+      "answer": "Ela não veio à festa porque estava doente.",
+      "distractors": [
+        "mas",
+        "então",
+        "se"
+      ]
+    },
+    {
+      "prompt": "Он всё ещё работает в той компании.",
+      "answer": "Ele ainda trabalha naquela empresa.",
+      "distractors": [
+        "já",
+        "também",
+        "mas"
+      ]
+    },
+    {
+      "prompt": "Стол сделан из дерева.",
+      "answer": "A mesa é de madeira.",
+      "distractors": [
+        "com",
+        "em",
+        "por"
+      ]
+    },
+    {
+      "prompt": "Она ушла без ключей.",
+      "answer": "Ela saiu sem as chaves.",
+      "distractors": [
+        "com",
+        "pelas",
+        "sobre"
+      ]
+    },
+    {
+      "prompt": "Он ждал врача два часа.",
+      "answer": "Ele esperou o médico por duas horas.",
+      "distractors": [
+        "de",
+        "para",
+        "em"
+      ]
+    },
+    {
+      "prompt": "Он встал поздно, поэтому опоздал на автобус.",
+      "answer": "Ele acordou tarde, então perdeu o ônibus.",
+      "distractors": [
+        "mas",
+        "porque",
+        "ou"
+      ]
+    },
+    {
+      "prompt": "Он много учился, чтобы получить работу.",
+      "answer": "Ele estudou muito para conseguir o emprego.",
+      "distractors": [
+        "por",
+        "sem",
+        "de"
+      ]
+    },
+    {
+      "prompt": "Аптека находится между школой и банком.",
+      "answer": "A farmácia fica entre a escola e o banco.",
+      "distractors": [
+        "sobre",
+        "sob",
+        "além"
+      ]
+    },
+    {
+      "prompt": "Она купила платье за пятьдесят реалов.",
+      "answer": "Ela comprou o vestido por cinquenta reais.",
+      "distractors": [
+        "de",
+        "para",
+        "em"
+      ]
+    },
+    {
+      "prompt": "Шёл дождь, поэтому мы остались дома.",
+      "answer": "Estava chovendo, então ficamos em casa.",
+      "distractors": [
+        "mas",
+        "porque",
+        "ou"
+      ]
+    },
+    {
+      "prompt": "Он хотел спать, но шум его разбудил.",
+      "answer": "Ele queria dormir, mas o barulho o acordou.",
+      "distractors": [
+        "então",
+        "ou",
+        "porque"
+      ]
+    },
+    {
+      "prompt": "Она также говорит по-испански.",
+      "answer": "Ela também fala espanhol.",
+      "distractors": [
+        "já",
+        "ainda",
+        "mas"
+      ]
+    },
+    {
+      "prompt": "Мне нравится рис и фасоль.",
+      "answer": "Eu gosto de arroz e feijão.",
+      "distractors": [
+        "mas",
+        "ou",
+        "porque"
+      ]
+    },
+    {
+      "prompt": "Они каждый год ездят в Аргентину.",
+      "answer": "Eles viajam para a Argentina todo ano.",
+      "distractors": [
+        "na",
+        "da",
+        "pela"
+      ]
+    },
+    {
+      "prompt": "Она шла через лес.",
+      "answer": "Ela caminhou pela floresta.",
+      "distractors": [
+        "na",
+        "à",
+        "da"
+      ]
+    },
+    {
+      "prompt": "Когда она приедет, позвони мне.",
+      "answer": "Quando ela chegar, me liga.",
+      "distractors": [
+        "se",
+        "porque",
+        "mas"
+      ]
+    },
+    {
+      "prompt": "Раз уж ты здесь, давай начнём.",
+      "answer": "Já que você está aqui, vamos começar.",
+      "distractors": [
+        "se",
+        "quando",
+        "mas"
+      ]
+    },
+    {
+      "prompt": "Она родом из Рио-де-Жанейро.",
+      "answer": "Ela é do Rio de Janeiro.",
+      "distractors": [
+        "no",
+        "ao",
+        "pelo"
+      ]
+    },
+    {
+      "prompt": "Они поехали в Париж.",
+      "answer": "Eles foram para Paris.",
+      "distractors": [
+        "de",
+        "em",
+        "por"
+      ]
+    },
+    {
+      "prompt": "Ресторан открыт до полуночи.",
+      "answer": "O restaurante fica aberto até a meia-noite.",
+      "distractors": [
+        "desde",
+        "das",
+        "pelas"
+      ]
+    },
+    {
+      "prompt": "Кот спрятался под диваном.",
+      "answer": "O gato se escondeu sob o sofá.",
+      "distractors": [
+        "sobre",
+        "no",
+        "ao"
+      ]
+    },
+    {
+      "prompt": "Рубашка синяя или зелёная?",
+      "answer": "A camisa é azul ou verde?",
+      "distractors": [
+        "e",
+        "mas",
+        "porque"
+      ]
+    },
+    {
+      "prompt": "Собрание начинается в девять утра.",
+      "answer": "A reunião começa às nove da manhã.",
+      "distractors": [
+        "pelas",
+        "das",
+        "nas"
+      ]
+    },
+    {
+      "prompt": "Он работает в центре города.",
+      "answer": "Ele trabalha no centro.",
+      "distractors": [
+        "ao",
+        "do",
+        "pelo"
+      ]
     },
     {
       "prompt": "Важно, чтобы ты хорошо спал.",
       "answer": "É importante que você durma bem.",
-      "distractors": ["se", "mas", "quando"]
+      "distractors": [
+        "se",
+        "mas",
+        "quando"
+      ]
     },
     {
       "prompt": "Она занималась, несмотря на усталость.",
       "answer": "Ela estudou apesar de estar cansada.",
-      "distractors": ["mas", "porque", "quando"]
+      "distractors": [
+        "mas",
+        "porque",
+        "quando"
+      ]
+    },
+    {
+      "prompt": "Он вышел из дома с рюкзаком.",
+      "answer": "Ele saiu de casa com uma mochila.",
+      "distractors": [
+        "sem",
+        "ao",
+        "na"
+      ]
     }
   ]
 }

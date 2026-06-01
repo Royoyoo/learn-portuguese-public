@@ -5,124 +5,224 @@
   "lang": "en",
   "exercises": [
     {
-      "question": "What is the Portuguese verb for 'to work'?",
-      "options": ["trabalhar", "morar", "sair", "ajudar"],
-      "correct": 0,
-      "explanation": "'Trabalhar' is the regular -ar verb for work: 'Onde você trabalha?' (Where do you work?). 'Morar' means to reside, 'sair' to leave, 'ajudar' to help — none describe professional activity."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to live' or 'to reside' somewhere?",
-      "options": ["trabalhar", "morar", "chegar", "trazer"],
-      "correct": 1,
-      "explanation": "'Morar' expresses where you live: 'Moro em São Paulo.' 'Trabalhar' means to work, 'chegar' to arrive, 'trazer' to bring — none mean permanent residence."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to leave' or 'to go out'?",
-      "options": ["chegar", "morar", "sair", "trabalhar"],
-      "correct": 2,
-      "explanation": "'Sair' covers leaving and going out: 'Vou sair agora.' 'Chegar' is the opposite — to arrive. 'Morar' means to reside, 'trabalhar' to work."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to arrive'?",
-      "options": ["sair", "trazer", "levar", "chegar"],
-      "correct": 3,
-      "explanation": "'Chegar' means to arrive: 'Que horas você chega?' 'Sair' is the opposite — to leave. 'Trazer' and 'levar' describe moving objects, not a person arriving somewhere."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to wait'?",
-      "options": ["ver", "pedir", "esperar", "ajudar"],
-      "correct": 2,
-      "explanation": "'Esperar' means to wait: 'Espera um momento!' 'Ver' means to see, 'pedir' to request something, 'ajudar' to help — none express waiting."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to see' or 'to watch' (as in watching TV)?",
-      "options": ["olhar", "trazer", "ver", "ligar"],
-      "correct": 2,
-      "explanation": "'Ver televisão' is the standard phrase for watching TV. 'Olhar' is intentional directed looking, not passive viewing. 'Trazer' means to bring, 'ligar' to call or switch on."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to look at' — intentionally directing your gaze?",
-      "options": ["ver", "abrir", "pedir", "olhar"],
-      "correct": 3,
-      "explanation": "'Olhar para' expresses directed, intentional looking: 'Olha para mim!' 'Ver' is passive perception. 'Abrir' means to open, 'pedir' to ask for something."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to put' or 'to place' an object somewhere?",
-      "options": ["levar", "trazer", "colocar", "mandar"],
-      "correct": 2,
-      "explanation": "'Colocar' means to put or place: 'Coloca o livro na mesa.' 'Levar' moves things away from here, 'trazer' brings things here, 'mandar' sends remotely — none mean simply placing an object."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to take' an object away from your location?",
-      "options": ["trazer", "levar", "colocar", "mandar"],
-      "correct": 1,
-      "explanation": "'Levar' moves objects away from the speaker: 'Leva o guarda-chuva.' 'Trazer' is the opposite — bring here. 'Colocar' places an object without moving it far, 'mandar' sends remotely without physical movement."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to bring' an object to your location?",
-      "options": ["colocar", "trazer", "mandar", "levar"],
-      "correct": 1,
-      "explanation": "'Trazer' moves objects toward the speaker: 'Traz o guarda-chuva!' 'Levar' is the opposite — take away. 'Colocar' places an object, 'mandar' sends remotely."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to open'?",
-      "options": ["abrir", "fechar", "ligar", "colocar"],
-      "correct": 0,
-      "explanation": "'Abrir' means to open: 'Abre a porta, por favor.' 'Fechar' is the opposite — to close. 'Ligar' means to call or turn on, 'colocar' to place something."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to close'?",
-      "options": ["abrir", "fechar", "colocar", "ligar"],
-      "correct": 1,
-      "explanation": "'Fechar' means to close: 'Fecha a janela.' 'Abrir' is the opposite — to open. 'Colocar' means to place, 'ligar' to call or turn on."
-    },
-    {
-      "question": "What is the Portuguese verb for 'to call' someone by phone?",
-      "options": ["mandar", "perguntar", "ligar", "pedir"],
-      "correct": 2,
-      "explanation": "'Ligar para alguém' means to phone someone: 'Vou te ligar mais tarde.' 'Mandar' means to send a message, 'perguntar' to ask a question, 'pedir' to request something — none mean making a phone call."
-    },
-    {
       "question": "What is the Portuguese verb for 'to turn on' a light or electrical device?",
-      "options": ["fechar", "ligar", "abrir", "mandar"],
-      "correct": 1,
+      "options": [
+        "abrir",
+        "fechar",
+        "ligar",
+        "mandar"
+      ],
+      "correct": 2,
       "explanation": "'Ligar' covers both 'call' and 'turn on': 'Liga a televisão.' 'Fechar' means to close, 'abrir' to open, 'mandar' to send — none mean switching something on."
     },
     {
-      "question": "What is the Portuguese verb for 'to send' a message, file, or item?",
-      "options": ["levar", "pedir", "perguntar", "mandar"],
+      "question": "What is the Portuguese verb for 'to take' an object away from your location?",
+      "options": [
+        "levar",
+        "colocar",
+        "trazer",
+        "mandar"
+      ],
+      "correct": 0,
+      "explanation": "'Levar' moves objects away from the speaker: 'Leva o guarda-chuva.' 'Trazer' is the opposite — bring here. 'Colocar' places an object without moving it far, 'mandar' sends remotely without physical movement."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to help' someone?",
+      "options": [
+        "pedir",
+        "perguntar",
+        "trazer",
+        "ajudar"
+      ],
       "correct": 3,
-      "explanation": "'Mandar' means to send: 'Manda uma mensagem.' 'Levar' requires physical movement by the sender, 'pedir' requests something, 'perguntar' asks a question — none mean dispatching or transmitting."
+      "explanation": "'Ajudar' means to help: 'Pode me ajudar?' 'Pedir' means to ask for something, 'perguntar' to ask a question, 'trazer' to bring an object — none mean offering assistance."
+    },
+    {
+      "question": "Which verb from this group covers two distinct meanings: 'to call by phone' AND 'to turn on a device'?",
+      "options": [
+        "ligar",
+        "mandar",
+        "pedir",
+        "abrir"
+      ],
+      "correct": 0,
+      "explanation": "'Ligar' is uniquely dual-purpose: 'Vou te ligar' (I'll call you) and 'Liga a luz' (Turn on the light). 'Mandar' means to send, 'abrir' to open, 'pedir' to request — none share this dual role."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to arrive'?",
+      "options": [
+        "levar",
+        "sair",
+        "chegar",
+        "trazer"
+      ],
+      "correct": 2,
+      "explanation": "'Chegar' means to arrive: 'Que horas você chega?' 'Sair' is the opposite — to leave. 'Trazer' and 'levar' describe moving objects, not a person arriving somewhere."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to open'?",
+      "options": [
+        "ligar",
+        "abrir",
+        "colocar",
+        "fechar"
+      ],
+      "correct": 1,
+      "explanation": "'Abrir' means to open: 'Abre a porta, por favor.' 'Fechar' is the opposite — to close. 'Ligar' means to call or turn on, 'colocar' to place something."
     },
     {
       "question": "What is the Portuguese verb for 'to order' food or 'to ask for' a favor?",
-      "options": ["perguntar", "ajudar", "mandar", "pedir"],
+      "options": [
+        "perguntar",
+        "ajudar",
+        "mandar",
+        "pedir"
+      ],
       "correct": 3,
       "explanation": "'Pedir' covers ordering food and requesting favors: 'Pede a conta.' 'Perguntar' is for informational questions, not ordering. 'Ajudar' means to help, 'mandar' to send."
     },
     {
-      "question": "What is the Portuguese verb for 'to ask' a question to get information?",
-      "options": ["pedir", "mandar", "perguntar", "ajudar"],
-      "correct": 2,
-      "explanation": "'Perguntar' is for seeking information: 'Posso te perguntar uma coisa?' 'Pedir' requests objects or favors, not information. 'Mandar' means to send, 'ajudar' to help."
+      "question": "What is the Portuguese verb for 'to close'?",
+      "options": [
+        "ligar",
+        "abrir",
+        "colocar",
+        "fechar"
+      ],
+      "correct": 3,
+      "explanation": "'Fechar' means to close: 'Fecha a janela.' 'Abrir' is the opposite — to open. 'Colocar' means to place, 'ligar' to call or turn on."
     },
     {
-      "question": "What is the Portuguese verb for 'to help' someone?",
-      "options": ["pedir", "perguntar", "ajudar", "trazer"],
+      "question": "What is the Portuguese verb for 'to send' a message, file, or item?",
+      "options": [
+        "levar",
+        "pedir",
+        "mandar",
+        "perguntar"
+      ],
       "correct": 2,
-      "explanation": "'Ajudar' means to help: 'Pode me ajudar?' 'Pedir' means to ask for something, 'perguntar' to ask a question, 'trazer' to bring an object — none mean offering assistance."
+      "explanation": "'Mandar' means to send: 'Manda uma mensagem.' 'Levar' requires physical movement by the sender, 'pedir' requests something, 'perguntar' asks a question — none mean dispatching or transmitting."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to look at' — intentionally directing your gaze?",
+      "options": [
+        "olhar",
+        "pedir",
+        "ver",
+        "abrir"
+      ],
+      "correct": 0,
+      "explanation": "'Olhar para' expresses directed, intentional looking: 'Olha para mim!' 'Ver' is passive perception. 'Abrir' means to open, 'pedir' to ask for something."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to bring' an object to your location?",
+      "options": [
+        "trazer",
+        "levar",
+        "mandar",
+        "colocar"
+      ],
+      "correct": 0,
+      "explanation": "'Trazer' moves objects toward the speaker: 'Traz o guarda-chuva!' 'Levar' is the opposite — take away. 'Colocar' places an object, 'mandar' sends remotely."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to work'?",
+      "options": [
+        "sair",
+        "morar",
+        "ajudar",
+        "trabalhar"
+      ],
+      "correct": 3,
+      "explanation": "'Trabalhar' is the regular -ar verb for work: 'Onde você trabalha?' (Where do you work?). 'Morar' means to reside, 'sair' to leave, 'ajudar' to help — none describe professional activity."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to see' or 'to watch' (as in watching TV)?",
+      "options": [
+        "ver",
+        "ligar",
+        "trazer",
+        "olhar"
+      ],
+      "correct": 0,
+      "explanation": "'Ver televisão' is the standard phrase for watching TV. 'Olhar' is intentional directed looking, not passive viewing. 'Trazer' means to bring, 'ligar' to call or switch on."
     },
     {
       "question": "Which verb from this group also means 'to hope' in addition to its main meaning of 'to wait'?",
-      "options": ["olhar", "esperar", "ver", "ajudar"],
-      "correct": 1,
+      "options": [
+        "ver",
+        "ajudar",
+        "olhar",
+        "esperar"
+      ],
+      "correct": 3,
       "explanation": "'Esperar' uniquely covers both meanings: 'Espero que dê certo!' (I hope it works out!). 'Olhar' means to look at, 'ver' to see, 'ajudar' to help — none can express hope."
     },
     {
-      "question": "Which verb from this group covers two distinct meanings: 'to call by phone' AND 'to turn on a device'?",
-      "options": ["mandar", "abrir", "pedir", "ligar"],
+      "question": "What is the Portuguese verb for 'to put' or 'to place' an object somewhere?",
+      "options": [
+        "trazer",
+        "mandar",
+        "levar",
+        "colocar"
+      ],
       "correct": 3,
-      "explanation": "'Ligar' is uniquely dual-purpose: 'Vou te ligar' (I'll call you) and 'Liga a luz' (Turn on the light). 'Mandar' means to send, 'abrir' to open, 'pedir' to request — none share this dual role."
+      "explanation": "'Colocar' means to put or place: 'Coloca o livro na mesa.' 'Levar' moves things away from here, 'trazer' brings things here, 'mandar' sends remotely — none mean simply placing an object."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to leave' or 'to go out'?",
+      "options": [
+        "morar",
+        "trabalhar",
+        "sair",
+        "chegar"
+      ],
+      "correct": 2,
+      "explanation": "'Sair' covers leaving and going out: 'Vou sair agora.' 'Chegar' is the opposite — to arrive. 'Morar' means to reside, 'trabalhar' to work."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to ask' a question to get information?",
+      "options": [
+        "perguntar",
+        "ajudar",
+        "pedir",
+        "mandar"
+      ],
+      "correct": 0,
+      "explanation": "'Perguntar' is for seeking information: 'Posso te perguntar uma coisa?' 'Pedir' requests objects or favors, not information. 'Mandar' means to send, 'ajudar' to help."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to wait'?",
+      "options": [
+        "esperar",
+        "pedir",
+        "ajudar",
+        "ver"
+      ],
+      "correct": 0,
+      "explanation": "'Esperar' means to wait: 'Espera um momento!' 'Ver' means to see, 'pedir' to request something, 'ajudar' to help — none express waiting."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to call' someone by phone?",
+      "options": [
+        "pedir",
+        "ligar",
+        "perguntar",
+        "mandar"
+      ],
+      "correct": 1,
+      "explanation": "'Ligar para alguém' means to phone someone: 'Vou te ligar mais tarde.' 'Mandar' means to send a message, 'perguntar' to ask a question, 'pedir' to request something — none mean making a phone call."
+    },
+    {
+      "question": "What is the Portuguese verb for 'to live' or 'to reside' somewhere?",
+      "options": [
+        "morar",
+        "trabalhar",
+        "chegar",
+        "trazer"
+      ],
+      "correct": 0,
+      "explanation": "'Morar' expresses where you live: 'Moro em São Paulo.' 'Trabalhar' means to work, 'chegar' to arrive, 'trazer' to bring — none mean permanent residence."
     }
   ]
 }

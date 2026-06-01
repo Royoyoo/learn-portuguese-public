@@ -5,144 +5,244 @@
   "lang": "ru",
   "exercises": [
     {
-      "prompt": "Выберите глагол, выражающий желание или просьбу.",
-      "sentence": "Eu ___ uma mesa para dois às oito da noite.",
-      "options": ["quero", "vou", "faço", "sei"],
-      "correct": 0,
-      "explanation": "«Quero» выражает желание или просьбу. «Vou» = иду (движение или вспомогательный глагол будущего — требует ещё одного глагола после). «Faço» = делаю (означало бы, что я строю стол, а не бронирую место). «Sei» = знаю (совсем другое значение)."
-    },
-    {
-      "prompt": "Выберите глагол, означающий «идти».",
-      "sentence": "Neste fim de semana, eu ___ à praia com minha família.",
-      "options": ["vou", "venho", "como", "pago"],
-      "correct": 0,
-      "explanation": "«Vou» выражает движение к месту. «Venho» = прихожу (направление к говорящему — противоположность удалению). «Como» = ем (другое действие). «Pago» = плачу (другое действие)."
-    },
-    {
-      "prompt": "Выберите глагол, используемый в погодных выражениях.",
-      "sentence": "Quando ___ frio, a Ana sempre bebe chá quente.",
-      "options": ["faz", "dá", "vem", "quer"],
-      "correct": 0,
-      "explanation": "«Faz frio» — устойчивое выражение для «холодно»: в португальском языке для описания погоды используется глагол fazer. «Dá frio» — не стандартная конструкция для погоды. «Vem frio» = холод идёт (необычно, буквально). «Quer frio» = холод хочет чего-то (абсурдно)."
-    },
-    {
-      "prompt": "Выберите глагол, выражающий разрешение или запрет.",
-      "sentence": "O médico disse que eu não ___ comer gordura por dois meses.",
-      "options": ["posso", "quero", "sei", "venho"],
-      "correct": 0,
-      "explanation": "«Posso» выражает запрет: врач сказал, что мне нельзя есть жирное. «Quero» = хочу — меняет смысл на «врач сказал, что я не хочу есть жирное», что описывает желание, а не медицинское ограничение. «Sei comer» = умею есть (не по теме). «Venho comer» = прихожу есть (неверное действие)."
-    },
-    {
-      "prompt": "Какой глагол означает «говорить» или «сказать»?",
-      "sentence": "O professor ___ devagar para os alunos entenderem melhor.",
-      "options": ["fala", "dá", "vem", "paga"],
-      "correct": 0,
-      "explanation": "«Fala» = говорит (учитель говорит медленно). «Dá» = даёт (дают предметы, а не стиль речи). «Vem devagar» = приходит медленно (движение, а не общение). «Paga devagar» = платит медленно (финансовое действие, не речь)."
-    },
-    {
       "prompt": "Выберите глагол для знания факта или информации.",
       "sentence": "Eu não ___ onde fica a farmácia mais próxima.",
-      "options": ["sei", "conheço", "posso", "vou"],
+      "options": [
+        "sei",
+        "posso",
+        "vou",
+        "conheço"
+      ],
       "correct": 0,
       "explanation": "«Sei» = знаю (факт). «Conheço» = знаком с (человеком или местом) — глагол «conhecer» требует прямого дополнения (место или человек), а не косвенного вопроса «onde fica». «Posso» = могу (способность, не знание). «Vou» = иду (движение, не знание)."
     },
     {
+      "prompt": "Выберите глагол для знания конкретного факта.",
+      "sentence": "Você ___ quanto custa a passagem de ônibus até o centro?",
+      "options": [
+        "sabe",
+        "conhece",
+        "pode",
+        "quer"
+      ],
+      "correct": 0,
+      "explanation": "«Sabe» = знает факт (цену билета). «Conhece» = знаком с — «conhecer» не может принимать косвенный вопрос «quanto custa» в качестве дополнения; он требует людей или мест. «Pode» = может (способность, не знание). «Quer» = хочет (желание, не знание)."
+    },
+    {
+      "prompt": "Выберите глагол, входящий в это устойчивое выражение.",
+      "sentence": "Ela ___ sol na varanda enquanto lê um livro.",
+      "options": [
+        "sabe",
+        "toma",
+        "come",
+        "conhece"
+      ],
+      "correct": 1,
+      "explanation": "«Tomar sol» — устойчивое выражение, означающее «загорать», и заменить его нельзя. «Come sol» = ест солнце (абсурдно). «Sabe sol» = знает солнце (неверно). «Conhece sol» = знаком с солнцем (неверно). Только «tomar» образует это выражение."
+    },
+    {
+      "prompt": "Какой глагол означает «нравиться» и всегда требует «de»?",
+      "sentence": "Eu não ___ de filmes de terror — prefiro comédia.",
+      "options": [
+        "venho",
+        "sei",
+        "faço",
+        "gosto"
+      ],
+      "correct": 3,
+      "explanation": "«Gosto de» = нравится (всегда требует «de»). «Sei de filmes» — не типичная конструкция. «Venho de filmes» = прихожу из фильмов (неверно). Если подставить «faço», получится «не делаю фильмы ужасов», что не согласуется с «предпочитаю комедию»."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «платить».",
+      "sentence": "Você ___ a conta com Pix ou no cartão?",
+      "options": [
+        "dá",
+        "quer",
+        "paga",
+        "compra"
+      ],
+      "correct": 2,
+      "explanation": "«Paga a conta» = оплачивает счёт. «Dá a conta» = отдаёт счёт кому-то (например, официант подаёт счёт) — и «dá com Pix» — неестественная конструкция. «Compra a conta» = покупает счёт (абсурдно). «Quer a conta» = хочет счёт (желание, а не оплата)."
+    },
+    {
+      "prompt": "Выберите глагол, выражающий разрешение или запрет.",
+      "sentence": "O médico disse que eu não ___ comer gordura por dois meses.",
+      "options": [
+        "quero",
+        "sei",
+        "posso",
+        "venho"
+      ],
+      "correct": 2,
+      "explanation": "«Posso» выражает запрет: врач сказал, что мне нельзя есть жирное. «Quero» = хочу — меняет смысл на «врач сказал, что я не хочу есть жирное», что описывает желание, а не медицинское ограничение. «Sei comer» = умею есть (не по теме). «Venho comer» = прихожу есть (неверное действие)."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «идти».",
+      "sentence": "Neste fim de semana, eu ___ à praia com minha família.",
+      "options": [
+        "vou",
+        "pago",
+        "venho",
+        "como"
+      ],
+      "correct": 0,
+      "explanation": "«Vou» выражает движение к месту. «Venho» = прихожу (направление к говорящему — противоположность удалению). «Como» = ем (другое действие). «Pago» = плачу (другое действие)."
+    },
+    {
+      "prompt": "Выберите глагол для вежливой просьбы.",
+      "sentence": "Desculpe, você ___ falar mais devagar? Não entendi nada.",
+      "options": [
+        "pode",
+        "sabe",
+        "vem",
+        "quer"
+      ],
+      "correct": 0,
+      "explanation": "«Pode falar mais devagar?» = можете говорить медленнее? — стандартная вежливая просьба. «Quer falar mais devagar?» = хотите говорить медленнее? — вопрос о желании не уместен при просьбе о помощи. «Sabe falar mais devagar?» = умеете говорить медленно? — подразумевает отсутствие навыка, что звучит грубо. «Vem falar» = приходит говорить (неверно)."
+    },
+    {
+      "prompt": "Выберите глагол, выражающий нужду или необходимость.",
+      "sentence": "Eu ___ de ajuda para montar esse móvel — é muito complicado.",
+      "options": [
+        "sei",
+        "preciso",
+        "gosto",
+        "quero"
+      ],
+      "correct": 1,
+      "explanation": "«Preciso de» = нужна (всегда требует «de»). «Quero» не сочетается с «de» перед существительным — «quero de ajuda» грамматически неверно; правильная форма: «quero ajuda». «Gosto de ajuda» = люблю помощь (общее предпочтение, не необходимость). «Sei de ajuda» — неестественная конструкция."
+    },
+    {
+      "prompt": "Выберите глагол, выражающий происхождение или направление к говорящему.",
+      "sentence": "De onde você ___ — do Rio, de São Paulo ou de outro estado?",
+      "options": [
+        "vai",
+        "sabe",
+        "vem",
+        "quer"
+      ],
+      "correct": 2,
+      "explanation": "«Vem» спрашивает о происхождении — откуда вы. «Vai» = идёт — «de onde você vai?» означает «куда вы направляетесь?» (пункт назначения), а не происхождение. «De onde você sabe?» — неграмматично. «De onde você quer?» — неграмматично."
+    },
+    {
+      "prompt": "Выберите глагол, выражающий желание при предложении выбора.",
+      "sentence": "Você ___ água ou suco de laranja?",
+      "options": [
+        "come",
+        "quer",
+        "sabe",
+        "vem"
+      ],
+      "correct": 1,
+      "explanation": "«Quer» = хотите (предложение выбора напитков). «Come água ou suco» = едите воду или сок (неверно — жидкости пьют, а не едят). «Sabe água ou suco» = знаете воду или сок (неверно). «Vem água ou suco» — полностью неверно."
+    },
+    {
+      "prompt": "Выберите глагол, выражающий желание или просьбу.",
+      "sentence": "Eu ___ uma mesa para dois às oito da noite.",
+      "options": [
+        "faço",
+        "vou",
+        "sei",
+        "quero"
+      ],
+      "correct": 3,
+      "explanation": "«Quero» выражает желание или просьбу. «Vou» = иду (движение или вспомогательный глагол будущего — требует ещё одного глагола после). «Faço» = делаю (означало бы, что я строю стол, а не бронирую место). «Sei» = знаю (совсем другое значение)."
+    },
+    {
+      "prompt": "Выберите глагол, выражающий необходимость по рецепту.",
+      "sentence": "Para fazer essa receita, você ___ de farinha, ovos e açúcar.",
+      "options": [
+        "compra",
+        "quer",
+        "gosta",
+        "precisa"
+      ],
+      "correct": 3,
+      "explanation": "«Precisa de» = нужны (рецепт требует эти ингредиенты). «Quer» не сочетается с «de» перед существительным — «você quer de farinha» грамматически неверно (правильная форма: «você quer farinha»). «Gosta de farinha, ovos e açúcar» = вам нравятся мука, яйца и сахар (личное предпочтение, не требование рецепта). «Compra» = покупает (действие покупки, не требование)."
+    },
+    {
+      "prompt": "Выберите глагол, используемый в погодных выражениях.",
+      "sentence": "Quando ___ frio, a Ana sempre bebe chá quente.",
+      "options": [
+        "dá",
+        "vem",
+        "quer",
+        "faz"
+      ],
+      "correct": 3,
+      "explanation": "«Faz frio» — устойчивое выражение для «холодно»: в португальском языке для описания погоды используется глагол fazer. «Dá frio» — не стандартная конструкция для погоды. «Vem frio» = холод идёт (необычно, буквально). «Quer frio» = холод хочет чего-то (абсурдно)."
+    },
+    {
+      "prompt": "Какой глагол означает «говорить» или «сказать»?",
+      "sentence": "O professor ___ devagar para os alunos entenderem melhor.",
+      "options": [
+        "fala",
+        "dá",
+        "vem",
+        "paga"
+      ],
+      "correct": 0,
+      "explanation": "«Fala» = говорит (учитель говорит медленно). «Dá» = даёт (дают предметы, а не стиль речи). «Vem devagar» = приходит медленно (движение, а не общение). «Paga devagar» = платит медленно (финансовое действие, не речь)."
+    },
+    {
+      "prompt": "Выберите глагол, используемый в выражении «можно ли / получится ли».",
+      "sentence": "Esse aplicativo ___ para funcionar sem internet?",
+      "options": [
+        "quer",
+        "sabe",
+        "faz",
+        "dá"
+      ],
+      "correct": 3,
+      "explanation": "«Dá para» — бразильское выражение со значением «можно ли / получится ли». «Faz para funcionar» — не стандартная конструкция в португальском. «Quer para funcionar» = хочет работать (приложения не выражают желаний). «Sabe para funcionar» = умеет работать (неверная конструкция)."
+    },
+    {
+      "prompt": "Выберите глагол, означающий «покупать».",
+      "sentence": "Para conseguir um bom preço, eu sempre ___ os eletrônicos no Black Friday.",
+      "options": [
+        "compro",
+        "sei",
+        "venho",
+        "vou"
+      ],
+      "correct": 0,
+      "explanation": "«Compro» = покупаю (приобретение товаров). «Vou os eletrônicos» — неверно: «ir» требует предлога перед местом, а не прямого дополнения. «Sei os eletrônicos» = знаю электронику (неверный синтаксис). «Venho os eletrônicos» — неверно по той же причине."
+    },
+    {
       "prompt": "Выберите глагол для личного знакомства с местом.",
       "sentence": "Você ___ o novo restaurante japonês que abriu no centro?",
-      "options": ["conhece", "sabe", "toma", "paga"],
-      "correct": 0,
+      "options": [
+        "paga",
+        "conhece",
+        "sabe",
+        "toma"
+      ],
+      "correct": 1,
       "explanation": "«Conhece» = знает / бывал в (месте, по личному опыту). «Sabe» = знает факт — «saber» не может принимать место как прямое дополнение; «você sabe o restaurante» грамматически неверно. «Toma» = берёт/пьёт (другое действие). «Paga» = платит (другое действие)."
     },
     {
       "prompt": "Выберите глагол, дополняющий это устойчивое выражение.",
       "sentence": "Ela ___ um abraço na avó toda vez que a visita.",
-      "options": ["dá", "faz", "compra", "quer"],
-      "correct": 0,
+      "options": [
+        "compra",
+        "dá",
+        "quer",
+        "faz"
+      ],
+      "correct": 1,
       "explanation": "«Dar um abraço» — устойчивое выражение, означающее «обнять». «Faz um abraço» в португальском не используется. «Compra um abraço» = покупает объятие (абсурдно). «Quer um abraço» = хочет объятие — выражает желание, а не действие, которое происходит при каждом визите."
-    },
-    {
-      "prompt": "Выберите глагол, выражающий нужду или необходимость.",
-      "sentence": "Eu ___ de ajuda para montar esse móvel — é muito complicado.",
-      "options": ["preciso", "quero", "gosto", "sei"],
-      "correct": 0,
-      "explanation": "«Preciso de» = нужна (всегда требует «de»). «Quero» не сочетается с «de» перед существительным — «quero de ajuda» грамматически неверно; правильная форма: «quero ajuda». «Gosto de ajuda» = люблю помощь (общее предпочтение, не необходимость). «Sei de ajuda» — неестественная конструкция."
-    },
-    {
-      "prompt": "Какой глагол означает «нравиться» и всегда требует «de»?",
-      "sentence": "Eu não ___ de filmes de terror — prefiro comédia.",
-      "options": ["gosto", "sei", "venho", "faço"],
-      "correct": 0,
-      "explanation": "«Gosto de» = нравится (всегда требует «de»). «Sei de filmes» — не типичная конструкция. «Venho de filmes» = прихожу из фильмов (неверно). Если подставить «faço», получится «не делаю фильмы ужасов», что не согласуется с «предпочитаю комедию»."
-    },
-    {
-      "prompt": "Выберите глагол, выражающий происхождение или направление к говорящему.",
-      "sentence": "De onde você ___ — do Rio, de São Paulo ou de outro estado?",
-      "options": ["vem", "vai", "sabe", "quer"],
-      "correct": 0,
-      "explanation": "«Vem» спрашивает о происхождении — откуда вы. «Vai» = идёт — «de onde você vai?» означает «куда вы направляетесь?» (пункт назначения), а не происхождение. «De onde você sabe?» — неграмматично. «De onde você quer?» — неграмматично."
     },
     {
       "prompt": "Выберите глагол для употребления твёрдой пищи.",
       "sentence": "Todo dia de manhã, eu ___ uma fruta antes de sair de casa.",
-      "options": ["como", "tomo", "pago", "compro"],
-      "correct": 0,
+      "options": [
+        "pago",
+        "compro",
+        "tomo",
+        "como"
+      ],
+      "correct": 3,
       "explanation": "«Como» = ем (верный глагол для твёрдой пищи). «Tomo» = принимаю/пью — «tomar» используется для напитков, лекарств, ванны, загара, но не для еды. «Pago uma fruta» = плачу за фрукт (финансовое действие). «Compro uma fruta» = покупаю фрукт (покупка, а не еда)."
-    },
-    {
-      "prompt": "Выберите глагол, входящий в это устойчивое выражение.",
-      "sentence": "Ela ___ sol na varanda enquanto lê um livro.",
-      "options": ["toma", "come", "sabe", "conhece"],
-      "correct": 0,
-      "explanation": "«Tomar sol» — устойчивое выражение, означающее «загорать», и заменить его нельзя. «Come sol» = ест солнце (абсурдно). «Sabe sol» = знает солнце (неверно). «Conhece sol» = знаком с солнцем (неверно). Только «tomar» образует это выражение."
-    },
-    {
-      "prompt": "Выберите глагол, означающий «покупать».",
-      "sentence": "Para conseguir um bom preço, eu sempre ___ os eletrônicos no Black Friday.",
-      "options": ["compro", "vou", "sei", "venho"],
-      "correct": 0,
-      "explanation": "«Compro» = покупаю (приобретение товаров). «Vou os eletrônicos» — неверно: «ir» требует предлога перед местом, а не прямого дополнения. «Sei os eletrônicos» = знаю электронику (неверный синтаксис). «Venho os eletrônicos» — неверно по той же причине."
-    },
-    {
-      "prompt": "Выберите глагол, означающий «платить».",
-      "sentence": "Você ___ a conta com Pix ou no cartão?",
-      "options": ["paga", "dá", "compra", "quer"],
-      "correct": 0,
-      "explanation": "«Paga a conta» = оплачивает счёт. «Dá a conta» = отдаёт счёт кому-то (например, официант подаёт счёт) — и «dá com Pix» — неестественная конструкция. «Compra a conta» = покупает счёт (абсурдно). «Quer a conta» = хочет счёт (желание, а не оплата)."
-    },
-    {
-      "prompt": "Выберите глагол, выражающий желание при предложении выбора.",
-      "sentence": "Você ___ água ou suco de laranja?",
-      "options": ["quer", "come", "sabe", "vem"],
-      "correct": 0,
-      "explanation": "«Quer» = хотите (предложение выбора напитков). «Come água ou suco» = едите воду или сок (неверно — жидкости пьют, а не едят). «Sabe água ou suco» = знаете воду или сок (неверно). «Vem água ou suco» — полностью неверно."
-    },
-    {
-      "prompt": "Выберите глагол для вежливой просьбы.",
-      "sentence": "Desculpe, você ___ falar mais devagar? Não entendi nada.",
-      "options": ["pode", "quer", "sabe", "vem"],
-      "correct": 0,
-      "explanation": "«Pode falar mais devagar?» = можете говорить медленнее? — стандартная вежливая просьба. «Quer falar mais devagar?» = хотите говорить медленнее? — вопрос о желании не уместен при просьбе о помощи. «Sabe falar mais devagar?» = умеете говорить медленно? — подразумевает отсутствие навыка, что звучит грубо. «Vem falar» = приходит говорить (неверно)."
-    },
-    {
-      "prompt": "Выберите глагол, используемый в выражении «можно ли / получится ли».",
-      "sentence": "Esse aplicativo ___ para funcionar sem internet?",
-      "options": ["dá", "faz", "quer", "sabe"],
-      "correct": 0,
-      "explanation": "«Dá para» — бразильское выражение со значением «можно ли / получится ли». «Faz para funcionar» — не стандартная конструкция в португальском. «Quer para funcionar» = хочет работать (приложения не выражают желаний). «Sabe para funcionar» = умеет работать (неверная конструкция)."
-    },
-    {
-      "prompt": "Выберите глагол для знания конкретного факта.",
-      "sentence": "Você ___ quanto custa a passagem de ônibus até o centro?",
-      "options": ["sabe", "conhece", "pode", "quer"],
-      "correct": 0,
-      "explanation": "«Sabe» = знает факт (цену билета). «Conhece» = знаком с — «conhecer» не может принимать косвенный вопрос «quanto custa» в качестве дополнения; он требует людей или мест. «Pode» = может (способность, не знание). «Quer» = хочет (желание, не знание)."
-    },
-    {
-      "prompt": "Выберите глагол, выражающий необходимость по рецепту.",
-      "sentence": "Para fazer essa receita, você ___ de farinha, ovos e açúcar.",
-      "options": ["precisa", "quer", "gosta", "compra"],
-      "correct": 0,
-      "explanation": "«Precisa de» = нужны (рецепт требует эти ингредиенты). «Quer» не сочетается с «de» перед существительным — «você quer de farinha» грамматически неверно (правильная форма: «você quer farinha»). «Gosta de farinha, ovos e açúcar» = вам нравятся мука, яйца и сахар (личное предпочтение, не требование рецепта). «Compra» = покупает (действие покупки, не требование)."
     }
   ]
 }

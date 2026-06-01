@@ -5,144 +5,244 @@
   "lang": "en",
   "exercises": [
     {
-      "prompt": "Choose the verb that fits this sentence.",
-      "sentence": "Não consigo ___ meu passaporte em nenhuma gaveta.",
-      "options": ["achar", "lembrar", "entender", "trocar"],
-      "correct": 0,
-      "explanation": "'Achar' means to find (physically locate). 'Em nenhuma gaveta' (in no drawer) signals physical searching — only 'achar' fits. 'Lembrar meu passaporte em nenhuma gaveta' is not a natural Portuguese construction. 'Entender' and 'trocar' make no sense in this context."
-    },
-    {
-      "prompt": "Select the correct verb form.",
-      "sentence": "Não ___ graça nenhuma nessa piada.",
-      "options": ["entendo", "acho", "lembro", "começo"],
-      "correct": 1,
-      "explanation": "'Achar graça' is a fixed expression meaning 'to find something funny'. None of the other options work in this fixed expression. 'Entender graça', 'lembro graça', and 'começo graça' are not standard Portuguese constructions."
-    },
-    {
-      "prompt": "Which verb completes this sentence?",
-      "sentence": "Vou ___ no assunto e te respondo amanhã.",
-      "options": ["lembrar", "tentar", "pensar", "escolher"],
-      "correct": 2,
-      "explanation": "'Pensar em algo' = to think about something. 'Vou pensar no assunto' = I'll think about the matter. 'Lembrar' requires 'de', not 'em' ('lembrar do assunto'), so 'lembrar no' is wrong. 'Tentar no' and 'escolher no' are not valid constructions in Portuguese."
-    },
-    {
-      "prompt": "Choose the verb that fits this sentence.",
-      "sentence": "Esse contrato é complicado demais. Não ___ nada.",
-      "options": ["entendo", "escolho", "começo", "troco"],
-      "correct": 0,
-      "explanation": "When something is too complicated, 'not understanding' is the natural conclusion. 'Não escolho nada' (I don't choose anything), 'não começo nada' (I don't start anything), and 'não troco nada' (I don't exchange anything) don't follow logically from 'this contract is too complicated'."
-    },
-    {
-      "prompt": "Select the verb that fits this sentence.",
-      "sentence": "Você precisa ___ as regras do jogo antes de começar.",
-      "options": ["tentar", "sentir", "acreditar", "aprender"],
-      "correct": 3,
-      "explanation": "'Aprender as regras' = to learn the rules — acquiring knowledge before starting. 'Tentar as regras' is not natural — 'tentar' means to attempt, not to acquire knowledge. 'Sentir as regras' = feel the rules (rules are not something you feel). 'Acreditar' requires a preposition ('acreditar nas regras'), not a direct object."
-    },
-    {
-      "prompt": "Choose the correct command.",
-      "sentence": "Não desista. ___ mais uma vez!",
-      "options": ["Esqueça", "Tente", "Mude", "Acabe"],
-      "correct": 1,
-      "explanation": "'Tentar mais uma vez' = try again — the natural encouragement after 'don't give up'. 'Esqueça mais uma vez' = forget one more time (contradicts the encouragement). 'Mude mais uma vez' = change one more time (doesn't fit without context). 'Acabe mais uma vez' = finish one more time (doesn't fit)."
-    },
-    {
       "prompt": "Which verb completes this question?",
       "sentence": "Você ___ o nome do filme que assistimos semana passada?",
-      "options": ["lembra", "entende", "parece", "começa"],
-      "correct": 0,
+      "options": [
+        "começa",
+        "parece",
+        "entende",
+        "lembra"
+      ],
+      "correct": 3,
       "explanation": "'Lembrar o nome' = to remember the name. 'Entende o nome do filme?' = do you understand the name of the film? (makes no sense as a question). 'Parece o nome do filme' is grammatically wrong — 'parecer' is used impersonally ('parece que'). 'Começa o nome do filme' makes no sense."
     },
     {
       "prompt": "Choose the verb that fits this sentence.",
       "sentence": "Ontem eu ___ de pagar a conta e agora estou sem luz.",
-      "options": ["lembrei", "tentei", "esqueci", "comecei"],
-      "correct": 2,
-      "explanation": "'Esquecer de fazer algo' = to forget to do something. 'Agora estou sem luz' confirms the bill was never paid — only 'esqueci' is logically consistent. 'Lembrei de pagar' = remembered to pay (if you paid, you'd have electricity, contradicting 'sem luz'). 'Tentei de' and 'comecei de' are grammatically wrong — the correct forms are 'tentei pagar' and 'comecei a pagar'."
-    },
-    {
-      "prompt": "Select the correct verb form.",
-      "sentence": "Depois de ganhar o prêmio, ela ___ muito feliz.",
-      "options": ["se sentiu", "se lembrou", "se esqueceu", "se escolheu"],
+      "options": [
+        "esqueci",
+        "lembrei",
+        "tentei",
+        "comecei"
+      ],
       "correct": 0,
-      "explanation": "'Sentir-se + adjective' = to feel + adjective. 'Ela se sentiu muito feliz' = she felt very happy — the natural expression after winning a prize. The other three verbs ('lembrar-se', 'esquecer-se', 'escolher-se') cannot be followed directly by an adjective like 'muito feliz'."
-    },
-    {
-      "prompt": "Which verb completes this sentence?",
-      "sentence": "Esse plano ___ arriscado demais para mim.",
-      "options": ["sente", "acredita", "tenta", "parece"],
-      "correct": 3,
-      "explanation": "'Parecer + adjective' = to seem + adjective. 'Esse plano parece arriscado demais' = this plan seems too risky. Plans cannot 'feel' (sente), 'believe' (acredita), or 'try' (tenta) — these verbs require animate subjects."
+      "explanation": "'Esquecer de fazer algo' = to forget to do something. 'Agora estou sem luz' confirms the bill was never paid — only 'esqueci' is logically consistent. 'Lembrei de pagar' = remembered to pay (if you paid, you'd have electricity, contradicting 'sem luz'). 'Tentei de' and 'comecei de' are grammatically wrong — the correct forms are 'tentei pagar' and 'comecei a pagar'."
     },
     {
       "prompt": "Choose the correct command.",
       "sentence": "___ nos seus sonhos e nunca desista!",
-      "options": ["Entenda", "Acredite", "Esqueça", "Lembre"],
+      "options": [
+        "Esqueça",
+        "Acredite",
+        "Entenda",
+        "Lembre"
+      ],
       "correct": 1,
       "explanation": "'Acreditar em' = to believe in. 'Acredite nos seus sonhos' = believe in your dreams — the natural motivational expression paired with 'nunca desista'. 'Entenda nos seus sonhos' is grammatically wrong — 'entender' does not take 'em + noun' in this way. 'Esqueça' (forget) directly contradicts 'nunca desista'. 'Lembre nos seus sonhos' is wrong — 'lembrar' requires 'de': 'lembre-se dos seus sonhos'."
     },
     {
-      "prompt": "Select the correct verb form.",
-      "sentence": "Já ___ o que vai comer?",
-      "options": ["escolheu", "tentou", "começou", "entendeu"],
+      "prompt": "Select the verb that fits this sentence.",
+      "sentence": "Você precisa ___ as regras do jogo antes de começar.",
+      "options": [
+        "aprender",
+        "acreditar",
+        "sentir",
+        "tentar"
+      ],
       "correct": 0,
-      "explanation": "'Já escolheu?' = Have you already chosen? — the classic phrase a waiter uses when taking orders. 'Tentou o que vai comer?' = did you try what you're going to eat? (makes no sense before ordering). 'Começou o que vai comer?' = did you start eating what you're going to eat? (doesn't make sense before food arrives). 'Entendeu o que vai comer?' = did you understand what you're going to eat? (makes no sense)."
-    },
-    {
-      "prompt": "Choose the verb that fits this sentence.",
-      "sentence": "Comprei o tamanho errado. Posso ___ por um maior?",
-      "options": ["mudar", "escolher", "trocar", "tentar"],
-      "correct": 2,
-      "explanation": "'Trocar A por B' = to exchange A for B — the correct construction when returning or swapping items at a store. 'Mudar por um maior' is not natural — 'mudar' does not pair with 'por' in this exchange sense. 'Escolher por' and 'tentar por' are not valid constructions."
-    },
-    {
-      "prompt": "Which verb completes this sentence?",
-      "sentence": "Ele ___ de ideia três vezes no mesmo dia.",
-      "options": ["mudou", "trocou", "acreditou", "pareceu"],
-      "correct": 0,
-      "explanation": "'Mudar de ideia' = to change one's mind — a fixed expression in Portuguese. 'Trocar de ideia' is not standard — 'trocar' means to physically exchange one item for another, while 'mudar' covers mental or abstract change. 'Acreditar de ideia' and 'parecer de ideia' are both grammatically wrong."
+      "explanation": "'Aprender as regras' = to learn the rules — acquiring knowledge before starting. 'Tentar as regras' is not natural — 'tentar' means to attempt, not to acquire knowledge. 'Sentir as regras' = feel the rules (rules are not something you feel). 'Acreditar' requires a preposition ('acreditar nas regras'), not a direct object."
     },
     {
       "prompt": "Select the correct verb form.",
       "sentence": "O show ___ às oito da noite, então precisamos chegar antes.",
-      "options": ["acaba", "parece", "encontra", "começa"],
-      "correct": 3,
+      "options": [
+        "começa",
+        "parece",
+        "acaba",
+        "encontra"
+      ],
+      "correct": 0,
       "explanation": "'Precisamos chegar antes' (we need to arrive beforehand) only makes sense if the show STARTS at that time — you arrive before a start, not before an end. 'Acaba às oito' = ends at eight, but there is no reason to arrive early for an ending. 'Parece às oito' and 'encontra às oito' are not grammatically valid in this sentence."
     },
     {
-      "prompt": "Choose the verb that fits this sentence.",
-      "sentence": "A bateria do celular ___ no meio da chamada.",
-      "options": ["começou", "acabou", "mudou", "tentou"],
-      "correct": 1,
-      "explanation": "'A bateria acabou' = the battery ran out — a fixed, natural expression in Brazilian Portuguese. 'Começou no meio da chamada' = started in the middle of the call (doesn't make sense — the battery was already running). 'Mudou' = changed (batteries don't 'change' in this sense). 'Tentou' = tried (batteries cannot try things)."
-    },
-    {
-      "prompt": "Which verb completes this sentence?",
-      "sentence": "Eles combinaram de ___ no bar depois do trabalho.",
-      "options": ["se encontrar", "se lembrar", "se sentir", "se esquecer"],
+      "prompt": "Select the correct verb form.",
+      "sentence": "Já ___ o que vai comer?",
+      "options": [
+        "escolheu",
+        "tentou",
+        "começou",
+        "entendeu"
+      ],
       "correct": 0,
-      "explanation": "'Combinar de se encontrar' = to arrange to meet up — the natural expression for planning a meeting. 'Combinar de se lembrar' would mean 'to arrange to remember each other' — not how meetings are arranged. 'Se sentir' = feel each other (doesn't make sense as a plan). 'Se esquecer' = forget each other (the opposite of meeting up)."
+      "explanation": "'Já escolheu?' = Have you already chosen? — the classic phrase a waiter uses when taking orders. 'Tentou o que vai comer?' = did you try what you're going to eat? (makes no sense before ordering). 'Começou o que vai comer?' = did you start eating what you're going to eat? (doesn't make sense before food arrives). 'Entendeu o que vai comer?' = did you understand what you're going to eat? (makes no sense)."
     },
     {
       "prompt": "Select the correct verb form.",
-      "sentence": "Você ___ inglês? Preciso de ajuda com esse contrato.",
-      "options": ["aprende", "lembra", "entende", "esquece"],
-      "correct": 2,
-      "explanation": "'Entender inglês' = to understand/know English — asking whether someone can help now. 'Você aprende inglês?' = Are you learning English? (asks about an ongoing study process, not current ability). 'Você lembra inglês?' = Do you remember English? (not a natural construction in Portuguese). 'Você esquece inglês?' = Do you forget English? (makes no sense as a request for help)."
+      "sentence": "Não ___ graça nenhuma nessa piada.",
+      "options": [
+        "lembro",
+        "começo",
+        "entendo",
+        "acho"
+      ],
+      "correct": 3,
+      "explanation": "'Achar graça' is a fixed expression meaning 'to find something funny'. None of the other options work in this fixed expression. 'Entender graça', 'lembro graça', and 'começo graça' are not standard Portuguese constructions."
     },
     {
-      "prompt": "Choose the verb that fits this sentence.",
-      "sentence": "Ela ___ de novo, mas não conseguiu abrir a porta.",
-      "options": ["começou", "tentou", "escolheu", "acreditou"],
-      "correct": 1,
-      "explanation": "'Tentar de novo' = to try again after a failed attempt. 'Não conseguiu' (couldn't manage) confirms the attempt failed. 'Começou de novo' = started again (doesn't fit the context of struggling to open a door). 'Escolheu de novo' = chose again (unrelated to opening a door). 'Acreditou de novo' = believed again (unrelated to opening a door)."
+      "prompt": "Which verb completes this sentence?",
+      "sentence": "Vou ___ no assunto e te respondo amanhã.",
+      "options": [
+        "escolher",
+        "tentar",
+        "lembrar",
+        "pensar"
+      ],
+      "correct": 3,
+      "explanation": "'Pensar em algo' = to think about something. 'Vou pensar no assunto' = I'll think about the matter. 'Lembrar' requires 'de', not 'em' ('lembrar do assunto'), so 'lembrar no' is wrong. 'Tentar no' and 'escolher no' are not valid constructions in Portuguese."
     },
     {
       "prompt": "Which verb completes this sentence?",
       "sentence": "Esse cheiro me ___ da casa da minha avó.",
-      "options": ["sente", "parece", "acredita", "lembra"],
-      "correct": 3,
+      "options": [
+        "lembra",
+        "parece",
+        "acredita",
+        "sente"
+      ],
+      "correct": 0,
       "explanation": "'Lembrar alguém de algo' = to remind someone of something, to trigger a memory. 'Esse cheiro me lembra da casa da minha avó' = this smell reminds me of my grandmother's house. 'Me sente da casa' is grammatically wrong. 'Me parece da casa' is not a standard construction. 'Me acredita da casa' is grammatically wrong."
+    },
+    {
+      "prompt": "Select the correct verb form.",
+      "sentence": "Depois de ganhar o prêmio, ela ___ muito feliz.",
+      "options": [
+        "se esqueceu",
+        "se sentiu",
+        "se lembrou",
+        "se escolheu"
+      ],
+      "correct": 1,
+      "explanation": "'Sentir-se + adjective' = to feel + adjective. 'Ela se sentiu muito feliz' = she felt very happy — the natural expression after winning a prize. The other three verbs ('lembrar-se', 'esquecer-se', 'escolher-se') cannot be followed directly by an adjective like 'muito feliz'."
+    },
+    {
+      "prompt": "Which verb completes this sentence?",
+      "sentence": "Ele ___ de ideia três vezes no mesmo dia.",
+      "options": [
+        "mudou",
+        "trocou",
+        "pareceu",
+        "acreditou"
+      ],
+      "correct": 0,
+      "explanation": "'Mudar de ideia' = to change one's mind — a fixed expression in Portuguese. 'Trocar de ideia' is not standard — 'trocar' means to physically exchange one item for another, while 'mudar' covers mental or abstract change. 'Acreditar de ideia' and 'parecer de ideia' are both grammatically wrong."
+    },
+    {
+      "prompt": "Which verb completes this sentence?",
+      "sentence": "Eles combinaram de ___ no bar depois do trabalho.",
+      "options": [
+        "se lembrar",
+        "se esquecer",
+        "se sentir",
+        "se encontrar"
+      ],
+      "correct": 3,
+      "explanation": "'Combinar de se encontrar' = to arrange to meet up — the natural expression for planning a meeting. 'Combinar de se lembrar' would mean 'to arrange to remember each other' — not how meetings are arranged. 'Se sentir' = feel each other (doesn't make sense as a plan). 'Se esquecer' = forget each other (the opposite of meeting up)."
+    },
+    {
+      "prompt": "Choose the verb that fits this sentence.",
+      "sentence": "Ela ___ de novo, mas não conseguiu abrir a porta.",
+      "options": [
+        "tentou",
+        "escolheu",
+        "começou",
+        "acreditou"
+      ],
+      "correct": 0,
+      "explanation": "'Tentar de novo' = to try again after a failed attempt. 'Não conseguiu' (couldn't manage) confirms the attempt failed. 'Começou de novo' = started again (doesn't fit the context of struggling to open a door). 'Escolheu de novo' = chose again (unrelated to opening a door). 'Acreditou de novo' = believed again (unrelated to opening a door)."
+    },
+    {
+      "prompt": "Choose the correct command.",
+      "sentence": "Não desista. ___ mais uma vez!",
+      "options": [
+        "Acabe",
+        "Mude",
+        "Esqueça",
+        "Tente"
+      ],
+      "correct": 3,
+      "explanation": "'Tentar mais uma vez' = try again — the natural encouragement after 'don't give up'. 'Esqueça mais uma vez' = forget one more time (contradicts the encouragement). 'Mude mais uma vez' = change one more time (doesn't fit without context). 'Acabe mais uma vez' = finish one more time (doesn't fit)."
+    },
+    {
+      "prompt": "Choose the verb that fits this sentence.",
+      "sentence": "Esse contrato é complicado demais. Não ___ nada.",
+      "options": [
+        "começo",
+        "troco",
+        "entendo",
+        "escolho"
+      ],
+      "correct": 2,
+      "explanation": "When something is too complicated, 'not understanding' is the natural conclusion. 'Não escolho nada' (I don't choose anything), 'não começo nada' (I don't start anything), and 'não troco nada' (I don't exchange anything) don't follow logically from 'this contract is too complicated'."
+    },
+    {
+      "prompt": "Choose the verb that fits this sentence.",
+      "sentence": "Não consigo ___ meu passaporte em nenhuma gaveta.",
+      "options": [
+        "trocar",
+        "entender",
+        "achar",
+        "lembrar"
+      ],
+      "correct": 2,
+      "explanation": "'Achar' means to find (physically locate). 'Em nenhuma gaveta' (in no drawer) signals physical searching — only 'achar' fits. 'Lembrar meu passaporte em nenhuma gaveta' is not a natural Portuguese construction. 'Entender' and 'trocar' make no sense in this context."
+    },
+    {
+      "prompt": "Select the correct verb form.",
+      "sentence": "Você ___ inglês? Preciso de ajuda com esse contrato.",
+      "options": [
+        "entende",
+        "esquece",
+        "aprende",
+        "lembra"
+      ],
+      "correct": 0,
+      "explanation": "'Entender inglês' = to understand/know English — asking whether someone can help now. 'Você aprende inglês?' = Are you learning English? (asks about an ongoing study process, not current ability). 'Você lembra inglês?' = Do you remember English? (not a natural construction in Portuguese). 'Você esquece inglês?' = Do you forget English? (makes no sense as a request for help)."
+    },
+    {
+      "prompt": "Which verb completes this sentence?",
+      "sentence": "Esse plano ___ arriscado demais para mim.",
+      "options": [
+        "sente",
+        "acredita",
+        "tenta",
+        "parece"
+      ],
+      "correct": 3,
+      "explanation": "'Parecer + adjective' = to seem + adjective. 'Esse plano parece arriscado demais' = this plan seems too risky. Plans cannot 'feel' (sente), 'believe' (acredita), or 'try' (tenta) — these verbs require animate subjects."
+    },
+    {
+      "prompt": "Choose the verb that fits this sentence.",
+      "sentence": "A bateria do celular ___ no meio da chamada.",
+      "options": [
+        "começou",
+        "acabou",
+        "tentou",
+        "mudou"
+      ],
+      "correct": 1,
+      "explanation": "'A bateria acabou' = the battery ran out — a fixed, natural expression in Brazilian Portuguese. 'Começou no meio da chamada' = started in the middle of the call (doesn't make sense — the battery was already running). 'Mudou' = changed (batteries don't 'change' in this sense). 'Tentou' = tried (batteries cannot try things)."
+    },
+    {
+      "prompt": "Choose the verb that fits this sentence.",
+      "sentence": "Comprei o tamanho errado. Posso ___ por um maior?",
+      "options": [
+        "escolher",
+        "trocar",
+        "tentar",
+        "mudar"
+      ],
+      "correct": 1,
+      "explanation": "'Trocar A por B' = to exchange A for B — the correct construction when returning or swapping items at a store. 'Mudar por um maior' is not natural — 'mudar' does not pair with 'por' in this exchange sense. 'Escolher por' and 'tentar por' are not valid constructions."
     }
   ]
 }

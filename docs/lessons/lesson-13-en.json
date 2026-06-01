@@ -5,154 +5,274 @@
   "lang": "en",
   "exercises": [
     {
-      "prompt": "I think he's tired.",
-      "answer": "Eu acho que ele está cansado.",
-      "distractors": ["disse", "amigos", "lindo"]
-    },
-    {
-      "prompt": "I can't find my keys.",
-      "answer": "Não acho minhas chaves.",
-      "distractors": ["perdi", "livro", "novas"]
-    },
-    {
-      "prompt": "I'll think about it.",
-      "answer": "Vou pensar nisso.",
-      "distractors": ["fazer", "meu", "amanhã"]
-    },
-    {
-      "prompt": "She is thinking about the future.",
-      "answer": "Ela está pensando no futuro.",
-      "distractors": ["fala", "lindo", "muito"]
+      "prompt": "The movie starts at eight.",
+      "answer": "O filme começa às oito.",
+      "distractors": [
+        "termina",
+        "sete",
+        "hoje"
+      ]
     },
     {
       "prompt": "I don't understand.",
       "answer": "Não entendo.",
-      "distractors": ["falo", "muito", "aqui"]
+      "distractors": [
+        "falo",
+        "muito",
+        "aqui"
+      ]
     },
     {
-      "prompt": "Do you understand the question?",
-      "answer": "Você entende a pergunta?",
-      "distractors": ["sabe", "ontem", "nova"]
-    },
-    {
-      "prompt": "I'm learning Portuguese.",
-      "answer": "Estou aprendendo português.",
-      "distractors": ["ensinando", "inglês", "agora"]
-    },
-    {
-      "prompt": "We learn from our mistakes.",
-      "answer": "A gente aprende com os erros.",
-      "distractors": ["foge", "dias", "muitos"]
-    },
-    {
-      "prompt": "I'll try again.",
-      "answer": "Vou tentar de novo.",
-      "distractors": ["fazer", "hoje", "aqui"]
-    },
-    {
-      "prompt": "Try harder!",
-      "answer": "Tenta mais!",
-      "distractors": ["Faz", "menos", "agora"]
-    },
-    {
-      "prompt": "I don't remember her name.",
-      "answer": "Não lembro o nome dela.",
-      "distractors": ["sei", "meu", "bonito"]
-    },
-    {
-      "prompt": "Do you remember that day?",
-      "answer": "Você lembra daquele dia?",
-      "distractors": ["sabe", "ontem", "bonito"]
-    },
-    {
-      "prompt": "I forgot my wallet.",
-      "answer": "Esqueci minha carteira.",
-      "distractors": ["Perdi", "livro", "nova"]
-    },
-    {
-      "prompt": "Don't forget to call me!",
-      "answer": "Não esquece de me ligar!",
-      "distractors": ["para", "amanhã", "carta"]
-    },
-    {
-      "prompt": "I'm very sorry.",
-      "answer": "Sinto muito.",
-      "distractors": ["Estou", "pouco", "nada"]
-    },
-    {
-      "prompt": "How do you feel today?",
-      "answer": "Como você se sente hoje?",
-      "distractors": ["sempre", "lá", "eles"]
-    },
-    {
-      "prompt": "The food looks good!",
-      "answer": "A comida parece boa!",
-      "distractors": ["está", "bonita", "hoje"]
-    },
-    {
-      "prompt": "You seem tired.",
-      "answer": "Você parece cansado.",
-      "distractors": ["está", "doente", "muito"]
-    },
-    {
-      "prompt": "I believe in you.",
-      "answer": "Eu acredito em você.",
-      "distractors": ["gosto", "nós", "hoje"]
-    },
-    {
-      "prompt": "She doesn't believe in ghosts.",
-      "answer": "Ela não acredita em fantasmas.",
-      "distractors": ["gosta", "aqui", "dois"]
+      "prompt": "She is thinking about the future.",
+      "answer": "Ela está pensando no futuro.",
+      "distractors": [
+        "fala",
+        "lindo",
+        "muito"
+      ]
     },
     {
       "prompt": "Have you already chosen?",
       "answer": "Já escolheu?",
-      "distractors": ["pediu", "ainda", "um"]
+      "distractors": [
+        "pediu",
+        "ainda",
+        "um"
+      ]
     },
     {
-      "prompt": "Can I exchange this shirt?",
-      "answer": "Posso trocar essa camisa?",
-      "distractors": ["devolver", "minha", "aqui"]
-    },
-    {
-      "prompt": "I changed my mind.",
-      "answer": "Mudei de ideia.",
-      "distractors": ["Perdi", "agora", "casa"]
+      "prompt": "You seem tired.",
+      "answer": "Você parece cansado.",
+      "distractors": [
+        "está",
+        "doente",
+        "muito"
+      ]
     },
     {
       "prompt": "She moved to another city.",
       "answer": "Ela mudou para outra cidade.",
-      "distractors": ["foi", "viagem", "ontem"]
+      "distractors": [
+        "foi",
+        "viagem",
+        "ontem"
+      ]
     },
     {
-      "prompt": "The movie starts at eight.",
-      "answer": "O filme começa às oito.",
-      "distractors": ["termina", "sete", "hoje"]
+      "prompt": "The food looks good!",
+      "answer": "A comida parece boa!",
+      "distractors": [
+        "está",
+        "bonita",
+        "hoje"
+      ]
     },
     {
-      "prompt": "Let's start!",
-      "answer": "Vamos começar!",
-      "distractors": ["terminar", "agora", "juntos"]
+      "prompt": "Do you remember that day?",
+      "answer": "Você lembra daquele dia?",
+      "distractors": [
+        "sabe",
+        "ontem",
+        "bonito"
+      ]
     },
     {
-      "prompt": "It's all over!",
-      "answer": "Acabou tudo!",
-      "distractors": ["começou", "nada", "aqui"]
+      "prompt": "I don't remember her name.",
+      "answer": "Não lembro o nome dela.",
+      "distractors": [
+        "sei",
+        "meu",
+        "bonito"
+      ]
+    },
+    {
+      "prompt": "We learn from our mistakes.",
+      "answer": "A gente aprende com os erros.",
+      "distractors": [
+        "foge",
+        "dias",
+        "muitos"
+      ]
     },
     {
       "prompt": "I finished work.",
       "answer": "Acabei o trabalho.",
-      "distractors": ["comecei", "amanhã", "escola"]
+      "distractors": [
+        "comecei",
+        "amanhã",
+        "escola"
+      ]
+    },
+    {
+      "prompt": "It's all over!",
+      "answer": "Acabou tudo!",
+      "distractors": [
+        "começou",
+        "nada",
+        "aqui"
+      ]
+    },
+    {
+      "prompt": "I'll think about it.",
+      "answer": "Vou pensar nisso.",
+      "distractors": [
+        "fazer",
+        "meu",
+        "amanhã"
+      ]
+    },
+    {
+      "prompt": "I changed my mind.",
+      "answer": "Mudei de ideia.",
+      "distractors": [
+        "Perdi",
+        "agora",
+        "casa"
+      ]
+    },
+    {
+      "prompt": "She doesn't believe in ghosts.",
+      "answer": "Ela não acredita em fantasmas.",
+      "distractors": [
+        "gosta",
+        "aqui",
+        "dois"
+      ]
+    },
+    {
+      "prompt": "I'll try again.",
+      "answer": "Vou tentar de novo.",
+      "distractors": [
+        "fazer",
+        "hoje",
+        "aqui"
+      ]
+    },
+    {
+      "prompt": "Can I exchange this shirt?",
+      "answer": "Posso trocar essa camisa?",
+      "distractors": [
+        "devolver",
+        "minha",
+        "aqui"
+      ]
+    },
+    {
+      "prompt": "Don't forget to call me!",
+      "answer": "Não esquece de me ligar!",
+      "distractors": [
+        "para",
+        "amanhã",
+        "carta"
+      ]
     },
     {
       "prompt": "Where do we meet up?",
       "answer": "Onde a gente se encontra?",
-      "distractors": ["você", "fala", "aqui"]
+      "distractors": [
+        "você",
+        "fala",
+        "aqui"
+      ]
+    },
+    {
+      "prompt": "I forgot my wallet.",
+      "answer": "Esqueci minha carteira.",
+      "distractors": [
+        "Perdi",
+        "livro",
+        "nova"
+      ]
+    },
+    {
+      "prompt": "Do you understand the question?",
+      "answer": "Você entende a pergunta?",
+      "distractors": [
+        "sabe",
+        "ontem",
+        "nova"
+      ]
+    },
+    {
+      "prompt": "I'm very sorry.",
+      "answer": "Sinto muito.",
+      "distractors": [
+        "Estou",
+        "pouco",
+        "nada"
+      ]
     },
     {
       "prompt": "I'll meet you there.",
       "answer": "Te encontro lá.",
-      "distractors": ["vejo", "aqui", "amanhã"]
+      "distractors": [
+        "vejo",
+        "aqui",
+        "amanhã"
+      ]
+    },
+    {
+      "prompt": "How do you feel today?",
+      "answer": "Como você se sente hoje?",
+      "distractors": [
+        "sempre",
+        "lá",
+        "eles"
+      ]
+    },
+    {
+      "prompt": "I can't find my keys.",
+      "answer": "Não acho minhas chaves.",
+      "distractors": [
+        "perdi",
+        "livro",
+        "novas"
+      ]
+    },
+    {
+      "prompt": "I believe in you.",
+      "answer": "Eu acredito em você.",
+      "distractors": [
+        "gosto",
+        "nós",
+        "hoje"
+      ]
+    },
+    {
+      "prompt": "I think he's tired.",
+      "answer": "Eu acho que ele está cansado.",
+      "distractors": [
+        "disse",
+        "amigos",
+        "lindo"
+      ]
+    },
+    {
+      "prompt": "Try harder!",
+      "answer": "Tenta mais!",
+      "distractors": [
+        "Faz",
+        "menos",
+        "agora"
+      ]
+    },
+    {
+      "prompt": "Let's start!",
+      "answer": "Vamos começar!",
+      "distractors": [
+        "terminar",
+        "agora",
+        "juntos"
+      ]
+    },
+    {
+      "prompt": "I'm learning Portuguese.",
+      "answer": "Estou aprendendo português.",
+      "distractors": [
+        "ensinando",
+        "inglês",
+        "agora"
+      ]
     }
   ]
 }

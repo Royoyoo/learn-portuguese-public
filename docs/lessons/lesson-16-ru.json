@@ -5,124 +5,224 @@
   "lang": "ru",
   "exercises": [
     {
-      "question": "Какой португальский глагол означает «работать»?",
-      "options": ["trabalhar", "morar", "sair", "ajudar"],
-      "correct": 0,
-      "explanation": "«Trabalhar» — правильный глагол на -ar для работы: «Onde você trabalha?» (Где вы работаете?). «Morar» значит жить/проживать, «sair» — уходить, «ajudar» — помогать."
-    },
-    {
-      "question": "Какой португальский глагол означает «жить» или «проживать» в каком-то месте?",
-      "options": ["trabalhar", "morar", "chegar", "trazer"],
-      "correct": 1,
-      "explanation": "«Morar» выражает постоянное место жительства: «Moro em São Paulo.» «Trabalhar» значит работать, «chegar» — прибывать, «trazer» — приносить."
-    },
-    {
-      "question": "Какой португальский глагол означает «уходить» или «выходить»?",
-      "options": ["chegar", "morar", "sair", "trabalhar"],
+      "question": "Какой португальский глагол означает «включать» свет или электрическое устройство?",
+      "options": [
+        "fechar",
+        "mandar",
+        "ligar",
+        "abrir"
+      ],
       "correct": 2,
-      "explanation": "«Sair» — уходить и выходить: «Vou sair agora.» «Chegar» — противоположное (прибывать). «Morar» значит проживать, «trabalhar» — работать."
-    },
-    {
-      "question": "Какой португальский глагол означает «прибывать» или «приезжать»?",
-      "options": ["sair", "trazer", "levar", "chegar"],
-      "correct": 3,
-      "explanation": "«Chegar» значит прибывать: «Que horas você chega?» (Во сколько вы приедете?). «Sair» — противоположное (уходить). «Trazer» и «levar» описывают перемещение предметов, а не прибытие человека."
-    },
-    {
-      "question": "Какой португальский глагол означает «ждать»?",
-      "options": ["ver", "pedir", "esperar", "ajudar"],
-      "correct": 2,
-      "explanation": "«Esperar» значит ждать: «Espera um momento!» «Ver» значит видеть, «pedir» — просить что-то, «ajudar» — помогать."
-    },
-    {
-      "question": "Какой португальский глагол означает «видеть» или «смотреть» (например, телевизор)?",
-      "options": ["olhar", "trazer", "ver", "ligar"],
-      "correct": 2,
-      "explanation": "«Ver televisão» — стандартная фраза для просмотра телевизора. «Olhar» — намеренный, направленный взгляд, а не пассивное восприятие. «Trazer» значит приносить, «ligar» — звонить или включать."
-    },
-    {
-      "question": "Какой португальский глагол означает «смотреть на что-то» — намеренно направляя взгляд?",
-      "options": ["ver", "abrir", "pedir", "olhar"],
-      "correct": 3,
-      "explanation": "«Olhar para» выражает направленный, намеренный взгляд: «Olha para mim!» (Смотри на меня!). «Ver» — пассивное восприятие. «Abrir» значит открывать, «pedir» — просить."
-    },
-    {
-      "question": "Какой португальский глагол означает «положить» или «поместить» предмет куда-либо?",
-      "options": ["levar", "trazer", "colocar", "mandar"],
-      "correct": 2,
-      "explanation": "«Colocar» значит класть или помещать: «Coloca o livro na mesa.» «Levar» увозит предметы от говорящего, «trazer» приносит к говорящему, «mandar» отправляет удалённо."
+      "explanation": "«Ligar» означает и «звонить», и «включать»: «Liga a televisão.» «Fechar» значит закрывать, «abrir» — открывать, «mandar» — отправлять."
     },
     {
       "question": "Какой португальский глагол означает «брать» предмет и уносить его отсюда?",
-      "options": ["trazer", "levar", "colocar", "mandar"],
-      "correct": 1,
+      "options": [
+        "levar",
+        "colocar",
+        "trazer",
+        "mandar"
+      ],
+      "correct": 0,
       "explanation": "«Levar» перемещает предметы от говорящего: «Leva o guarda-chuva.» «Trazer» — противоположное: принести сюда. «Colocar» кладёт предмет, «mandar» отправляет без физического движения."
     },
     {
-      "question": "Какой португальский глагол означает «приносить» предмет к вам?",
-      "options": ["colocar", "trazer", "mandar", "levar"],
+      "question": "Какой португальский глагол означает «помогать» кому-то?",
+      "options": [
+        "perguntar",
+        "trazer",
+        "pedir",
+        "ajudar"
+      ],
+      "correct": 3,
+      "explanation": "«Ajudar» значит помогать: «Pode me ajudar?» «Pedir» — просить что-то, «perguntar» — задавать вопрос, «trazer» — приносить предмет."
+    },
+    {
+      "question": "Какой глагол из этой группы имеет два значения: «звонить по телефону» И «включать устройство»?",
+      "options": [
+        "ligar",
+        "abrir",
+        "pedir",
+        "mandar"
+      ],
+      "correct": 0,
+      "explanation": "«Ligar» уникально двузначен: «Vou te ligar» (Я тебе позвоню) и «Liga a luz» (Включи свет). «Mandar» значит отправлять, «abrir» — открывать, «pedir» — просить."
+    },
+    {
+      "question": "Какой португальский глагол означает «прибывать» или «приезжать»?",
+      "options": [
+        "sair",
+        "chegar",
+        "trazer",
+        "levar"
+      ],
       "correct": 1,
-      "explanation": "«Trazer» перемещает предметы к говорящему: «Traz o guarda-chuva!» «Levar» — противоположное: уносить. «Colocar» кладёт предмет, «mandar» отправляет удалённо."
+      "explanation": "«Chegar» значит прибывать: «Que horas você chega?» (Во сколько вы приедете?). «Sair» — противоположное (уходить). «Trazer» и «levar» описывают перемещение предметов, а не прибытие человека."
     },
     {
       "question": "Какой португальский глагол означает «открывать»?",
-      "options": ["abrir", "fechar", "ligar", "colocar"],
-      "correct": 0,
+      "options": [
+        "ligar",
+        "colocar",
+        "abrir",
+        "fechar"
+      ],
+      "correct": 2,
       "explanation": "«Abrir» значит открывать: «Abre a porta, por favor.» «Fechar» — противоположное: закрывать. «Ligar» значит звонить или включать, «colocar» — класть."
     },
     {
+      "question": "Какой португальский глагол означает «заказывать» еду или «просить» об услуге?",
+      "options": [
+        "pedir",
+        "mandar",
+        "ajudar",
+        "perguntar"
+      ],
+      "correct": 0,
+      "explanation": "«Pedir» — заказывать и просить о чём-либо: «Pede a conta.» «Perguntar» — для информационных вопросов, а не заказов. «Ajudar» значит помогать, «mandar» — отправлять."
+    },
+    {
       "question": "Какой португальский глагол означает «закрывать»?",
-      "options": ["abrir", "fechar", "colocar", "ligar"],
+      "options": [
+        "abrir",
+        "fechar",
+        "ligar",
+        "colocar"
+      ],
       "correct": 1,
       "explanation": "«Fechar» значит закрывать: «Fecha a janela.» «Abrir» — противоположное: открывать. «Colocar» значит класть, «ligar» — звонить или включать."
     },
     {
-      "question": "Какой португальский глагол означает «звонить» кому-то по телефону?",
-      "options": ["mandar", "perguntar", "ligar", "pedir"],
-      "correct": 2,
-      "explanation": "«Ligar para alguém» значит позвонить кому-то: «Vou te ligar mais tarde.» «Mandar» — отправить сообщение, «perguntar» — задать вопрос, «pedir» — попросить что-то."
-    },
-    {
-      "question": "Какой португальский глагол означает «включать» свет или электрическое устройство?",
-      "options": ["fechar", "ligar", "abrir", "mandar"],
-      "correct": 1,
-      "explanation": "«Ligar» означает и «звонить», и «включать»: «Liga a televisão.» «Fechar» значит закрывать, «abrir» — открывать, «mandar» — отправлять."
-    },
-    {
       "question": "Какой португальский глагол означает «отправлять» сообщение, файл или посылку?",
-      "options": ["levar", "pedir", "perguntar", "mandar"],
-      "correct": 3,
+      "options": [
+        "levar",
+        "perguntar",
+        "mandar",
+        "pedir"
+      ],
+      "correct": 2,
       "explanation": "«Mandar» значит отправлять: «Manda uma mensagem.» «Levar» требует физического перемещения самого отправителя, «pedir» — просить, «perguntar» — спрашивать."
     },
     {
-      "question": "Какой португальский глагол означает «заказывать» еду или «просить» об услуге?",
-      "options": ["perguntar", "ajudar", "mandar", "pedir"],
+      "question": "Какой португальский глагол означает «смотреть на что-то» — намеренно направляя взгляд?",
+      "options": [
+        "pedir",
+        "olhar",
+        "ver",
+        "abrir"
+      ],
+      "correct": 1,
+      "explanation": "«Olhar para» выражает направленный, намеренный взгляд: «Olha para mim!» (Смотри на меня!). «Ver» — пассивное восприятие. «Abrir» значит открывать, «pedir» — просить."
+    },
+    {
+      "question": "Какой португальский глагол означает «приносить» предмет к вам?",
+      "options": [
+        "colocar",
+        "levar",
+        "mandar",
+        "trazer"
+      ],
       "correct": 3,
-      "explanation": "«Pedir» — заказывать и просить о чём-либо: «Pede a conta.» «Perguntar» — для информационных вопросов, а не заказов. «Ajudar» значит помогать, «mandar» — отправлять."
+      "explanation": "«Trazer» перемещает предметы к говорящему: «Traz o guarda-chuva!» «Levar» — противоположное: уносить. «Colocar» кладёт предмет, «mandar» отправляет удалённо."
     },
     {
-      "question": "Какой португальский глагол означает «спрашивать» — задавать вопрос, чтобы получить информацию?",
-      "options": ["pedir", "mandar", "perguntar", "ajudar"],
+      "question": "Какой португальский глагол означает «работать»?",
+      "options": [
+        "sair",
+        "morar",
+        "trabalhar",
+        "ajudar"
+      ],
       "correct": 2,
-      "explanation": "«Perguntar» — задавать вопрос ради информации: «Posso te perguntar uma coisa?» «Pedir» просит предметы или услуги, а не информацию. «Mandar» значит отправлять, «ajudar» — помогать."
+      "explanation": "«Trabalhar» — правильный глагол на -ar для работы: «Onde você trabalha?» (Где вы работаете?). «Morar» значит жить/проживать, «sair» — уходить, «ajudar» — помогать."
     },
     {
-      "question": "Какой португальский глагол означает «помогать» кому-то?",
-      "options": ["pedir", "perguntar", "ajudar", "trazer"],
-      "correct": 2,
-      "explanation": "«Ajudar» значит помогать: «Pode me ajudar?» «Pedir» — просить что-то, «perguntar» — задавать вопрос, «trazer» — приносить предмет."
+      "question": "Какой португальский глагол означает «видеть» или «смотреть» (например, телевизор)?",
+      "options": [
+        "olhar",
+        "trazer",
+        "ligar",
+        "ver"
+      ],
+      "correct": 3,
+      "explanation": "«Ver televisão» — стандартная фраза для просмотра телевизора. «Olhar» — намеренный, направленный взгляд, а не пассивное восприятие. «Trazer» значит приносить, «ligar» — звонить или включать."
     },
     {
       "question": "Какой глагол из этой группы, помимо основного значения «ждать», также означает «надеяться»?",
-      "options": ["olhar", "esperar", "ver", "ajudar"],
+      "options": [
+        "ajudar",
+        "esperar",
+        "olhar",
+        "ver"
+      ],
       "correct": 1,
       "explanation": "«Esperar» уникально покрывает оба значения: «Espero que dê certo!» (Надеюсь, получится!). «Olhar» значит смотреть на что-то, «ver» — видеть, «ajudar» — помогать."
     },
     {
-      "question": "Какой глагол из этой группы имеет два значения: «звонить по телефону» И «включать устройство»?",
-      "options": ["mandar", "abrir", "pedir", "ligar"],
+      "question": "Какой португальский глагол означает «положить» или «поместить» предмет куда-либо?",
+      "options": [
+        "colocar",
+        "mandar",
+        "trazer",
+        "levar"
+      ],
+      "correct": 0,
+      "explanation": "«Colocar» значит класть или помещать: «Coloca o livro na mesa.» «Levar» увозит предметы от говорящего, «trazer» приносит к говорящему, «mandar» отправляет удалённо."
+    },
+    {
+      "question": "Какой португальский глагол означает «уходить» или «выходить»?",
+      "options": [
+        "morar",
+        "chegar",
+        "trabalhar",
+        "sair"
+      ],
       "correct": 3,
-      "explanation": "«Ligar» уникально двузначен: «Vou te ligar» (Я тебе позвоню) и «Liga a luz» (Включи свет). «Mandar» значит отправлять, «abrir» — открывать, «pedir» — просить."
+      "explanation": "«Sair» — уходить и выходить: «Vou sair agora.» «Chegar» — противоположное (прибывать). «Morar» значит проживать, «trabalhar» — работать."
+    },
+    {
+      "question": "Какой португальский глагол означает «спрашивать» — задавать вопрос, чтобы получить информацию?",
+      "options": [
+        "ajudar",
+        "perguntar",
+        "pedir",
+        "mandar"
+      ],
+      "correct": 1,
+      "explanation": "«Perguntar» — задавать вопрос ради информации: «Posso te perguntar uma coisa?» «Pedir» просит предметы или услуги, а не информацию. «Mandar» значит отправлять, «ajudar» — помогать."
+    },
+    {
+      "question": "Какой португальский глагол означает «ждать»?",
+      "options": [
+        "ajudar",
+        "pedir",
+        "ver",
+        "esperar"
+      ],
+      "correct": 3,
+      "explanation": "«Esperar» значит ждать: «Espera um momento!» «Ver» значит видеть, «pedir» — просить что-то, «ajudar» — помогать."
+    },
+    {
+      "question": "Какой португальский глагол означает «звонить» кому-то по телефону?",
+      "options": [
+        "mandar",
+        "perguntar",
+        "pedir",
+        "ligar"
+      ],
+      "correct": 3,
+      "explanation": "«Ligar para alguém» значит позвонить кому-то: «Vou te ligar mais tarde.» «Mandar» — отправить сообщение, «perguntar» — задать вопрос, «pedir» — попросить что-то."
+    },
+    {
+      "question": "Какой португальский глагол означает «жить» или «проживать» в каком-то месте?",
+      "options": [
+        "chegar",
+        "morar",
+        "trazer",
+        "trabalhar"
+      ],
+      "correct": 1,
+      "explanation": "«Morar» выражает постоянное место жительства: «Moro em São Paulo.» «Trabalhar» значит работать, «chegar» — прибывать, «trazer» — приносить."
     }
   ]
 }

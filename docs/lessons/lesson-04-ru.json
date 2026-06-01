@@ -5,144 +5,244 @@
   "lang": "ru",
   "exercises": [
     {
-      "prompt": "Выберите правильный предлог.",
-      "sentence": "Ela é ___ Portugal.",
-      "options": ["de", "em", "no", "do"],
-      "correct": 0,
-      "explanation": "Португалия — исключение: используется 'de' без артикля. 'Em' означает «в», 'no'/'do' требуют артикля, который с Португалией не употребляется."
+      "prompt": "Выберите предлог, обозначающий происхождение.",
+      "sentence": "O professor é ___ Estados Unidos.",
+      "options": [
+        "aos",
+        "nos",
+        "dos",
+        "pelos"
+      ],
+      "correct": 2,
+      "explanation": "'Dos' (de + os) указывает на происхождение. 'Nos' = в США (местонахождение), 'pelos' = через США (перемещение), 'aos' = в США (направление)."
     },
     {
       "prompt": "Выберите правильный предлог.",
-      "sentence": "Este é o carro ___ meu irmão.",
-      "options": ["do", "no", "ao", "pelo"],
+      "sentence": "Ele saiu ___ guarda-chuva e se molhou todo.",
+      "options": [
+        "sem",
+        "com",
+        "pelo",
+        "do"
+      ],
       "correct": 0,
-      "explanation": "'Do' (de + o) выражает принадлежность — «машина моего брата». Остальные варианты означают «в/у», «к», «через» и не подходят по смыслу."
+      "explanation": "'Sem' означает «без». Промокнуть насквозь можно только выйдя без зонта. 'Com' (с зонтом) противоречит результату."
+    },
+    {
+      "prompt": "Выберите правильный предлог.",
+      "sentence": "Maria saiu ___ seus filhos para o parque.",
+      "options": [
+        "para",
+        "por",
+        "com",
+        "sem"
+      ],
+      "correct": 2,
+      "explanation": "'Com' обозначает совместность — «Мария вышла вместе с детьми». 'Sem' = без, 'por' = из-за, 'para' = для (получатель) — все меняют смысл."
+    },
+    {
+      "prompt": "Выберите предлог, обозначающий материал.",
+      "sentence": "O copo é ___ vidro.",
+      "options": [
+        "com",
+        "por",
+        "de",
+        "em"
+      ],
+      "correct": 2,
+      "explanation": "'De' указывает на материал, из которого сделан предмет — «стакан из стекла». Это стандартная форма для обозначения материала в бразильском португальском."
+    },
+    {
+      "prompt": "Выберите правильный предлог.",
+      "sentence": "Ele estuda muito ___ conseguir uma boa nota.",
+      "options": [
+        "sem",
+        "por",
+        "para",
+        "com"
+      ],
+      "correct": 2,
+      "explanation": "'Para' выражает цель — «чтобы получить хорошую оценку». 'Por' выражает причину, 'sem' = без, 'com' = с."
+    },
+    {
+      "prompt": "Выберите правильный предлог.",
+      "sentence": "Eles foram ___ pé até a praia.",
+      "options": [
+        "por",
+        "de",
+        "em",
+        "a"
+      ],
+      "correct": 3,
+      "explanation": "'A pé' — устойчивое выражение, означающее «пешком». 'De pé' и 'em pé' оба означают «стоя» (положение тела), а не способ передвижения."
     },
     {
       "prompt": "Выберите предлог, обозначающий местонахождение.",
       "sentence": "O banco fica ___ centro da cidade.",
-      "options": ["no", "ao", "do", "pelo"],
+      "options": [
+        "no",
+        "ao",
+        "do",
+        "pelo"
+      ],
       "correct": 0,
       "explanation": "'No' (em + o) указывает на неподвижное местонахождение. 'Ao' = к (движение), 'do' = из/от (происхождение), 'pelo' = через (перемещение)."
     },
     {
       "prompt": "Выберите правильный предлог.",
-      "sentence": "Ele estuda muito ___ conseguir uma boa nota.",
-      "options": ["para", "por", "com", "sem"],
-      "correct": 0,
-      "explanation": "'Para' выражает цель — «чтобы получить хорошую оценку». 'Por' выражает причину, 'sem' = без, 'com' = с."
-    },
-    {
-      "prompt": "Выберите предлог, обозначающий цену.",
-      "sentence": "Comprei este livro ___ vinte reais.",
-      "options": ["de", "por", "em", "até"],
-      "correct": 1,
-      "explanation": "'Por' выражает цену — «я купил эту книгу за двадцать реалов». 'Até' означает «до» (максимум), а не фактическую сумму."
-    },
-    {
-      "prompt": "Выберите правильный предлог.",
-      "sentence": "Maria saiu ___ seus filhos para o parque.",
-      "options": ["com", "sem", "por", "para"],
-      "correct": 0,
-      "explanation": "'Com' обозначает совместность — «Мария вышла вместе с детьми». 'Sem' = без, 'por' = из-за, 'para' = для (получатель) — все меняют смысл."
-    },
-    {
-      "prompt": "Выберите правильный предлог.",
-      "sentence": "Ele saiu ___ guarda-chuva e se molhou todo.",
-      "options": ["com", "pelo", "sem", "do"],
-      "correct": 2,
-      "explanation": "'Sem' означает «без». Промокнуть насквозь можно только выйдя без зонта. 'Com' (с зонтом) противоречит результату."
-    },
-    {
-      "prompt": "Выберите предлог, означающий «о» (по теме).",
-      "sentence": "Vamos conversar ___ seus planos para o futuro.",
-      "options": ["com", "por", "entre", "sobre"],
-      "correct": 3,
-      "explanation": "'Sobre' означает «о» при обсуждении темы. 'Com' = с, 'por' = из-за/за, 'entre' = между — ни один не подходит для обозначения темы разговора."
-    },
-    {
-      "prompt": "Выберите правильный предлог.",
       "sentence": "Ela mora ___ Bahia.",
-      "options": ["em", "na", "da", "pela"],
-      "correct": 1,
+      "options": [
+        "pela",
+        "da",
+        "na",
+        "em"
+      ],
+      "correct": 2,
       "explanation": "Bahia употребляется с женским артиклем 'a', поэтому em + a = na. Просто 'em' пропускает обязательный артикль. 'Da' = из Байи (происхождение), 'pela' = через Байю (движение)."
-    },
-    {
-      "prompt": "Выберите предлог, обозначающий происхождение.",
-      "sentence": "O professor é ___ Estados Unidos.",
-      "options": ["dos", "nos", "pelos", "aos"],
-      "correct": 0,
-      "explanation": "'Dos' (de + os) указывает на происхождение. 'Nos' = в США (местонахождение), 'pelos' = через США (перемещение), 'aos' = в США (направление)."
     },
     {
       "prompt": "Выберите правильный предлог.",
       "sentence": "Nós passamos ___ túnel para chegar ao centro.",
-      "options": ["no", "ao", "pelo", "do"],
-      "correct": 2,
+      "options": [
+        "do",
+        "ao",
+        "no",
+        "pelo"
+      ],
+      "correct": 3,
       "explanation": "'Pelo' (por + o) обозначает движение через место. 'No' = в (неподвижное местонахождение), 'ao' = к (направление), 'do' = из/от (происхождение или принадлежность)."
+    },
+    {
+      "prompt": "Выберите предлог, обозначающий местонахождение в стране.",
+      "sentence": "Minha família mora ___ Japão.",
+      "options": [
+        "do",
+        "pelo",
+        "ao",
+        "no"
+      ],
+      "correct": 3,
+      "explanation": "'No' (em + o) указывает на постоянное место жительства в стране мужского рода. 'Ao' = в Японию (движение), 'do' = из Японии (происхождение), 'pelo' = по/через Японию (перемещение)."
     },
     {
       "prompt": "Выберите предлог, обозначающий точное время.",
       "sentence": "A reunião começa ___ duas da tarde.",
-      "options": ["às", "nas", "pelas", "das"],
+      "options": [
+        "às",
+        "das",
+        "nas",
+        "pelas"
+      ],
       "correct": 0,
       "explanation": "'Às' (a + as) указывает на точное время начала события. 'Pelas duas' — приблизительно в два (другой смысл). 'Das duas' — начало временного промежутка. 'Nas duas' для обозначения времени не используется."
     },
     {
       "prompt": "Выберите правильный предлог.",
       "sentence": "Eles viajam ___ Paris todo ano.",
-      "options": ["em", "para", "de", "por"],
-      "correct": 1,
+      "options": [
+        "para",
+        "de",
+        "por",
+        "em"
+      ],
+      "correct": 0,
       "explanation": "'Para' обозначает пункт назначения поездки — «они ездят в Париж». 'Em' = в Париже (неподвижно), 'de' = из Парижа (откуда), 'por' = через Париж (маршрут)."
     },
     {
-      "prompt": "Выберите предлог, обозначающий материал.",
-      "sentence": "O copo é ___ vidro.",
-      "options": ["de", "em", "por", "com"],
-      "correct": 0,
-      "explanation": "'De' указывает на материал, из которого сделан предмет — «стакан из стекла». Это стандартная форма для обозначения материала в бразильском португальском."
+      "prompt": "Выберите предлог, обозначающий цену.",
+      "sentence": "Comprei este livro ___ vinte reais.",
+      "options": [
+        "de",
+        "em",
+        "até",
+        "por"
+      ],
+      "correct": 3,
+      "explanation": "'Por' выражает цену — «я купил эту книгу за двадцать реалов». 'Até' означает «до» (максимум), а не фактическую сумму."
     },
     {
       "prompt": "Выберите правильный предлог.",
       "sentence": "Esperamos o ônibus ___ quarenta minutos.",
-      "options": ["em", "até", "de", "por"],
-      "correct": 3,
+      "options": [
+        "por",
+        "até",
+        "em",
+        "de"
+      ],
+      "correct": 0,
       "explanation": "'Por' выражает длительность — «мы ждали автобус сорок минут». 'Em quarenta minutos' означает «за сорок минут» (срок выполнения). 'Até' = до (конечная точка, а не продолжительность)."
-    },
-    {
-      "prompt": "Выберите предлог, обозначающий местонахождение в стране.",
-      "sentence": "Minha família mora ___ Japão.",
-      "options": ["ao", "do", "no", "pelo"],
-      "correct": 2,
-      "explanation": "'No' (em + o) указывает на постоянное место жительства в стране мужского рода. 'Ao' = в Японию (движение), 'do' = из Японии (происхождение), 'pelo' = по/через Японию (перемещение)."
     },
     {
       "prompt": "Выберите правильный предлог.",
       "sentence": "O parque fica ___ o museu e o teatro.",
-      "options": ["sobre", "entre", "sob", "contra"],
-      "correct": 1,
-      "explanation": "'Entre' означает «между» — «парк находится между музеем и театром». 'Sobre' = над/на, 'sob' = под, 'contra' = против."
-    },
-    {
-      "prompt": "Выберите предлог, обозначающий причину.",
-      "sentence": "Ela não foi ao trabalho ___ estar doente.",
-      "options": ["por", "para", "sem", "com"],
-      "correct": 0,
-      "explanation": "'Por' вводит причину — «потому что она была больна». 'Para' выражает цель (чтобы), что здесь не подходит."
-    },
-    {
-      "prompt": "Выберите правильный предлог.",
-      "sentence": "Eles foram ___ pé até a praia.",
-      "options": ["de", "por", "em", "a"],
+      "options": [
+        "sob",
+        "contra",
+        "sobre",
+        "entre"
+      ],
       "correct": 3,
-      "explanation": "'A pé' — устойчивое выражение, означающее «пешком». 'De pé' и 'em pé' оба означают «стоя» (положение тела), а не способ передвижения."
+      "explanation": "'Entre' означает «между» — «парк находится между музеем и театром». 'Sobre' = над/на, 'sob' = под, 'contra' = против."
     },
     {
       "prompt": "Выберите правильный предлог.",
       "sentence": "Qual é o nome ___ professora de português?",
-      "options": ["na", "pela", "da", "para a"],
+      "options": [
+        "para a",
+        "na",
+        "da",
+        "pela"
+      ],
       "correct": 2,
       "explanation": "'Da' (de + a) выражает притяжательную или определительную связь — «имя преподавателя португальского». 'Na' = в преподавателе (место), 'pela' = через/благодаря преподавателю."
+    },
+    {
+      "prompt": "Выберите предлог, обозначающий причину.",
+      "sentence": "Ela não foi ao trabalho ___ estar doente.",
+      "options": [
+        "sem",
+        "com",
+        "para",
+        "por"
+      ],
+      "correct": 3,
+      "explanation": "'Por' вводит причину — «потому что она была больна». 'Para' выражает цель (чтобы), что здесь не подходит."
+    },
+    {
+      "prompt": "Выберите предлог, означающий «о» (по теме).",
+      "sentence": "Vamos conversar ___ seus planos para o futuro.",
+      "options": [
+        "sobre",
+        "entre",
+        "com",
+        "por"
+      ],
+      "correct": 0,
+      "explanation": "'Sobre' означает «о» при обсуждении темы. 'Com' = с, 'por' = из-за/за, 'entre' = между — ни один не подходит для обозначения темы разговора."
+    },
+    {
+      "prompt": "Выберите правильный предлог.",
+      "sentence": "Ela é ___ Portugal.",
+      "options": [
+        "em",
+        "no",
+        "do",
+        "de"
+      ],
+      "correct": 3,
+      "explanation": "Португалия — исключение: используется 'de' без артикля. 'Em' означает «в», 'no'/'do' требуют артикля, который с Португалией не употребляется."
+    },
+    {
+      "prompt": "Выберите правильный предлог.",
+      "sentence": "Este é o carro ___ meu irmão.",
+      "options": [
+        "do",
+        "no",
+        "pelo",
+        "ao"
+      ],
+      "correct": 0,
+      "explanation": "'Do' (de + o) выражает принадлежность — «машина моего брата». Остальные варианты означают «в/у», «к», «через» и не подходят по смыслу."
     }
   ]
 }

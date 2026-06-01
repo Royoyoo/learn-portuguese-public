@@ -5,154 +5,274 @@
   "lang": "ru",
   "exercises": [
     {
-      "prompt": "Я работаю с понедельника по пятницу.",
-      "answer": "Eu trabalho de segunda a sexta.",
-      "distractors": ["moro", "chego", "saio"]
-    },
-    {
-      "prompt": "Она работает ночью.",
-      "answer": "Ela trabalha à noite.",
-      "distractors": ["mora", "chega", "sai"]
-    },
-    {
-      "prompt": "Мы живём далеко от центра.",
-      "answer": "Nós moramos longe do centro.",
-      "distractors": ["chegamos", "levamos", "pedimos"]
-    },
-    {
-      "prompt": "Ты живёшь в этом районе?",
-      "answer": "Você mora neste bairro?",
-      "distractors": ["trabalha", "espera", "chega"]
-    },
-    {
-      "prompt": "Я выхожу вечером с друзьями.",
-      "answer": "Eu saio à noite com meus amigos.",
-      "distractors": ["moro", "olho", "fecho"]
-    },
-    {
-      "prompt": "Он всегда уходит после десяти.",
-      "answer": "Ele sempre sai depois das dez.",
-      "distractors": ["chega", "trabalha", "leva"]
-    },
-    {
-      "prompt": "Она рано прибыла в аэропорт.",
-      "answer": "Ela chegou no aeroporto cedo.",
-      "distractors": ["saiu", "morou", "pediu"]
-    },
-    {
-      "prompt": "В котором часу приходит поезд?",
-      "answer": "A que horas o trem chega?",
-      "distractors": ["sai", "para", "abre"]
-    },
-    {
-      "prompt": "Жди меня у входа.",
-      "answer": "Me espera na entrada.",
-      "distractors": ["Ajuda", "Manda", "Leva"]
-    },
-    {
-      "prompt": "Мы надеемся скоро тебя увидеть.",
-      "answer": "Esperamos te ver em breve.",
-      "distractors": ["Mandamos", "Levamos", "Ajudamos"]
-    },
-    {
-      "prompt": "Она отвозит сына к врачу.",
-      "answer": "Ela leva o filho ao médico.",
-      "distractors": ["manda", "pede", "fecha"]
-    },
-    {
-      "prompt": "Отнеси это письмо директору.",
-      "answer": "Leve esta carta para a diretora.",
-      "distractors": ["Abra", "Feche", "Mande"]
-    },
-    {
-      "prompt": "Принеси свой ежедневник на встречу.",
-      "answer": "Traga sua agenda para a reunião.",
-      "distractors": ["Leve", "Mande", "Abra"]
-    },
-    {
-      "prompt": "Ты можешь принести мне стакан воды?",
-      "answer": "Você pode me trazer um copo de água?",
-      "distractors": ["levar", "mandar", "pedir"]
-    },
-    {
-      "prompt": "Ты можешь открыть для меня эту банку?",
-      "answer": "Você pode abrir este pote para mim?",
-      "distractors": ["fechar", "levar", "mandar"]
-    },
-    {
-      "prompt": "Аптека открывается в восемь.",
-      "answer": "A farmácia abre às oito.",
-      "distractors": ["fecha", "chega", "sai"]
-    },
-    {
-      "prompt": "Закрой дверь холодильника.",
-      "answer": "Feche a porta da geladeira.",
-      "distractors": ["Abra", "Mande", "Leve"]
-    },
-    {
-      "prompt": "Торговый центр закрывается в десять вечера.",
-      "answer": "O shopping fecha às dez da noite.",
-      "distractors": ["abre", "sai", "chega"]
-    },
-    {
-      "prompt": "Я позвоню тебе завтра утром.",
-      "answer": "Vou te ligar amanhã de manhã.",
-      "distractors": ["mandar", "pedir", "levar"]
-    },
-    {
-      "prompt": "Включи вентилятор, жарко.",
-      "answer": "Liga o ventilador, está quente.",
-      "distractors": ["Fecha", "Leva", "Traz"]
+      "prompt": "Спроси учительницу, когда контрольная.",
+      "answer": "Pergunta à professora quando é a prova.",
+      "distractors": [
+        "Pede",
+        "Manda",
+        "Leva"
+      ]
     },
     {
       "prompt": "Пришли мне свой адрес.",
       "answer": "Me manda o seu endereço.",
-      "distractors": ["pede", "leva", "olha"]
-    },
-    {
-      "prompt": "Ты отправил письмо?",
-      "answer": "Você mandou o e-mail?",
-      "distractors": ["abriu", "fechou", "perdeu"]
-    },
-    {
-      "prompt": "Можно заказать кофе?",
-      "answer": "Posso pedir um café?",
-      "distractors": ["trazer", "perguntar", "mandar"]
-    },
-    {
-      "prompt": "Она попросила больше времени.",
-      "answer": "Ela pediu mais tempo.",
-      "distractors": ["perguntou", "mandou", "trouxe"]
+      "distractors": [
+        "pede",
+        "leva",
+        "olha"
+      ]
     },
     {
       "prompt": "Он спросил, где находится офис.",
       "answer": "Ele perguntou onde fica o escritório.",
-      "distractors": ["pediu", "mandou", "levou"]
+      "distractors": [
+        "pediu",
+        "mandou",
+        "levou"
+      ]
     },
     {
-      "prompt": "Спроси учительницу, когда контрольная.",
-      "answer": "Pergunta à professora quando é a prova.",
-      "distractors": ["Pede", "Manda", "Leva"]
+      "prompt": "Он всегда уходит после десяти.",
+      "answer": "Ele sempre sai depois das dez.",
+      "distractors": [
+        "chega",
+        "trabalha",
+        "leva"
+      ]
+    },
+    {
+      "prompt": "Она работает ночью.",
+      "answer": "Ela trabalha à noite.",
+      "distractors": [
+        "mora",
+        "chega",
+        "sai"
+      ]
+    },
+    {
+      "prompt": "Она попросила больше времени.",
+      "answer": "Ela pediu mais tempo.",
+      "distractors": [
+        "perguntou",
+        "mandou",
+        "trouxe"
+      ]
+    },
+    {
+      "prompt": "Мы живём далеко от центра.",
+      "answer": "Nós moramos longe do centro.",
+      "distractors": [
+        "chegamos",
+        "levamos",
+        "pedimos"
+      ]
+    },
+    {
+      "prompt": "Закрой дверь холодильника.",
+      "answer": "Feche a porta da geladeira.",
+      "distractors": [
+        "Abra",
+        "Mande",
+        "Leve"
+      ]
     },
     {
       "prompt": "Ты можешь помочь мне донести эту коробку?",
       "answer": "Você pode me ajudar a carregar esta caixa?",
-      "distractors": ["levar", "mandar", "pedir"]
-    },
-    {
-      "prompt": "Я всегда стараюсь помогать своей семье.",
-      "answer": "Eu sempre tento ajudar minha família.",
-      "distractors": ["trazer", "mandar", "perguntar"]
-    },
-    {
-      "prompt": "Посмотри на то здание!",
-      "answer": "Olha aquele prédio ali!",
-      "distractors": ["Vê", "Chega", "Leva"]
+      "distractors": [
+        "levar",
+        "mandar",
+        "pedir"
+      ]
     },
     {
       "prompt": "Она внимательно посмотрела на карту.",
       "answer": "Ela olhou o mapa com cuidado.",
-      "distractors": ["pediu", "trouxe", "mandou"]
+      "distractors": [
+        "pediu",
+        "trouxe",
+        "mandou"
+      ]
+    },
+    {
+      "prompt": "Аптека открывается в восемь.",
+      "answer": "A farmácia abre às oito.",
+      "distractors": [
+        "fecha",
+        "chega",
+        "sai"
+      ]
+    },
+    {
+      "prompt": "Ты можешь принести мне стакан воды?",
+      "answer": "Você pode me trazer um copo de água?",
+      "distractors": [
+        "levar",
+        "mandar",
+        "pedir"
+      ]
+    },
+    {
+      "prompt": "Жди меня у входа.",
+      "answer": "Me espera na entrada.",
+      "distractors": [
+        "Ajuda",
+        "Manda",
+        "Leva"
+      ]
+    },
+    {
+      "prompt": "Включи вентилятор, жарко.",
+      "answer": "Liga o ventilador, está quente.",
+      "distractors": [
+        "Fecha",
+        "Leva",
+        "Traz"
+      ]
+    },
+    {
+      "prompt": "Ты отправил письмо?",
+      "answer": "Você mandou o e-mail?",
+      "distractors": [
+        "abriu",
+        "fechou",
+        "perdeu"
+      ]
+    },
+    {
+      "prompt": "Торговый центр закрывается в десять вечера.",
+      "answer": "O shopping fecha às dez da noite.",
+      "distractors": [
+        "abre",
+        "sai",
+        "chega"
+      ]
+    },
+    {
+      "prompt": "Мы надеемся скоро тебя увидеть.",
+      "answer": "Esperamos te ver em breve.",
+      "distractors": [
+        "Mandamos",
+        "Levamos",
+        "Ajudamos"
+      ]
+    },
+    {
+      "prompt": "Посмотри на то здание!",
+      "answer": "Olha aquele prédio ali!",
+      "distractors": [
+        "Vê",
+        "Chega",
+        "Leva"
+      ]
+    },
+    {
+      "prompt": "Я позвоню тебе завтра утром.",
+      "answer": "Vou te ligar amanhã de manhã.",
+      "distractors": [
+        "mandar",
+        "pedir",
+        "levar"
+      ]
+    },
+    {
+      "prompt": "Я выхожу вечером с друзьями.",
+      "answer": "Eu saio à noite com meus amigos.",
+      "distractors": [
+        "moro",
+        "olho",
+        "fecho"
+      ]
+    },
+    {
+      "prompt": "Отнеси это письмо директору.",
+      "answer": "Leve esta carta para a diretora.",
+      "distractors": [
+        "Abra",
+        "Feche",
+        "Mande"
+      ]
+    },
+    {
+      "prompt": "Принеси свой ежедневник на встречу.",
+      "answer": "Traga sua agenda para a reunião.",
+      "distractors": [
+        "Leve",
+        "Mande",
+        "Abra"
+      ]
+    },
+    {
+      "prompt": "Я всегда стараюсь помогать своей семье.",
+      "answer": "Eu sempre tento ajudar minha família.",
+      "distractors": [
+        "trazer",
+        "mandar",
+        "perguntar"
+      ]
+    },
+    {
+      "prompt": "Она отвозит сына к врачу.",
+      "answer": "Ela leva o filho ao médico.",
+      "distractors": [
+        "manda",
+        "pede",
+        "fecha"
+      ]
+    },
+    {
+      "prompt": "Я работаю с понедельника по пятницу.",
+      "answer": "Eu trabalho de segunda a sexta.",
+      "distractors": [
+        "moro",
+        "chego",
+        "saio"
+      ]
+    },
+    {
+      "prompt": "Можно заказать кофе?",
+      "answer": "Posso pedir um café?",
+      "distractors": [
+        "trazer",
+        "perguntar",
+        "mandar"
+      ]
+    },
+    {
+      "prompt": "Она рано прибыла в аэропорт.",
+      "answer": "Ela chegou no aeroporto cedo.",
+      "distractors": [
+        "saiu",
+        "morou",
+        "pediu"
+      ]
+    },
+    {
+      "prompt": "Ты можешь открыть для меня эту банку?",
+      "answer": "Você pode abrir este pote para mim?",
+      "distractors": [
+        "fechar",
+        "levar",
+        "mandar"
+      ]
+    },
+    {
+      "prompt": "В котором часу приходит поезд?",
+      "answer": "A que horas o trem chega?",
+      "distractors": [
+        "sai",
+        "para",
+        "abre"
+      ]
+    },
+    {
+      "prompt": "Ты живёшь в этом районе?",
+      "answer": "Você mora neste bairro?",
+      "distractors": [
+        "trabalha",
+        "espera",
+        "chega"
+      ]
     }
   ]
 }

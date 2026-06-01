@@ -5,154 +5,274 @@
   "lang": "en",
   "exercises": [
     {
-      "prompt": "He is a doctor.",
-      "answer": "Ele é médico.",
-      "distractors": ["são", "somos", "estava"]
-    },
-    {
-      "prompt": "Today is Wednesday.",
-      "answer": "Hoje é quarta-feira.",
-      "distractors": ["são", "estamos", "fica"]
-    },
-    {
-      "prompt": "She is sick today.",
-      "answer": "Ela está doente hoje.",
-      "distractors": ["estão", "estou", "são"]
-    },
-    {
-      "prompt": "The book is on the table.",
-      "answer": "O livro está na mesa.",
-      "distractors": ["estão", "sou", "ficou"]
-    },
-    {
-      "prompt": "Do you have a pen?",
-      "answer": "Você tem uma caneta?",
-      "distractors": ["têm", "tenho", "carro"]
-    },
-    {
-      "prompt": "She has three children.",
-      "answer": "Ela tem três filhos.",
-      "distractors": ["têm", "tenho", "irmãos"]
+      "prompt": "Do you speak Portuguese?",
+      "answer": "Você fala português?",
+      "distractors": [
+        "falam",
+        "falo",
+        "espanhol"
+      ]
     },
     {
       "prompt": "The pharmacy is next to the bank.",
       "answer": "A farmácia fica ao lado do banco.",
-      "distractors": ["ficam", "fiquei", "embaixo"]
-    },
-    {
-      "prompt": "He got very nervous.",
-      "answer": "Ele ficou muito nervoso.",
-      "distractors": ["ficaram", "fiquei", "triste"]
-    },
-    {
-      "prompt": "There are many options.",
-      "answer": "Há muitas opções.",
-      "distractors": ["Havia", "Houve", "poucas"]
-    },
-    {
-      "prompt": "There is an error in the system.",
-      "answer": "Há um erro no sistema.",
-      "distractors": ["Havia", "Houve", "uma"]
-    },
-    {
-      "prompt": "Do you want coffee?",
-      "answer": "Você quer café?",
-      "distractors": ["querem", "quero", "chá"]
-    },
-    {
-      "prompt": "I'm going to the beach.",
-      "answer": "Vou à praia.",
-      "distractors": ["Vai", "Vamos", "ao"]
-    },
-    {
-      "prompt": "She is going to study.",
-      "answer": "Ela vai estudar.",
-      "distractors": ["vão", "vou", "trabalhar"]
-    },
-    {
-      "prompt": "What do you do?",
-      "answer": "O que você faz?",
-      "distractors": ["fazem", "faço", "fez"]
-    },
-    {
-      "prompt": "I do my homework every day.",
-      "answer": "Eu faço minha tarefa todo dia.",
-      "distractors": ["faz", "fazem", "escola"]
-    },
-    {
-      "prompt": "Can I sit here?",
-      "answer": "Posso sentar aqui?",
-      "distractors": ["Pode", "Podemos", "ali"]
-    },
-    {
-      "prompt": "Do you speak Portuguese?",
-      "answer": "Você fala português?",
-      "distractors": ["falam", "falo", "espanhol"]
-    },
-    {
-      "prompt": "She speaks very well.",
-      "answer": "Ela fala muito bem.",
-      "distractors": ["falam", "falo", "mal"]
-    },
-    {
-      "prompt": "I don't know.",
-      "answer": "Não sei.",
-      "distractors": ["sabe", "sabemos", "conheço"]
-    },
-    {
-      "prompt": "I know Rio de Janeiro.",
-      "answer": "Conheço o Rio de Janeiro.",
-      "distractors": ["Conhecem", "Sei", "visitar"]
-    },
-    {
-      "prompt": "Give me a hug!",
-      "answer": "Me dá um abraço!",
-      "distractors": ["dão", "dou", "beijo"]
-    },
-    {
-      "prompt": "I need help.",
-      "answer": "Preciso de ajuda.",
-      "distractors": ["Precisa", "Precisamos", "trabalho"]
-    },
-    {
-      "prompt": "She needs a taxi.",
-      "answer": "Ela precisa de um táxi.",
-      "distractors": ["precisam", "preciso", "ônibus"]
-    },
-    {
-      "prompt": "I like music.",
-      "answer": "Gosto de música.",
-      "distractors": ["Gosta", "Gostamos", "cinema"]
-    },
-    {
-      "prompt": "Do you like Brazilian food?",
-      "answer": "Você gosta de comida brasileira?",
-      "distractors": ["gostam", "gosto", "italiana"]
-    },
-    {
-      "prompt": "Come here!",
-      "answer": "Vem cá!",
-      "distractors": ["Vão", "Venho", "lá"]
-    },
-    {
-      "prompt": "Shall we eat?",
-      "answer": "Vamos comer?",
-      "distractors": ["vou", "vai", "beber"]
+      "distractors": [
+        "ficam",
+        "fiquei",
+        "embaixo"
+      ]
     },
     {
       "prompt": "I drink coffee every morning.",
       "answer": "Tomo café toda manhã.",
-      "distractors": ["Toma", "Tomamos", "chá"]
+      "distractors": [
+        "Toma",
+        "Tomamos",
+        "chá"
+      ]
     },
     {
-      "prompt": "Where do you buy bread?",
-      "answer": "Onde você compra pão?",
-      "distractors": ["compram", "compro", "leite"]
+      "prompt": "I'm going to the beach.",
+      "answer": "Vou à praia.",
+      "distractors": [
+        "Vai",
+        "Vamos",
+        "ao"
+      ]
+    },
+    {
+      "prompt": "The book is on the table.",
+      "answer": "O livro está na mesa.",
+      "distractors": [
+        "estão",
+        "sou",
+        "ficou"
+      ]
+    },
+    {
+      "prompt": "She needs a taxi.",
+      "answer": "Ela precisa de um táxi.",
+      "distractors": [
+        "precisam",
+        "preciso",
+        "ônibus"
+      ]
+    },
+    {
+      "prompt": "Come here!",
+      "answer": "Vem cá!",
+      "distractors": [
+        "Vão",
+        "Venho",
+        "lá"
+      ]
+    },
+    {
+      "prompt": "She is sick today.",
+      "answer": "Ela está doente hoje.",
+      "distractors": [
+        "estão",
+        "estou",
+        "são"
+      ]
+    },
+    {
+      "prompt": "I need help.",
+      "answer": "Preciso de ajuda.",
+      "distractors": [
+        "Precisa",
+        "Precisamos",
+        "trabalho"
+      ]
+    },
+    {
+      "prompt": "I do my homework every day.",
+      "answer": "Eu faço minha tarefa todo dia.",
+      "distractors": [
+        "faz",
+        "fazem",
+        "escola"
+      ]
+    },
+    {
+      "prompt": "There is an error in the system.",
+      "answer": "Há um erro no sistema.",
+      "distractors": [
+        "Havia",
+        "Houve",
+        "uma"
+      ]
+    },
+    {
+      "prompt": "He is a doctor.",
+      "answer": "Ele é médico.",
+      "distractors": [
+        "são",
+        "somos",
+        "estava"
+      ]
     },
     {
       "prompt": "I'll pay with Pix.",
       "answer": "Vou pagar com Pix.",
-      "distractors": ["vão", "vai", "cartão"]
+      "distractors": [
+        "vão",
+        "vai",
+        "cartão"
+      ]
+    },
+    {
+      "prompt": "She speaks very well.",
+      "answer": "Ela fala muito bem.",
+      "distractors": [
+        "falam",
+        "falo",
+        "mal"
+      ]
+    },
+    {
+      "prompt": "There are many options.",
+      "answer": "Há muitas opções.",
+      "distractors": [
+        "Havia",
+        "Houve",
+        "poucas"
+      ]
+    },
+    {
+      "prompt": "I don't know.",
+      "answer": "Não sei.",
+      "distractors": [
+        "sabe",
+        "sabemos",
+        "conheço"
+      ]
+    },
+    {
+      "prompt": "He got very nervous.",
+      "answer": "Ele ficou muito nervoso.",
+      "distractors": [
+        "ficaram",
+        "fiquei",
+        "triste"
+      ]
+    },
+    {
+      "prompt": "She is going to study.",
+      "answer": "Ela vai estudar.",
+      "distractors": [
+        "vão",
+        "vou",
+        "trabalhar"
+      ]
+    },
+    {
+      "prompt": "Do you want coffee?",
+      "answer": "Você quer café?",
+      "distractors": [
+        "querem",
+        "quero",
+        "chá"
+      ]
+    },
+    {
+      "prompt": "Today is Wednesday.",
+      "answer": "Hoje é quarta-feira.",
+      "distractors": [
+        "são",
+        "estamos",
+        "fica"
+      ]
+    },
+    {
+      "prompt": "Do you like Brazilian food?",
+      "answer": "Você gosta de comida brasileira?",
+      "distractors": [
+        "gostam",
+        "gosto",
+        "italiana"
+      ]
+    },
+    {
+      "prompt": "Shall we eat?",
+      "answer": "Vamos comer?",
+      "distractors": [
+        "vou",
+        "vai",
+        "beber"
+      ]
+    },
+    {
+      "prompt": "What do you do?",
+      "answer": "O que você faz?",
+      "distractors": [
+        "fazem",
+        "faço",
+        "fez"
+      ]
+    },
+    {
+      "prompt": "Give me a hug!",
+      "answer": "Me dá um abraço!",
+      "distractors": [
+        "dão",
+        "dou",
+        "beijo"
+      ]
+    },
+    {
+      "prompt": "She has three children.",
+      "answer": "Ela tem três filhos.",
+      "distractors": [
+        "têm",
+        "tenho",
+        "irmãos"
+      ]
+    },
+    {
+      "prompt": "I like music.",
+      "answer": "Gosto de música.",
+      "distractors": [
+        "Gosta",
+        "Gostamos",
+        "cinema"
+      ]
+    },
+    {
+      "prompt": "Where do you buy bread?",
+      "answer": "Onde você compra pão?",
+      "distractors": [
+        "compram",
+        "compro",
+        "leite"
+      ]
+    },
+    {
+      "prompt": "Can I sit here?",
+      "answer": "Posso sentar aqui?",
+      "distractors": [
+        "Pode",
+        "Podemos",
+        "ali"
+      ]
+    },
+    {
+      "prompt": "Do you have a pen?",
+      "answer": "Você tem uma caneta?",
+      "distractors": [
+        "têm",
+        "tenho",
+        "carro"
+      ]
+    },
+    {
+      "prompt": "I know Rio de Janeiro.",
+      "answer": "Conheço o Rio de Janeiro.",
+      "distractors": [
+        "Conhecem",
+        "Sei",
+        "visitar"
+      ]
     }
   ]
 }

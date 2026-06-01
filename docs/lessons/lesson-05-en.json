@@ -6,143 +6,243 @@
   "exercises": [
     {
       "prompt": "Choose the correct connector.",
-      "sentence": "Eu como arroz ___ feijão todos os dias.",
-      "options": ["e", "mas", "então", "porque"],
-      "correct": 0,
-      "explanation": "'E' (and) joins two nouns in a list. 'Mas' needs a full contrasting clause after it — it cannot link two bare nouns."
+      "sentence": "Ele nasceu ___ a guerra acabou.",
+      "options": [
+        "mas",
+        "quando",
+        "porque",
+        "então"
+      ],
+      "correct": 1,
+      "explanation": "'Quando' (when) places two events at the same point in time. 'Então' would wrongly imply his birth caused the war to end."
     },
     {
       "prompt": "Choose the correct connector.",
-      "sentence": "Ele queria dormir, ___ o bebê começou a chorar.",
-      "options": ["mas", "porque", "então", "se"],
+      "sentence": "Quero ir à praia, ___ preciso trabalhar.",
+      "options": [
+        "mas",
+        "então",
+        "porque",
+        "se"
+      ],
       "correct": 0,
-      "explanation": "'Mas' (but) signals contrast or an unexpected turn. The crying baby opposes the desire to sleep. 'Então' would wrongly imply that wanting to sleep caused the baby to cry."
+      "explanation": "'Mas' (but) expresses that the second idea opposes the first. Wanting the beach conflicts with needing to work. 'Então' would wrongly imply the desire for the beach caused the work obligation."
     },
     {
       "prompt": "Choose the correct connector.",
-      "sentence": "Esse produto é azul ___ verde?",
-      "options": ["ou", "mas", "porque", "então"],
-      "correct": 0,
-      "explanation": "'Ou' (or) presents two alternatives. 'Mas', 'porque', and 'então' require verb clauses — they cannot link two adjectives as choices in a question."
+      "sentence": "Estava com fome, ___ pedi uma pizza.",
+      "options": [
+        "se",
+        "porque",
+        "então",
+        "mas"
+      ],
+      "correct": 2,
+      "explanation": "'Então' (so/therefore) marks the natural result of being hungry. 'Mas' would imply ordering pizza was a surprising contrast to being hungry — which makes no sense."
     },
     {
       "prompt": "Choose the correct connector.",
-      "sentence": "Ela não veio à festa ___ estava doente.",
-      "options": ["porque", "mas", "então", "também"],
-      "correct": 0,
-      "explanation": "'Porque' (because) introduces the reason for not attending. 'Mas' would imply she didn't come despite being sick — the opposite of the expected logic."
+      "sentence": "___ que você está aqui, pode me ajudar?",
+      "options": [
+        "Mas",
+        "Então",
+        "Ou",
+        "Já"
+      ],
+      "correct": 3,
+      "explanation": "'Já que' is a fixed two-word expression meaning 'since' or 'given that'. None of the other options form a valid connector with 'que' in this sentence position."
     },
     {
       "prompt": "Choose the correct connector.",
       "sentence": "___ você está triste?",
-      "options": ["Por que", "Porque", "Já", "Se"],
+      "options": [
+        "Por que",
+        "Se",
+        "Já",
+        "Porque"
+      ],
       "correct": 0,
       "explanation": "'Por que' (two words) asks 'why' in a direct question. 'Porque' (one word) means 'because' — it answers a question, it does not open one."
     },
     {
       "prompt": "Choose the correct connector.",
       "sentence": "Ela terminou cedo, ___ pôde descansar.",
-      "options": ["então", "mas", "porque", "se"],
-      "correct": 0,
+      "options": [
+        "mas",
+        "então",
+        "se",
+        "porque"
+      ],
+      "correct": 1,
       "explanation": "'Então' (so/therefore) marks the natural result of finishing early. 'Mas' would imply resting was unexpected — which it isn't when you finish early."
     },
     {
       "prompt": "Choose the correct connector.",
-      "sentence": "Ele nasceu ___ a guerra acabou.",
-      "options": ["quando", "então", "porque", "mas"],
+      "sentence": "Eu como arroz ___ feijão todos os dias.",
+      "options": [
+        "e",
+        "porque",
+        "mas",
+        "então"
+      ],
       "correct": 0,
-      "explanation": "'Quando' (when) places two events at the same point in time. 'Então' would wrongly imply his birth caused the war to end."
-    },
-    {
-      "prompt": "Choose the correct connector.",
-      "sentence": "___ eu fosse rico, compraria uma casa na praia.",
-      "options": ["Se", "Quando", "Mas", "Porque"],
-      "correct": 0,
-      "explanation": "'Se' (if) introduces a counterfactual condition. It pairs with the past subjunctive 'fosse'. 'Quando' (when) requires the future subjunctive 'for', not 'fosse' — making 'quando eu fosse' ungrammatical in this pattern."
-    },
-    {
-      "prompt": "Choose the correct connector.",
-      "sentence": "Eu acho ___ você tem razão.",
-      "options": ["que", "se", "mas", "quando"],
-      "correct": 0,
-      "explanation": "'Que' (that) introduces a complement clause after a verb of opinion like 'achar'. 'Se' would turn it into an indirect yes/no question, changing the meaning."
-    },
-    {
-      "prompt": "Choose the correct connector.",
-      "sentence": "___ que você está aqui, pode me ajudar?",
-      "options": ["Já", "Mas", "Então", "Ou"],
-      "correct": 0,
-      "explanation": "'Já que' is a fixed two-word expression meaning 'since' or 'given that'. None of the other options form a valid connector with 'que' in this sentence position."
-    },
-    {
-      "prompt": "Choose the correct connector.",
-      "sentence": "Mesmo depois de dois anos, ela ___ sente saudade do Brasil.",
-      "options": ["ainda", "já", "também", "mas"],
-      "correct": 0,
-      "explanation": "'Ainda' (still) expresses that a feeling persists across time. The phrase 'mesmo depois de dois anos' signals duration — 'já' (already) contradicts that framing by implying the feeling is new."
-    },
-    {
-      "prompt": "Choose the correct connector.",
-      "sentence": "Eu falo inglês e ___ falo espanhol.",
-      "options": ["também", "ainda", "já", "mas"],
-      "correct": 0,
-      "explanation": "'Também' (also/too) adds a second fact of the same kind. 'Ainda' and 'já' would inject unneeded temporal meaning; 'mas' contradicts the 'e' already in the sentence."
-    },
-    {
-      "prompt": "Choose the correct connector.",
-      "sentence": "O mercado vende frutas, legumes ___ carnes.",
-      "options": ["e", "mas", "então", "porque"],
-      "correct": 0,
-      "explanation": "'E' (and) joins items in a list. 'Mas', 'então', and 'porque' all require verb clauses after them — they cannot link bare nouns in an enumeration."
-    },
-    {
-      "prompt": "Choose the correct connector.",
-      "sentence": "Quero ir à praia, ___ preciso trabalhar.",
-      "options": ["mas", "então", "porque", "se"],
-      "correct": 0,
-      "explanation": "'Mas' (but) expresses that the second idea opposes the first. Wanting the beach conflicts with needing to work. 'Então' would wrongly imply the desire for the beach caused the work obligation."
-    },
-    {
-      "prompt": "Choose the correct connector.",
-      "sentence": "Podemos ir de táxi ___ de Uber.",
-      "options": ["ou", "mas", "porque", "então"],
-      "correct": 0,
-      "explanation": "'Ou' (or) offers two travel alternatives. 'Mas', 'porque', and 'então' all require full verb clauses — they cannot link two prepositional phrases as options."
+      "explanation": "'E' (and) joins two nouns in a list. 'Mas' needs a full contrasting clause after it — it cannot link two bare nouns."
     },
     {
       "prompt": "Choose the correct connector.",
       "sentence": "Fui ao médico ___ estava com muita febre.",
-      "options": ["porque", "mas", "então", "também"],
-      "correct": 0,
+      "options": [
+        "então",
+        "mas",
+        "porque",
+        "também"
+      ],
+      "correct": 2,
       "explanation": "'Porque' (because) gives the reason for the visit. 'Então' would invert the logic, implying the medical visit caused the fever."
     },
     {
       "prompt": "Choose the correct connector.",
-      "sentence": "Estava com fome, ___ pedi uma pizza.",
-      "options": ["então", "mas", "porque", "se"],
-      "correct": 0,
-      "explanation": "'Então' (so/therefore) marks the natural result of being hungry. 'Mas' would imply ordering pizza was a surprising contrast to being hungry — which makes no sense."
+      "sentence": "É importante ___ você estude todos os dias.",
+      "options": [
+        "mas",
+        "quando",
+        "se",
+        "que"
+      ],
+      "correct": 3,
+      "explanation": "'Que' introduces a subjunctive complement clause after impersonal expressions like 'é importante'. 'Se' would create a conditional clause, not the required complement."
+    },
+    {
+      "prompt": "Choose the correct connector.",
+      "sentence": "___ eu fosse rico, compraria uma casa na praia.",
+      "options": [
+        "Porque",
+        "Se",
+        "Quando",
+        "Mas"
+      ],
+      "correct": 1,
+      "explanation": "'Se' (if) introduces a counterfactual condition. It pairs with the past subjunctive 'fosse'. 'Quando' (when) requires the future subjunctive 'for', not 'fosse' — making 'quando eu fosse' ungrammatical in this pattern."
     },
     {
       "prompt": "Choose the correct connector.",
       "sentence": "Fico nervoso ___ tenho que falar em público.",
-      "options": ["quando", "mas", "então", "também"],
-      "correct": 0,
+      "options": [
+        "então",
+        "mas",
+        "também",
+        "quando"
+      ],
+      "correct": 3,
       "explanation": "'Quando' (when) links a recurring condition to a habitual emotional response. 'Então' would imply the nervousness causes the speaking obligation — the wrong direction."
     },
     {
       "prompt": "Choose the correct connector.",
       "sentence": "Não sei ___ o voo vai atrasar.",
-      "options": ["se", "que", "porque", "mas"],
+      "options": [
+        "se",
+        "mas",
+        "que",
+        "porque"
+      ],
       "correct": 0,
       "explanation": "'Se' (if/whether) introduces an indirect yes/no question after 'saber'. 'Que' introduces a declarative complement — 'não sei que o voo vai atrasar' is not standard Portuguese in this construction."
     },
     {
       "prompt": "Choose the correct connector.",
-      "sentence": "É importante ___ você estude todos os dias.",
-      "options": ["que", "se", "mas", "quando"],
-      "correct": 0,
-      "explanation": "'Que' introduces a subjunctive complement clause after impersonal expressions like 'é importante'. 'Se' would create a conditional clause, not the required complement."
+      "sentence": "Ele queria dormir, ___ o bebê começou a chorar.",
+      "options": [
+        "se",
+        "mas",
+        "porque",
+        "então"
+      ],
+      "correct": 1,
+      "explanation": "'Mas' (but) signals contrast or an unexpected turn. The crying baby opposes the desire to sleep. 'Então' would wrongly imply that wanting to sleep caused the baby to cry."
+    },
+    {
+      "prompt": "Choose the correct connector.",
+      "sentence": "Ela não veio à festa ___ estava doente.",
+      "options": [
+        "então",
+        "mas",
+        "porque",
+        "também"
+      ],
+      "correct": 2,
+      "explanation": "'Porque' (because) introduces the reason for not attending. 'Mas' would imply she didn't come despite being sick — the opposite of the expected logic."
+    },
+    {
+      "prompt": "Choose the correct connector.",
+      "sentence": "Esse produto é azul ___ verde?",
+      "options": [
+        "mas",
+        "então",
+        "ou",
+        "porque"
+      ],
+      "correct": 2,
+      "explanation": "'Ou' (or) presents two alternatives. 'Mas', 'porque', and 'então' require verb clauses — they cannot link two adjectives as choices in a question."
+    },
+    {
+      "prompt": "Choose the correct connector.",
+      "sentence": "Mesmo depois de dois anos, ela ___ sente saudade do Brasil.",
+      "options": [
+        "já",
+        "mas",
+        "também",
+        "ainda"
+      ],
+      "correct": 3,
+      "explanation": "'Ainda' (still) expresses that a feeling persists across time. The phrase 'mesmo depois de dois anos' signals duration — 'já' (already) contradicts that framing by implying the feeling is new."
+    },
+    {
+      "prompt": "Choose the correct connector.",
+      "sentence": "Podemos ir de táxi ___ de Uber.",
+      "options": [
+        "então",
+        "mas",
+        "porque",
+        "ou"
+      ],
+      "correct": 3,
+      "explanation": "'Ou' (or) offers two travel alternatives. 'Mas', 'porque', and 'então' all require full verb clauses — they cannot link two prepositional phrases as options."
+    },
+    {
+      "prompt": "Choose the correct connector.",
+      "sentence": "O mercado vende frutas, legumes ___ carnes.",
+      "options": [
+        "mas",
+        "porque",
+        "e",
+        "então"
+      ],
+      "correct": 2,
+      "explanation": "'E' (and) joins items in a list. 'Mas', 'então', and 'porque' all require verb clauses after them — they cannot link bare nouns in an enumeration."
+    },
+    {
+      "prompt": "Choose the correct connector.",
+      "sentence": "Eu falo inglês e ___ falo espanhol.",
+      "options": [
+        "ainda",
+        "já",
+        "mas",
+        "também"
+      ],
+      "correct": 3,
+      "explanation": "'Também' (also/too) adds a second fact of the same kind. 'Ainda' and 'já' would inject unneeded temporal meaning; 'mas' contradicts the 'e' already in the sentence."
+    },
+    {
+      "prompt": "Choose the correct connector.",
+      "sentence": "Eu acho ___ você tem razão.",
+      "options": [
+        "mas",
+        "quando",
+        "se",
+        "que"
+      ],
+      "correct": 3,
+      "explanation": "'Que' (that) introduces a complement clause after a verb of opinion like 'achar'. 'Se' would turn it into an indirect yes/no question, changing the meaning."
     }
   ]
 }
