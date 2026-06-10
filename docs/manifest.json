@@ -27,5 +27,16 @@
   { "id": "lesson-11-en", "title": "Verb Group 4: Thinking, Feeling & Communication", "type": "fill_gap", "lang": "en" },
   { "id": "lesson-11-ru", "title": "Группа глаголов 4: Мышление, чувства и общение", "type": "fill_gap", "lang": "ru" },
   { "id": "lesson-13-en", "title": "Verb Group 4: Thinking, Feeling & Communication — Sentence Practice", "type": "word_blocks", "lang": "en" },
-  { "id": "lesson-13-ru", "title": "Группа глаголов 4: Мышление, чувства и общение — составление предложений", "type": "word_blocks", "lang": "ru" }
+  { "id": "lesson-13-ru", "title": "Группа глаголов 4: Мышление, чувства и общение — составление предложений", "type": "word_blocks", "lang": "ru" },
+
+  { "id": "lesson-17-en", "title": "Regular -AR Verbs: Choosing the Right Tense", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-17-ru", "title": "Правильные глаголы на -AR: выбор времени", "type": "fill_gap", "lang": "ru" },
+  { "id": "lesson-18-en", "title": "Regular -ER / -IR Verbs: Choosing the Right Tense", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-18-ru", "title": "Правильные глаголы на -ER / -IR: выбор времени", "type": "fill_gap", "lang": "ru" },
+  { "id": "lesson-19-en", "title": "Regular Verbs: Mixed Tense Consolidation", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-19-ru", "title": "Правильные глаголы: закрепление всех времён", "type": "fill_gap", "lang": "ru" },
+  { "id": "lesson-20-en", "title": "Irregular Verbs I — SER, ESTAR, IR, DAR: Choosing the Right Tense", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-20-ru", "title": "Неправильные глаголы I — SER, ESTAR, IR, DAR: выбор времени", "type": "fill_gap", "lang": "ru" },
+  { "id": "lesson-21-en", "title": "Irregular Verbs II — FAZER, TER and More: Choosing the Right Tense", "type": "fill_gap", "lang": "en" },
+  { "id": "lesson-21-ru", "title": "Неправильные глаголы II — FAZER, TER и другие: выбор времени", "type": "fill_gap", "lang": "ru" }
 ]

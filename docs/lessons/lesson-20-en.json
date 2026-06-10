@@ -1,0 +1,218 @@
+{
+  "id": "lesson-20-en",
+  "title": "Irregular Verbs I — SER, ESTAR, IR, DAR: Choosing the Right Tense",
+  "type": "fill_gap",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "Select the correct form of SER.",
+      "sentence": "Eu ___ formado em direito e trabalho actualmente como consultor jurídico.",
+      "options": ["sou", "fui", "serei", "é", "foram", "éramos"],
+      "correct": 0,
+      "explanation": "The present-tense frame ('trabalho actualmente') and professional identity signal Presente of EU (sou). 'Fui' is EU Pretérito Perfeito. 'Serei' is EU Futuro. 'É' is ELE/VOCÊ Presente. 'Foram' is ELES/VOCÊS Pretérito Perfeito. 'Éramos' is NÓS Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of ESTAR.",
+      "sentence": "Os documentos ___ prontos e disponíveis para consulta na semana passada.",
+      "options": ["estão", "estiveram", "estavam", "estarão", "esteve", "estive"],
+      "correct": 1,
+      "explanation": "'Na semana passada' marks a completed past state — Pretérito Perfeito of ELES/VOCÊS (estiveram). 'Estão' is Presente. 'Estavam' is Pretérito Imperfeito. 'Estarão' is Futuro. 'Esteve' is ELE singular Pretérito Perfeito. 'Estive' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of IR.",
+      "sentence": "Antes da pandemia, o inspector ___ frequentemente às instalações para verificar os procedimentos.",
+      "options": ["vai", "foi", "ia", "irá", "iam", "íamos"],
+      "correct": 2,
+      "explanation": "'Antes da pandemia' + 'frequentemente' signals a habitual past movement — Pretérito Imperfeito of ELE (ia). Note: 'ia' is also the EU form; 'o inspector' establishes ELE. 'Vai' is ELE Presente. 'Foi' is ELE Pretérito Perfeito. 'Irá' is ELE Futuro. 'Iam' is ELES Imperfeito. 'Íamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of DAR.",
+      "sentence": "Na próxima reunião, nós ___ uma explicação detalhada sobre os resultados do estudo.",
+      "options": ["damos", "demos", "dávamos", "daremos", "darão", "darei"],
+      "correct": 3,
+      "explanation": "'Na próxima reunião' places the action in the future — Futuro of NÓS (daremos). 'Damos' is NÓS Presente. 'Demos' is NÓS Pretérito Perfeito (note: for DAR, NÓS Presente 'damos' ≠ NÓS Perfeito 'demos' — they differ). 'Dávamos' is NÓS Pretérito Imperfeito. 'Darão' is ELES Futuro. 'Darei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of SER.",
+      "sentence": "Naquela época, as condições de trabalho ___ muito mais exigentes do que são hoje.",
+      "options": ["são", "foram", "serão", "era", "eram", "éramos"],
+      "correct": 4,
+      "explanation": "'Naquela época' marks a past ongoing state — Pretérito Imperfeito of ELES/VOCÊS (eram). 'São' is ELES Presente. 'Foram' is ELES Pretérito Perfeito. 'Serão' is ELES Futuro. 'Era' is EU/ELE Imperfeito (singular). 'Éramos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of ESTAR.",
+      "sentence": "Ontem, eu ___ no arquivo durante a tarde a organizar os documentos históricos.",
+      "options": ["estou", "estava", "estarei", "esteve", "estiveram", "estive"],
+      "correct": 5,
+      "explanation": "'Ontem' marks a completed past action — Pretérito Perfeito of EU (estive). 'Estou' is EU Presente. 'Estava' is Pretérito Imperfeito (EU/ELE form). 'Estarei' is EU Futuro. 'Esteve' is ELE Pretérito Perfeito. 'Estiveram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of IR.",
+      "sentence": "Nós ___ a todas as reuniões de conselho sem excepção, independentemente da agenda.",
+      "options": ["vamos", "fomos", "íamos", "iremos", "vai", "vão"],
+      "correct": 0,
+      "explanation": "The habitual present statement signals Presente of NÓS (vamos). 'Fomos' is NÓS Pretérito Perfeito. 'Íamos' is NÓS Pretérito Imperfeito. 'Iremos' is NÓS Futuro. 'Vai' is ELE Presente. 'Vão' is ELES Presente."
+    },
+    {
+      "prompt": "Select the correct form of DAR.",
+      "sentence": "Ontem de manhã, eu ___ início formal ao processo de avaliação de desempenho.",
+      "options": ["dou", "dei", "dava", "darei", "deu", "deram"],
+      "correct": 1,
+      "explanation": "'Ontem de manhã' marks a completed past action — Pretérito Perfeito of EU (dei). 'Dou' is EU Presente. 'Dava' is Pretérito Imperfeito (EU/ELE form). 'Darei' is EU Futuro. 'Deu' is ELE Pretérito Perfeito. 'Deram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of SER.",
+      "sentence": "Nós ___ a empresa com maior quota de mercado no sector há mais de vinte anos.",
+      "options": ["éramos", "seremos", "somos", "fomos", "são", "sou"],
+      "correct": 2,
+      "explanation": "The present-tense assertion signals Presente of NÓS (somos). 'Éramos' is NÓS Pretérito Imperfeito. 'Seremos' is NÓS Futuro. 'Fomos' is NÓS Pretérito Perfeito. 'São' is ELES Presente. 'Sou' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of ESTAR.",
+      "sentence": "O relatório ___ disponível para consulta a partir da próxima semana.",
+      "options": ["está", "esteve", "estava", "estará", "estaremos", "estarei"],
+      "correct": 3,
+      "explanation": "'A partir da próxima semana' places the state in the future — Futuro of ELE (estará). 'Está' is ELE Presente. 'Esteve' is ELE Pretérito Perfeito. 'Estava' is Pretérito Imperfeito (EU/ELE form). 'Estaremos' is NÓS Futuro. 'Estarei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of IR.",
+      "sentence": "Os delegados ___ para Genebra na semana passada para as negociações bilaterais.",
+      "options": ["vão", "iam", "irão", "foi", "foram", "fui"],
+      "correct": 4,
+      "explanation": "'Para Genebra na semana passada' marks a completed past movement — Pretérito Perfeito of ELES/VOCÊS (foram). Context ('para Genebra') confirms this is IR (movement to a place), not SER. 'Vão' is ELES Presente. 'Iam' is ELES Imperfeito. 'Irão' is ELES Futuro. 'Foi' is ELE Pretérito Perfeito. 'Fui' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of DAR.",
+      "sentence": "Antigamente, o banco ___ crédito com condições muito mais favoráveis aos pequenos empresários.",
+      "options": ["dá", "deu", "dará", "dão", "dou", "dava"],
+      "correct": 5,
+      "explanation": "'Antigamente' signals a habitual past practice — Pretérito Imperfeito of ELE (dava). Note: 'dava' is also the EU form; 'o banco' establishes ELE. 'Dá' is ELE Presente. 'Deu' is ELE Pretérito Perfeito. 'Dará' is ELE Futuro. 'Dão' is ELES Presente. 'Dou' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of SER.",
+      "sentence": "Quando trabalhava nessa empresa, o director ___ bastante acessível a todos os colaboradores.",
+      "options": ["era", "é", "foi", "será", "eram", "éramos"],
+      "correct": 0,
+      "explanation": "'Quando trabalhava nessa empresa' frames a past ongoing quality — Pretérito Imperfeito of ELE (era). Note: 'era' is also the EU form; 'o director' establishes ELE. 'É' is ELE Presente. 'Foi' is ELE Pretérito Perfeito. 'Será' is ELE Futuro. 'Eram' is ELES Imperfeito. 'Éramos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of ESTAR.",
+      "sentence": "No final do projecto, nós ___ bem posicionados para expandir para novos mercados.",
+      "options": ["estamos", "estaremos", "estávamos", "estivemos", "estarão", "estarei"],
+      "correct": 1,
+      "explanation": "'No final do projecto' (a future endpoint) — Futuro of NÓS (estaremos). 'Estamos' is NÓS Presente. 'Estávamos' is NÓS Imperfeito. 'Estivemos' is NÓS Pretérito Perfeito. 'Estarão' is ELES Futuro. 'Estarei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of IR.",
+      "sentence": "No próximo mês, nós ___ a Paris para apresentar o projecto ao conselho europeu.",
+      "options": ["vamos", "fomos", "iremos", "íamos", "vai", "irão"],
+      "correct": 2,
+      "explanation": "'No próximo mês' places the movement in the future — Futuro of NÓS (iremos). 'Vamos' is NÓS Presente. 'Fomos' is NÓS Pretérito Perfeito. 'Íamos' is NÓS Imperfeito. 'Vai' is ELE Presente. 'Irão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of DAR.",
+      "sentence": "As autoridades ___ prioridade às zonas com maior densidade populacional no plano de investimento.",
+      "options": ["deram", "davam", "darão", "dão", "dá", "dou"],
+      "correct": 3,
+      "explanation": "The present habitual statement signals Presente of ELES/VOCÊS (dão). 'Deram' is Pretérito Perfeito. 'Davam' is Pretérito Imperfeito. 'Darão' is Futuro. 'Dá' is ELE singular Presente. 'Dou' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of SER.",
+      "sentence": "Os resultados da auditoria ___ muito satisfatórios para a administração.",
+      "options": ["são", "eram", "serão", "foi", "foram", "fomos"],
+      "correct": 4,
+      "explanation": "The sentence describes a quality assessment of past results — Pretérito Perfeito of ELES/VOCÊS (foram). 'Resultados...satisfatórios' is an identity/quality (SER, not IR); 'foram' here means 'were' (not 'went'). 'São' is ELES Presente. 'Eram' is ELES Imperfeito. 'Serão' is ELES Futuro. 'Foi' is ELE singular Pretérito Perfeito. 'Fomos' is NÓS Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of ESTAR.",
+      "sentence": "Quando chegámos ao escritório, o director ___ a reunir-se com os representantes dos clientes.",
+      "options": ["está", "esteve", "estará", "estavam", "estive", "estava"],
+      "correct": 5,
+      "explanation": "'Quando chegámos' frames a past ongoing action interrupted by arrival — Pretérito Imperfeito of ELE (estava). Note: 'estava' is also the EU form; 'o director' establishes ELE. 'Está' is ELE Presente. 'Esteve' is ELE Pretérito Perfeito. 'Estará' is ELE Futuro. 'Estavam' is ELES Imperfeito. 'Estive' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of IR.",
+      "sentence": "Eu ___ ao arquivo todos os dias para consultar os registos do projecto.",
+      "options": ["vou", "fui", "ia", "irei", "vai", "vão"],
+      "correct": 0,
+      "explanation": "'Todos os dias' with no past marker signals a habitual present movement — Presente of EU (vou). 'Fui' is EU Pretérito Perfeito. 'Ia' is Pretérito Imperfeito (EU/ELE form). 'Irei' is EU Futuro. 'Vai' is ELE Presente. 'Vão' is ELES Presente."
+    },
+    {
+      "prompt": "Select the correct form of DAR.",
+      "sentence": "Eu ___ formação aos novos colaboradores durante o primeiro mês após a contratação.",
+      "options": ["dei", "dou", "dava", "darei", "dá", "dão"],
+      "correct": 1,
+      "explanation": "The present habitual role signals Presente of EU (dou). 'Dei' is EU Pretérito Perfeito. 'Dava' is Pretérito Imperfeito (EU/ELE form). 'Darei' is EU Futuro. 'Dá' is ELE Presente. 'Dão' is ELES Presente."
+    },
+    {
+      "prompt": "Select the correct form of SER.",
+      "sentence": "O próximo responsável pelo departamento ___ alguém recrutado de fora da organização.",
+      "options": ["é", "foi", "será", "era", "serei", "serão"],
+      "correct": 2,
+      "explanation": "'O próximo responsável' + 'recrutado de fora' places the identity in the future — Futuro of ELE (será). 'É' is ELE Presente. 'Foi' is ELE Pretérito Perfeito. 'Era' is Pretérito Imperfeito (EU/ELE form). 'Serei' is EU Futuro. 'Serão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of ESTAR.",
+      "sentence": "Eu ___ satisfeito com a evolução do projecto ao longo deste semestre.",
+      "options": ["estive", "estava", "estarei", "estou", "está", "estão"],
+      "correct": 3,
+      "explanation": "The present-tense frame ('ao longo deste semestre' — ongoing current situation) signals Presente of EU (estou). 'Estive' is EU Pretérito Perfeito. 'Estava' is Pretérito Imperfeito (EU/ELE form). 'Estarei' is EU Futuro. 'Está' is ELE Presente. 'Estão' is ELES Presente."
+    },
+    {
+      "prompt": "Select the correct form of IR.",
+      "sentence": "Ontem de manhã, eu ___ ao notário para assinar os documentos do contrato.",
+      "options": ["vou", "ia", "irei", "foi", "fui", "foram"],
+      "correct": 4,
+      "explanation": "'Ontem de manhã' marks a completed past movement — Pretérito Perfeito of EU (fui). 'Ao notário' confirms IR (movement to a place), not SER. 'Vou' is EU Presente. 'Ia' is Pretérito Imperfeito (EU/ELE form). 'Irei' is EU Futuro. 'Foi' is ELE Pretérito Perfeito. 'Foram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of DAR.",
+      "sentence": "Os responsáveis ___ uma resposta formal às queixas apresentadas na semana passada.",
+      "options": ["dão", "davam", "darão", "deu", "dei", "deram"],
+      "correct": 5,
+      "explanation": "'Na semana passada' marks a completed past action — Pretérito Perfeito of ELES/VOCÊS (deram). 'Dão' is ELES Presente. 'Davam' is ELES Imperfeito. 'Darão' is ELES Futuro. 'Deu' is ELE singular Pretérito Perfeito. 'Dei' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of SER.",
+      "sentence": "Nós ___ os responsáveis pela coordenação do evento no próximo trimestre.",
+      "options": ["seremos", "somos", "fomos", "éramos", "serão", "serei"],
+      "correct": 0,
+      "explanation": "'No próximo trimestre' places the role in the future — Futuro of NÓS (seremos). 'Somos' is NÓS Presente. 'Fomos' is NÓS Pretérito Perfeito. 'Éramos' is NÓS Imperfeito. 'Serão' is ELES Futuro. 'Serei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of ESTAR.",
+      "sentence": "Antes da renovação, os escritórios ___ em condições precárias para o trabalho diário.",
+      "options": ["estão", "estavam", "estiveram", "estarão", "estava", "estávamos"],
+      "correct": 1,
+      "explanation": "'Antes da renovação' signals a past ongoing state — Pretérito Imperfeito of ELES/VOCÊS (estavam). 'Estão' is ELES Presente. 'Estiveram' is ELES Pretérito Perfeito. 'Estarão' is ELES Futuro. 'Estava' is EU/ELE Imperfeito (singular). 'Estávamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of IR.",
+      "sentence": "O inspector ___ à instalação na próxima semana para a vistoria anual.",
+      "options": ["vai", "foi", "irá", "ia", "irei", "irão"],
+      "correct": 2,
+      "explanation": "'Na próxima semana' places the movement in the future — Futuro of ELE (irá). 'Vai' is ELE Presente. 'Foi' is ELE Pretérito Perfeito. 'Ia' is Pretérito Imperfeito (EU/ELE form). 'Irei' is EU Futuro. 'Irão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of DAR.",
+      "sentence": "O tribunal ___ a sentença final na próxima sessão plenária.",
+      "options": ["dá", "deu", "dava", "dará", "daremos", "darei"],
+      "correct": 3,
+      "explanation": "'Na próxima sessão plenária' places the action in the future — Futuro of ELE (dará). 'Dá' is ELE Presente. 'Deu' is ELE Pretérito Perfeito. 'Dava' is Pretérito Imperfeito (EU/ELE form). 'Daremos' is NÓS Futuro. 'Darei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of SER.",
+      "sentence": "Eu ___ o primeiro a apresentar uma proposta formal ao comité de selecção.",
+      "options": ["sou", "era", "serei", "foi", "fui", "foram"],
+      "correct": 4,
+      "explanation": "'O primeiro a apresentar' describes a role or identity in the past — Pretérito Perfeito of EU (fui). Context ('o primeiro a apresentar' = identity/role) confirms this is SER, not IR. 'Fui' here means 'I was', not 'I went'. 'Sou' is EU Presente. 'Era' is Pretérito Imperfeito (EU/ELE form). 'Serei' is EU Futuro. 'Foi' is ELE Pretérito Perfeito. 'Foram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of IR.",
+      "sentence": "Antes da fusão, os técnicos ___ regularmente às filiais para formação no terreno.",
+      "options": ["vão", "foram", "irão", "ia", "íamos", "iam"],
+      "correct": 5,
+      "explanation": "'Antes da fusão' + 'regularmente' signals a habitual past movement — Pretérito Imperfeito of ELES/VOCÊS (iam). 'Vão' is ELES Presente. 'Foram' is ELES Pretérito Perfeito. 'Irão' is ELES Futuro. 'Ia' is EU/ELE Imperfeito (singular). 'Íamos' is NÓS Imperfeito."
+    }
+  ]
+}

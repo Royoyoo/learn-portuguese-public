@@ -1,0 +1,218 @@
+{
+  "id": "lesson-17-en",
+  "title": "Regular -AR Verbs: Choosing the Right Tense",
+  "type": "fill_gap",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "Select the correct form of FALAR.",
+      "sentence": "Normalmente, eu ___ com os fornecedores por correio electrónico.",
+      "options": ["falo", "falei", "falarei", "fala", "falaram", "falávamos"],
+      "correct": 0,
+      "explanation": "'Normalmente' marks a habitual present routine — Presente of EU (falo). 'Falei' is EU Pretérito Perfeito. 'Falarei' is EU Futuro. 'Fala' is the ELE/VOCÊ Presente form. 'Falaram' is ELES/VOCÊS Pretérito Perfeito. 'Falávamos' is NÓS Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of TRABALHAR.",
+      "sentence": "Os auditores ___ durante todo o fim-de-semana passado para concluir o relatório.",
+      "options": ["trabalham", "trabalharam", "trabalhavam", "trabalharão", "trabalhou", "trabalhei"],
+      "correct": 1,
+      "explanation": "'Fim-de-semana passado' marks a completed past event — Pretérito Perfeito of ELES/VOCÊS (trabalharam). 'Trabalham' is Presente. 'Trabalhavam' is Pretérito Imperfeito. 'Trabalharão' is Futuro. 'Trabalhou' is ELE singular Pretérito Perfeito. 'Trabalhei' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of COMPRAR.",
+      "sentence": "Antigamente, o gestor ___ todos os materiais directamente ao fabricante.",
+      "options": ["compra", "comprou", "comprava", "comprará", "compravam", "compro"],
+      "correct": 2,
+      "explanation": "'Antigamente' signals a habitual past routine — Pretérito Imperfeito of ELE (comprava). Note: 'comprava' is also the EU form; the subject 'o gestor' makes ELE unambiguous. 'Compra' is ELE Presente. 'Comprou' is ELE Pretérito Perfeito. 'Comprará' is ELE Futuro. 'Compravam' is ELES Pretérito Imperfeito. 'Compro' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of GOSTAR.",
+      "sentence": "Tenho a certeza de que nós ___ muito da nova sede da empresa.",
+      "options": ["gostamos", "gostávamos", "gostará", "gostaremos", "gostarão", "gostarei"],
+      "correct": 3,
+      "explanation": "'Tenho a certeza de que' + unresolved present situation points to a future state — Futuro of NÓS (gostaremos). 'Gostamos' is NÓS Presente or Pretérito Perfeito (identical for -AR). 'Gostávamos' is NÓS Pretérito Imperfeito. 'Gostará' is ELE Futuro. 'Gostarão' is ELES Futuro. 'Gostarei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of TOMAR.",
+      "sentence": "Ontem de manhã, eu ___ o medicamento prescrito pelo médico.",
+      "options": ["tomo", "tomava", "tomarei", "tomou", "tomei", "tomaram"],
+      "correct": 4,
+      "explanation": "'Ontem de manhã' marks a specific completed past moment — Pretérito Perfeito of EU (tomei). 'Tomo' is EU Presente. 'Tomava' is Pretérito Imperfeito (EU/ELE share this form). 'Tomarei' is EU Futuro. 'Tomou' is ELE Pretérito Perfeito. 'Tomaram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of PASSAR.",
+      "sentence": "O secretário ___ as informações relevantes aos membros da equipa todos os dias.",
+      "options": ["passei", "passava", "passará", "passaram", "passo", "passa"],
+      "correct": 5,
+      "explanation": "'Todos os dias' signals a habitual present action — Presente of ELE (passa). 'Passei' is EU Pretérito Perfeito. 'Passava' is Pretérito Imperfeito (EU/ELE form). 'Passará' is ELE Futuro. 'Passaram' is ELES Pretérito Perfeito. 'Passo' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of FALAR.",
+      "sentence": "Quando trabalhávamos juntos, nós ___ português em todas as reuniões de equipa.",
+      "options": ["falávamos", "falamos", "falaremos", "falava", "falavam", "falou"],
+      "correct": 0,
+      "explanation": "'Quando trabalhávamos juntos' frames a past habitual context — Pretérito Imperfeito of NÓS (falávamos). 'Falamos' is NÓS Presente or Pretérito Perfeito (identical for -AR). 'Falaremos' is NÓS Futuro. 'Falava' is the EU/ELE Imperfeito form. 'Falavam' is ELES Pretérito Imperfeito. 'Falou' is ELE Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of TRABALHAR.",
+      "sentence": "No próximo semestre, eu ___ em regime de teletrabalho a tempo inteiro.",
+      "options": ["trabalho", "trabalharei", "trabalhei", "trabalhava", "trabalhará", "trabalharão"],
+      "correct": 1,
+      "explanation": "'No próximo semestre' places the action in the future — Futuro of EU (trabalharei). 'Trabalho' is EU Presente. 'Trabalhei' is EU Pretérito Perfeito. 'Trabalhava' is Pretérito Imperfeito (EU/ELE form). 'Trabalhará' is ELE Futuro. 'Trabalharão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of COMPRAR.",
+      "sentence": "Os funcionários do departamento ___ sempre os bilhetes de comboio com antecedência.",
+      "options": ["compraram", "compravam", "compram", "comprarão", "compra", "compro"],
+      "correct": 2,
+      "explanation": "'Sempre' with no past marker signals a habitual present practice — Presente of ELES/VOCÊS (compram). 'Compraram' is Pretérito Perfeito. 'Compravam' is Pretérito Imperfeito. 'Comprarão' is Futuro. 'Compra' is ELE singular Presente. 'Compro' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of GOSTAR.",
+      "sentence": "O director ___ muito da apresentação realizada na semana passada.",
+      "options": ["gosta", "gostava", "gostará", "gostou", "gostaram", "gostei"],
+      "correct": 3,
+      "explanation": "'Na semana passada' marks a single completed past event — Pretérito Perfeito of ELE (gostou). 'Gosta' is ELE Presente. 'Gostava' is Pretérito Imperfeito (EU/ELE form). 'Gostará' is ELE Futuro. 'Gostaram' is ELES Pretérito Perfeito. 'Gostei' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of TOMAR.",
+      "sentence": "Naquela época, nós ___ o pequeno-almoço juntos antes das reuniões matinais.",
+      "options": ["tomamos", "tomaremos", "tomava", "tomaram", "tomávamos", "tomavam"],
+      "correct": 4,
+      "explanation": "'Naquela época' frames a repeated past habit — Pretérito Imperfeito of NÓS (tomávamos). 'Tomamos' is NÓS Presente or Pretérito Perfeito (identical for -AR). 'Tomaremos' is NÓS Futuro. 'Tomava' is EU/ELE Imperfeito. 'Tomaram' is ELES Pretérito Perfeito. 'Tomavam' is ELES Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of PASSAR.",
+      "sentence": "No próximo mês, os inspectores ___ pela fábrica para realizar a auditoria anual.",
+      "options": ["passam", "passaram", "passavam", "passará", "passarei", "passarão"],
+      "correct": 5,
+      "explanation": "'No próximo mês' places the action in the future — Futuro of ELES/VOCÊS (passarão). 'Passam' is Presente. 'Passaram' is Pretérito Perfeito. 'Passavam' is Pretérito Imperfeito. 'Passará' is ELE singular Futuro. 'Passarei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of FALAR.",
+      "sentence": "Na conferência da semana passada, os delegados ___ sobre a nova legislação ambiental.",
+      "options": ["falaram", "falam", "falavam", "falarão", "falou", "falávamos"],
+      "correct": 0,
+      "explanation": "'Na conferência da semana passada' marks a single completed event — Pretérito Perfeito of ELES/VOCÊS (falaram). 'Falam' is Presente. 'Falavam' is Pretérito Imperfeito. 'Falarão' is Futuro. 'Falou' is ELE singular Pretérito Perfeito. 'Falávamos' is NÓS Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of TRABALHAR.",
+      "sentence": "Antes da reforma, o senhor ___ como director regional durante mais de dez anos.",
+      "options": ["trabalha", "trabalhava", "trabalhou", "trabalhará", "trabalhavam", "trabalhávamos"],
+      "correct": 1,
+      "explanation": "'Antes da reforma' + 'durante mais de dez anos' signals a prolonged past state — Pretérito Imperfeito of ELE (trabalhava). Note: 'trabalhava' is also the EU form; 'o senhor' establishes ELE. 'Trabalha' is ELE Presente. 'Trabalhou' is ELE Pretérito Perfeito. 'Trabalhará' is ELE Futuro. 'Trabalhavam' is ELES Imperfeito. 'Trabalhávamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of COMPRAR.",
+      "sentence": "No ano que vem, eu ___ um apartamento mais próximo do escritório.",
+      "options": ["compro", "comprei", "comprarei", "comprava", "comprará", "compraremos"],
+      "correct": 2,
+      "explanation": "'No ano que vem' places the action in the future — Futuro of EU (comprarei). 'Compro' is EU Presente. 'Comprei' is EU Pretérito Perfeito. 'Comprava' is Pretérito Imperfeito (EU/ELE form). 'Comprará' is ELE Futuro. 'Compraremos' is NÓS Futuro."
+    },
+    {
+      "prompt": "Select the correct form of GOSTAR.",
+      "sentence": "Naquela época, os estudantes ___ muito das aulas práticas no laboratório.",
+      "options": ["gostam", "gostaram", "gostarão", "gostavam", "gostava", "gostávamos"],
+      "correct": 3,
+      "explanation": "'Naquela época' marks a repeated past habit — Pretérito Imperfeito of ELES/VOCÊS (gostavam). 'Gostam' is Presente. 'Gostaram' is Pretérito Perfeito. 'Gostarão' is Futuro. 'Gostava' is EU/ELE Imperfeito (singular). 'Gostávamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of PASSAR.",
+      "sentence": "Na semana passada, eu ___ toda a manhã a rever os documentos do contrato.",
+      "options": ["passo", "passava", "passarei", "passou", "passei", "passaram"],
+      "correct": 4,
+      "explanation": "'Na semana passada' marks a completed past event — Pretérito Perfeito of EU (passei). 'Passo' is EU Presente. 'Passava' is Pretérito Imperfeito (EU/ELE form). 'Passarei' is EU Futuro. 'Passou' is ELE Pretérito Perfeito. 'Passaram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of TOMAR.",
+      "sentence": "A partir de amanhã, o paciente ___ dois comprimidos por dia conforme a prescrição.",
+      "options": ["toma", "tomou", "tomava", "tomarão", "tomarei", "tomará"],
+      "correct": 5,
+      "explanation": "'A partir de amanhã' places the action in the future — Futuro of ELE (tomará). 'Toma' is ELE Presente. 'Tomou' is ELE Pretérito Perfeito. 'Tomava' is Pretérito Imperfeito (EU/ELE form). 'Tomarão' is ELES Futuro. 'Tomarei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of FALAR.",
+      "sentence": "No próximo mês, o porta-voz ___ à imprensa sobre os novos projectos de expansão.",
+      "options": ["falará", "fala", "falou", "falava", "falarei", "falarão"],
+      "correct": 0,
+      "explanation": "'No próximo mês' marks a future action — Futuro of ELE/VOCÊ (falará). 'Fala' is ELE Presente. 'Falou' is ELE Pretérito Perfeito. 'Falava' is Pretérito Imperfeito (EU/ELE form). 'Falarei' is EU Futuro. 'Falarão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of TRABALHAR.",
+      "sentence": "Nós ___ habitualmente das nove às dezoito horas, com uma hora de pausa para o almoço.",
+      "options": ["trabalhávamos", "trabalhamos", "trabalharemos", "trabalha", "trabalham", "trabalhei"],
+      "correct": 1,
+      "explanation": "'Habitualmente' signals a present habitual routine — Presente of NÓS (trabalhamos). Note: for regular -AR verbs, NÓS Presente and Pretérito Perfeito share the same form; 'habitualmente' makes the Presente reading unambiguous. 'Trabalhávamos' is NÓS Imperfeito. 'Trabalharemos' is NÓS Futuro. 'Trabalha' is ELE Presente. 'Trabalham' is ELES Presente. 'Trabalhei' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of COMPRAR.",
+      "sentence": "Antigamente, nós ___ todos os suprimentos junto do mesmo fornecedor local.",
+      "options": ["compramos", "compraremos", "comprávamos", "comprava", "compravam", "compraram"],
+      "correct": 2,
+      "explanation": "'Antigamente' signals a habitual past routine — Pretérito Imperfeito of NÓS (comprávamos). 'Compramos' is NÓS Presente or Pretérito Perfeito (identical for -AR). 'Compraremos' is NÓS Futuro. 'Comprava' is EU/ELE Imperfeito. 'Compravam' is ELES Imperfeito. 'Compraram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of GOSTAR.",
+      "sentence": "Eu ___ muito de trabalhar em projectos com equipas internacionais e multidisciplinares.",
+      "options": ["gostei", "gostava", "gostarei", "gosto", "gosta", "gostam"],
+      "correct": 3,
+      "explanation": "The sentence describes a current, general preference — Presente of EU (gosto). 'Gostei' is EU Pretérito Perfeito. 'Gostava' is Pretérito Imperfeito (EU/ELE form). 'Gostarei' is EU Futuro. 'Gosta' is ELE/VOCÊ Presente. 'Gostam' is ELES/VOCÊS Presente."
+    },
+    {
+      "prompt": "Select the correct form of FALAR.",
+      "sentence": "No relatório que entregou ontem, você ___ sobre todos os aspectos do projecto.",
+      "options": ["fala", "falava", "falará", "falaram", "falou", "falei"],
+      "correct": 4,
+      "explanation": "'No relatório que entregou ontem' marks a completed past action — Pretérito Perfeito of ELE/VOCÊ (falou). 'Fala' is ELE/VOCÊ Presente. 'Falava' is Pretérito Imperfeito (EU/ELE form). 'Falará' is ELE/VOCÊ Futuro. 'Falaram' is ELES Pretérito Perfeito. 'Falei' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of TOMAR.",
+      "sentence": "Os membros da comissão ___ as decisões por maioria de votos em todas as sessões.",
+      "options": ["tomaram", "tomavam", "tomarão", "toma", "tomo", "tomam"],
+      "correct": 5,
+      "explanation": "'Em todas as sessões' with no past marker indicates a habitual present practice — Presente of ELES/VOCÊS (tomam). 'Tomaram' is Pretérito Perfeito. 'Tomavam' is Pretérito Imperfeito. 'Tomarão' is Futuro. 'Toma' is ELE singular Presente. 'Tomo' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of FALAR.",
+      "sentence": "Quando vivia no estrangeiro, eu ___ português apenas com os membros da família.",
+      "options": ["falava", "falo", "falei", "falarei", "falavam", "falávamos"],
+      "correct": 0,
+      "explanation": "'Quando vivia no estrangeiro' establishes a past habitual context — Pretérito Imperfeito of EU (falava). Note: 'falava' is also the ELE/VOCÊ form; subject 'eu' makes it unambiguous. 'Falo' is EU Presente. 'Falei' is EU Pretérito Perfeito. 'Falarei' is EU Futuro. 'Falavam' is ELES Imperfeito. 'Falávamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of TRABALHAR.",
+      "sentence": "No próximo ano, as equipas de investigação ___ em parceria com institutos europeus.",
+      "options": ["trabalham", "trabalharão", "trabalharam", "trabalhavam", "trabalhará", "trabalharei"],
+      "correct": 1,
+      "explanation": "'No próximo ano' marks a future plan — Futuro of ELES/VOCÊS (trabalharão). 'Trabalham' is Presente. 'Trabalharam' is Pretérito Perfeito. 'Trabalhavam' is Pretérito Imperfeito. 'Trabalhará' is ELE singular Futuro. 'Trabalharei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of COMPRAR.",
+      "sentence": "O departamento de logística ___ novos equipamentos de refrigeração no mês passado.",
+      "options": ["compra", "comprava", "comprou", "comprará", "compraram", "comprei"],
+      "correct": 2,
+      "explanation": "'No mês passado' marks a single completed past purchase — Pretérito Perfeito of ELE (comprou). 'Compra' is ELE Presente. 'Comprava' is Pretérito Imperfeito (EU/ELE form). 'Comprará' is ELE Futuro. 'Compraram' is ELES Pretérito Perfeito. 'Comprei' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of GOSTAR.",
+      "sentence": "Quando éramos mais jovens, nós ___ muito de actividades ao ar livre nos fins-de-semana.",
+      "options": ["gostamos", "gostaremos", "gostava", "gostávamos", "gostavam", "gostaram"],
+      "correct": 3,
+      "explanation": "'Quando éramos mais jovens' establishes a past habitual context — Pretérito Imperfeito of NÓS (gostávamos). 'Gostamos' is NÓS Presente or Pretérito Perfeito (identical for -AR). 'Gostaremos' is NÓS Futuro. 'Gostava' is EU/ELE Imperfeito (singular). 'Gostavam' is ELES Imperfeito. 'Gostaram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of PASSAR.",
+      "sentence": "Antes da pandemia, o director ___ vários dias por semana em deslocações de trabalho.",
+      "options": ["passa", "passou", "passará", "passavam", "passava", "passávamos"],
+      "correct": 4,
+      "explanation": "'Antes da pandemia' + 'vários dias por semana' signals a repeated past routine — Pretérito Imperfeito of ELE (passava). 'Passa' is ELE Presente. 'Passou' is ELE Pretérito Perfeito. 'Passará' is ELE Futuro. 'Passavam' is ELES Imperfeito. 'Passávamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of FALAR.",
+      "sentence": "Na próxima reunião plenária, nós ___ sobre os resultados do relatório anual de sustentabilidade.",
+      "options": ["falamos", "falávamos", "falou", "falarei", "falarão", "falaremos"],
+      "correct": 5,
+      "explanation": "'Na próxima reunião plenária' places the action in the future — Futuro of NÓS (falaremos). 'Falamos' is NÓS Presente or Pretérito Perfeito (identical for -AR). 'Falávamos' is NÓS Imperfeito. 'Falou' is ELE Pretérito Perfeito. 'Falarei' is EU Futuro. 'Falarão' is ELES Futuro."
+    }
+  ]
+}

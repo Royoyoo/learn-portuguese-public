@@ -1,0 +1,218 @@
+{
+  "id": "lesson-21-ru",
+  "title": "Неправильные глаголы II — FAZER, TER и другие: выбор времени",
+  "type": "fill_gap",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Выберите правильную форму глагола FAZER.",
+      "sentence": "Eu ___ parte de uma equipa de consultores especializados em transformação digital.",
+      "options": ["faço", "fiz", "fazia", "farei", "faz", "fazemos"],
+      "correct": 0,
+      "explanation": "Настоящая профессиональная принадлежность — Presente, EU (faço). 'Fiz' — EU, Pretérito Perfeito. 'Fazia' — общая форма EU/ELE в Pretérito Imperfeito. 'Farei' — EU, Futuro. 'Faz' — ELE/VOCÊ, Presente. 'Fazemos' — NÓS, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TER.",
+      "sentence": "O projecto ___ um impacto significativo no desenvolvimento regional ao longo do ano passado.",
+      "options": ["tem", "tive", "terá", "teve", "tivemos", "tiveram"],
+      "correct": 3,
+      "explanation": "'Ao longo do ano passado' обозначает завершённое прошедшее воздействие — Pretérito Perfeito, ELE (teve). 'Tem' — ELE, Presente. 'Tive' — EU, Perfeito. 'Terá' — ELE, Futuro. 'Tivemos' — NÓS, Perfeito. 'Tiveram' — ELES, Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FAZER.",
+      "sentence": "O director ___ uma proposta de reestruturação durante a última assembleia geral.",
+      "options": ["faz", "fez", "fazia", "fiz", "fará", "fizemos"],
+      "correct": 1,
+      "explanation": "'Durante a última assembleia geral' обозначает завершённое прошедшее действие — Pretérito Perfeito, ELE (fez). 'Faz' — ELE, Presente. 'Fazia' — общая форма EU/ELE в Imperfeito. 'Fiz' — EU, Perfeito. 'Fará' — ELE, Futuro. 'Fizemos' — NÓS, Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DIZER.",
+      "sentence": "Antigamente, eu sempre ___ o que pensava, mesmo quando a situação era delicada.",
+      "options": ["digo", "disse", "dizia", "direi", "diz", "diziam"],
+      "correct": 2,
+      "explanation": "'Antigamente' + 'sempre' указывают на привычную прошедшую позицию — Pretérito Imperfeito, EU (dizia). Примечание: 'dizia' — общая форма EU/ELE; подлежащее 'eu' однозначно указывает на EU. 'Digo' — EU, Presente. 'Disse' — общая форма EU/ELE в Pretérito Perfeito. 'Direi' — EU, Futuro. 'Diz' — ELE, Presente. 'Diziam' — ELES, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PODER.",
+      "sentence": "Eu ___ confirmar a disponibilidade para a reunião assim que tiver a agenda completa.",
+      "options": ["pude", "podia", "pode", "poderei", "posso", "podem"],
+      "correct": 4,
+      "explanation": "Текущая способность подтвердить — Presente, EU (posso). 'Pude' — EU, Pretérito Perfeito. 'Podia' — общая форма EU/ELE в Imperfeito. 'Pode' — ELE, Presente. 'Poderei' — EU, Futuro. 'Podem' — ELES, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TER.",
+      "sentence": "As empresas do sector ___ dificuldades crescentes em recrutar especialistas qualificados.",
+      "options": ["tenho", "tem", "tiveram", "tinham", "temos", "têm"],
+      "correct": 5,
+      "explanation": "Постоянная настоящая трудность — Presente, ELES/VOCÊS (têm). Обратите внимание на ударение: 'têm' (ELES) в отличие от 'tem' (ELE). 'Tenho' — EU, Presente. 'Tem' — ELE, Presente. 'Tiveram' — ELES, Perfeito. 'Tinham' — ELES, Imperfeito. 'Temos' — NÓS, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DIZER.",
+      "sentence": "Eu ___ sempre a verdade nos relatórios internos, mesmo quando os resultados são negativos.",
+      "options": ["digo", "disse", "dizia", "direi", "diz", "dizemos"],
+      "correct": 0,
+      "explanation": "Привычное настоящее обязательство — Presente, EU (digo). 'Disse' — общая форма EU/ELE в Pretérito Perfeito. 'Dizia' — общая форма EU/ELE в Imperfeito. 'Direi' — EU, Futuro. 'Diz' — ELE, Presente. 'Dizemos' — NÓS, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FAZER.",
+      "sentence": "Na próxima semana, eu ___ uma apresentação detalhada dos resultados ao conselho de administração.",
+      "options": ["faço", "farei", "fiz", "fazia", "fará", "farão"],
+      "correct": 1,
+      "explanation": "'Na próxima semana' относит действие к будущему — Futuro, EU (farei). 'Faço' — EU, Presente. 'Fiz' — EU, Perfeito. 'Fazia' — общая форма EU/ELE в Imperfeito. 'Fará' — ELE, Futuro. 'Farão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола VIR.",
+      "sentence": "Eu ___ de Lisboa a todas as reuniões do conselho de forma regular.",
+      "options": ["vim", "vinha", "venho", "virei", "vem", "vêm"],
+      "correct": 2,
+      "explanation": "Привычная настоящая поездка — Presente, EU (venho). 'Vim' — EU, Pretérito Perfeito. 'Vinha' — общая форма EU/ELE в Imperfeito. 'Virei' — EU, Futuro. 'Vem' — ELE, Presente. 'Vêm' — ELES, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола VER.",
+      "sentence": "Ontem, eu ___ os dados finais do relatório e os resultados foram muito positivos.",
+      "options": ["vejo", "via", "verei", "vi", "viu", "viram"],
+      "correct": 3,
+      "explanation": "'Ontem' обозначает завершённое прошедшее действие — Pretérito Perfeito, EU (vi). 'Vejo' — EU, Presente. 'Via' — общая форма EU/ELE в Imperfeito. 'Verei' — EU, Futuro. 'Viu' — ELE, Perfeito. 'Viram' — ELES, Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FAZER.",
+      "sentence": "Os técnicos ___ a manutenção preventiva dos equipamentos duas vezes por ano.",
+      "options": ["faço", "faz", "fizeram", "fazemos", "fazem", "farão"],
+      "correct": 4,
+      "explanation": "Привычный настоящий график — Presente, ELES/VOCÊS (fazem). 'Faço' — EU, Presente. 'Faz' — ELE, Presente. 'Fizeram' — ELES, Perfeito. 'Fazemos' — NÓS, Presente. 'Farão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола VER.",
+      "sentence": "Amanhã, eu ___ os resultados finais da auditoria e tomarei as decisões adequadas.",
+      "options": ["vejo", "vi", "via", "verá", "veremos", "verei"],
+      "correct": 5,
+      "explanation": "'Amanhã' + 'tomarei' (согласованное будущее) — Futuro, EU (verei). 'Vejo' — EU, Presente. 'Vi' — EU, Perfeito. 'Via' — общая форма EU/ELE в Imperfeito. 'Verá' — ELE, Futuro. 'Veremos' — NÓS, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TER.",
+      "sentence": "Antes da digitalização, os departamentos ___ dificuldade em partilhar informação de forma eficiente.",
+      "options": ["tinham", "têm", "tinha", "tiveram", "tínhamos", "terão"],
+      "correct": 0,
+      "explanation": "'Antes da digitalização' обозначает длительное прошедшее состояние — Pretérito Imperfeito, ELES (tinham). 'Têm' — ELES, Presente. 'Tinha' — общая форма EU/ELE в Imperfeito (единственное число). 'Tiveram' — ELES, Perfeito. 'Tínhamos' — NÓS, Imperfeito. 'Terão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TER.",
+      "sentence": "No ano passado, eu ___ a oportunidade de representar a empresa numa conferência internacional.",
+      "options": ["tenho", "tive", "tinha", "terei", "teve", "tiveram"],
+      "correct": 1,
+      "explanation": "'No ano passado' обозначает завершённую прошедшую возможность — Pretérito Perfeito, EU (tive). 'Tenho' — EU, Presente. 'Tinha' — общая форма EU/ELE в Imperfeito. 'Terei' — EU, Futuro. 'Teve' — ELE, Perfeito. 'Tiveram' — ELES, Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TER.",
+      "sentence": "Eu ___ reunião com o conselho de administração todas as terças-feiras de manhã.",
+      "options": ["tive", "tinha", "tenho", "terei", "tem", "têm"],
+      "correct": 2,
+      "explanation": "Привычный настоящий график — Presente, EU (tenho). 'Tive' — EU, Perfeito. 'Tinha' — общая форма EU/ELE в Imperfeito. 'Terei' — EU, Futuro. 'Tem' — ELE, Presente. 'Têm' — ELES, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола VIR.",
+      "sentence": "Na semana passada, eu ___ de Bruxelas com propostas formais para o acordo de cooperação.",
+      "options": ["venho", "vinha", "virei", "vim", "veio", "vieram"],
+      "correct": 3,
+      "explanation": "'Na semana passada' обозначает завершённую прошедшую поездку — Pretérito Perfeito, EU (vim). 'Venho' — EU, Presente. 'Vinha' — общая форма EU/ELE в Imperfeito. 'Virei' — EU, Futuro. 'Veio' — ELE, Perfeito. 'Vieram' — ELES, Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TER.",
+      "sentence": "No próximo trimestre, nós ___ acesso às novas ferramentas de análise de dados.",
+      "options": ["temos", "terei", "tivemos", "terá", "teremos", "terão"],
+      "correct": 4,
+      "explanation": "'No próximo trimestre' относит состояние к будущему — Futuro, NÓS (teremos). 'Temos' — NÓS, Presente. 'Terei' — EU, Futuro. 'Tivemos' — NÓS, Perfeito. 'Terá' — ELE, Futuro. 'Terão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FAZER.",
+      "sentence": "Na última revisão anual, nós ___ uma análise completa dos processos operacionais.",
+      "options": ["fazemos", "fiz", "fez", "faremos", "fizeram", "fizemos"],
+      "correct": 5,
+      "explanation": "'Na última revisão anual' обозначает завершённый прошедший анализ — Pretérito Perfeito, NÓS (fizemos). 'Fazemos' — NÓS, Presente. 'Fiz' — EU, Perfeito. 'Fez' — ELE, Perfeito. 'Faremos' — NÓS, Futuro. 'Fizeram' — ELES, Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PODER.",
+      "sentence": "Quando era mais jovem, eu ___ trabalhar durante muitas horas seguidas sem dificuldade.",
+      "options": ["podia", "posso", "pude", "poderei", "pode", "podiam"],
+      "correct": 0,
+      "explanation": "'Quando era mais jovem' обозначает длительную прошедшую способность — Pretérito Imperfeito, EU (podia). Примечание: 'podia' — общая форма EU/ELE; подлежащее 'eu' однозначно указывает на EU. 'Posso' — EU, Presente. 'Pude' — EU, Perfeito. 'Poderei' — EU, Futuro. 'Pode' — ELE, Presente. 'Podiam' — ELES, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PODER.",
+      "sentence": "No próximo semestre, eu ___ dedicar mais tempo à investigação graças à nova bolsa de financiamento.",
+      "options": ["posso", "poderei", "pude", "podia", "poderá", "poderemos"],
+      "correct": 1,
+      "explanation": "'No próximo semestre' + 'nova bolsa' обозначают будущую способность — Futuro, EU (poderei). 'Posso' — EU, Presente. 'Pude' — EU, Perfeito. 'Podia' — общая форма EU/ELE в Imperfeito. 'Poderá' — ELE, Futuro. 'Poderemos' — NÓS, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FAZER.",
+      "sentence": "Antes da pandemia, nós ___ reuniões trimestrais presenciais com todas as equipas regionais.",
+      "options": ["fazemos", "fazia", "fazíamos", "fizemos", "faziam", "faremos"],
+      "correct": 2,
+      "explanation": "'Antes da pandemia' + 'trimestrais' указывают на привычную прошедшую практику — Pretérito Imperfeito, NÓS (fazíamos). 'Fazemos' — NÓS, Presente. 'Fazia' — общая форма EU/ELE в Imperfeito (единственное число). 'Fizemos' — NÓS, Perfeito. 'Faziam' — ELES, Imperfeito. 'Faremos' — NÓS, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FAZER.",
+      "sentence": "Os engenheiros ___ os testes de carga na nova infraestrutura no próximo mês.",
+      "options": ["fazem", "farei", "fará", "farão", "fizeram", "faremos"],
+      "correct": 3,
+      "explanation": "'No próximo mês' относит действие к будущему — Futuro, ELES/VOCÊS (farão). 'Fazem' — ELES, Presente. 'Farei' — EU, Futuro. 'Fará' — ELE, Futuro. 'Fizeram' — ELES, Perfeito. 'Faremos' — NÓS, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола VER.",
+      "sentence": "Quando estudava no estrangeiro, eu ___ os meus colegas apenas nos períodos de férias.",
+      "options": ["vejo", "vi", "verei", "vê", "via", "víamos"],
+      "correct": 4,
+      "explanation": "'Quando estudava no estrangeiro' обозначает привычное прошедшее действие — Pretérito Imperfeito, EU (via). Примечание: 'via' — общая форма EU/ELE; подлежащее 'eu' однозначно указывает на EU. 'Vejo' — EU, Presente. 'Vi' — EU, Perfeito. 'Verei' — EU, Futuro. 'Vê' — ELE, Presente. 'Víamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PODER.",
+      "sentence": "Na última conferência, eu ___ apresentar os resultados da investigação a um público especializado.",
+      "options": ["posso", "podia", "poderei", "pôde", "puderam", "pude"],
+      "correct": 5,
+      "explanation": "'Na última conferência' обозначает завершённое прошедшее действие — Pretérito Perfeito, EU (pude). 'Posso' — EU, Presente. 'Podia' — общая форма EU/ELE в Imperfeito. 'Poderei' — EU, Futuro. 'Pôde' — ELE, Perfeito. 'Puderam' — ELES, Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FAZER.",
+      "sentence": "Nos anos anteriores, os colaboradores ___ horas extraordinárias sem qualquer compensação adicional.",
+      "options": ["faziam", "fazem", "fazia", "fizeram", "fazíamos", "farão"],
+      "correct": 0,
+      "explanation": "'Nos anos anteriores' обозначает длительную прошедшую практику — Pretérito Imperfeito, ELES (faziam). 'Fazem' — ELES, Presente. 'Fazia' — общая форма EU/ELE в Imperfeito (единственное число). 'Fizeram' — ELES, Perfeito. 'Fazíamos' — NÓS, Imperfeito. 'Farão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DIZER.",
+      "sentence": "Ontem, eu ___ ao responsável que o prazo precisava de ser revisto com urgência.",
+      "options": ["digo", "disse", "dizia", "direi", "diz", "disseram"],
+      "correct": 1,
+      "explanation": "'Ontem' обозначает завершённое прошедшее высказывание — Pretérito Perfeito, EU (disse). Примечание: 'disse' — общая форма EU/ELE; подлежащее 'eu' однозначно указывает на EU. 'Digo' — EU, Presente. 'Dizia' — общая форма EU/ELE в Imperfeito. 'Direi' — EU, Futuro. 'Diz' — ELE, Presente. 'Disseram' — ELES, Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола VER.",
+      "sentence": "Eu ___ claramente a necessidade de reformar os procedimentos internos de controlo.",
+      "options": ["vi", "via", "vejo", "verei", "vê", "vemos"],
+      "correct": 2,
+      "explanation": "Настоящее признание текущей ситуации — Presente, EU (vejo). 'Vi' — EU, Perfeito. 'Via' — общая форма EU/ELE в Imperfeito. 'Verei' — EU, Futuro. 'Vê' — ELE, Presente. 'Vemos' — NÓS, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DIZER.",
+      "sentence": "Amanhã, eu ___ oficialmente a minha posição sobre o projecto durante a reunião plenária.",
+      "options": ["digo", "disse", "dizia", "direi", "dirá", "diremos"],
+      "correct": 3,
+      "explanation": "'Amanhã' относит высказывание к будущему — Futuro, EU (direi). 'Digo' — EU, Presente. 'Disse' — общая форма EU/ELE в Pretérito Perfeito. 'Dizia' — общая форма EU/ELE в Imperfeito. 'Dirá' — ELE, Futuro. 'Diremos' — NÓS, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола SAIR.",
+      "sentence": "Na próxima sexta-feira, eu ___ mais cedo para poder chegar a tempo à assembleia municipal.",
+      "options": ["saio", "saí", "saía", "sairá", "sairei", "sairão"],
+      "correct": 4,
+      "explanation": "'Na próxima sexta-feira' относит действие к будущему — Futuro, EU (sairei). 'Saio' — EU, Presente. 'Saí' — EU, Pretérito Perfeito. 'Saía' — общая форма EU/ELE в Imperfeito. 'Sairá' — ELE, Futuro. 'Sairão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола SAIR.",
+      "sentence": "Quando trabalhava nessa empresa, eu ___ invariavelmente às dezoito horas para ir buscar os filhos.",
+      "options": ["saio", "saí", "sairei", "sai", "saíam", "saía"],
+      "correct": 5,
+      "explanation": "'Quando trabalhava nessa empresa' обозначает привычный прошедший распорядок — Pretérito Imperfeito, EU (saía). Примечание: 'saía' — общая форма EU/ELE; подлежащее 'eu' однозначно указывает на EU. 'Saio' — EU, Presente. 'Saí' — EU, Perfeito. 'Sairei' — EU, Futuro. 'Sai' — ELE, Presente. 'Saíam' — ELES, Imperfeito."
+    }
+  ]
+}

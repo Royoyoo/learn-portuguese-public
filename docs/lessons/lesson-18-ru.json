@@ -1,0 +1,218 @@
+{
+  "id": "lesson-18-ru",
+  "title": "Правильные глаголы на -ER / -IR: выбор времени",
+  "type": "fill_gap",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Выберите правильную форму глагола COMER.",
+      "sentence": "Eu ___ sempre uma refeição leve ao almoço durante os dias de trabalho.",
+      "options": ["como", "comi", "comerei", "come", "comeram", "comíamos"],
+      "correct": 0,
+      "explanation": "'Sempre' в настоящем контексте указывает на привычное действие — Presente, форма EU (como). 'Comi' — EU, Pretérito Perfeito. 'Comerei' — EU, Futuro. 'Come' — ELE/VOCÊ, Presente. 'Comeram' — ELES/VOCÊS, Pretérito Perfeito. 'Comíamos' — NÓS, Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола BEBER.",
+      "sentence": "Os convidados ___ toda a água mineral disponível durante o evento de ontem.",
+      "options": ["bebem", "beberam", "bebiam", "beberão", "bebeu", "bebi"],
+      "correct": 1,
+      "explanation": "'De ontem' обозначает завершённое прошедшее событие — Pretérito Perfeito, форма ELES/VOCÊS (beberam). 'Bebem' — Presente. 'Bebiam' — Pretérito Imperfeito. 'Beberão' — Futuro. 'Bebeu' — ELE, Pretérito Perfeito. 'Bebi' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESCREVER.",
+      "sentence": "Antigamente, o jornalista ___ artigos de opinião para vários periódicos nacionais.",
+      "options": ["escreve", "escreveu", "escrevia", "escreverá", "escreviam", "escrevo"],
+      "correct": 2,
+      "explanation": "'Antigamente' указывает на привычное прошедшее действие — Pretérito Imperfeito, форма ELE (escrevia). Примечание: 'escrevia' — общая форма EU и ELE; подлежащее 'o jornalista' однозначно указывает на ELE. 'Escreve' — ELE, Presente. 'Escreveu' — ELE, Pretérito Perfeito. 'Escreverá' — ELE, Futuro. 'Escreviam' — ELES, Imperfeito. 'Escrevo' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PARTIR.",
+      "sentence": "Na próxima semana, nós ___ para Berlim para participar na conferência internacional.",
+      "options": ["partimos", "partíamos", "parte", "partiremos", "partirão", "partirei"],
+      "correct": 3,
+      "explanation": "'Na próxima semana' относит действие к будущему — Futuro, форма NÓS (partiremos). 'Partimos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -IR глаголов). 'Partíamos' — NÓS, Pretérito Imperfeito. 'Parte' — ELE, Presente. 'Partirão' — ELES, Futuro. 'Partirei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ABRIR.",
+      "sentence": "Ontem de manhã, eu ___ o gabinete mais cedo do que o habitual.",
+      "options": ["abro", "abria", "abrirei", "abriu", "abri", "abriram"],
+      "correct": 4,
+      "explanation": "'Ontem de manhã' обозначает конкретное завершённое действие — Pretérito Perfeito, форма EU (abri). 'Abro' — EU, Presente. 'Abria' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Abrirei' — EU, Futuro. 'Abriu' — ELE, Pretérito Perfeito. 'Abriram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DIVIDIR.",
+      "sentence": "O chefe de equipa ___ sempre as tarefas de forma equilibrada entre todos os membros.",
+      "options": ["dividiu", "dividia", "dividirá", "dividem", "divido", "divide"],
+      "correct": 5,
+      "explanation": "'Sempre' в настоящем контексте указывает на привычное действие — Presente, форма ELE (divide). 'Dividiu' — ELE, Pretérito Perfeito. 'Dividia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Dividirá' — ELE, Futuro. 'Dividem' — ELES, Presente. 'Divido' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола COMER.",
+      "sentence": "Naquela época, os operários ___ na cantina da fábrica todos os dias.",
+      "options": ["comiam", "comem", "comeram", "comerão", "comia", "comíamos"],
+      "correct": 0,
+      "explanation": "'Naquela época' указывает на привычное прошедшее действие — Pretérito Imperfeito, форма ELES/VOCÊS (comiam). 'Comem' — Presente. 'Comeram' — Pretérito Perfeito. 'Comerão' — Futuro. 'Comia' — EU/ELE, Imperfeito. 'Comíamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола BEBER.",
+      "sentence": "No próximo mês, eu ___ apenas água e sumos naturais durante a dieta.",
+      "options": ["bebo", "beberei", "bebi", "bebia", "beberá", "beberão"],
+      "correct": 1,
+      "explanation": "'No próximo mês' относит действие к будущему — Futuro, форма EU (beberei). 'Bebo' — EU, Presente. 'Bebi' — EU, Pretérito Perfeito. 'Bebia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Beberá' — ELE, Futuro. 'Beberão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESCREVER.",
+      "sentence": "Nós ___ habitualmente os relatórios em formato digital, sem versão impressa.",
+      "options": ["escrevíamos", "escreveremos", "escrevemos", "escreve", "escrevem", "escrevo"],
+      "correct": 2,
+      "explanation": "'Habitualmente' указывает на привычное настоящее действие — Presente, форма NÓS (escrevemos). У -ER глаголов NÓS Presente и Pretérito Perfeito совпадают; 'habitualmente' делает Presente однозначным. 'Escrevíamos' — NÓS, Imperfeito. 'Escreveremos' — NÓS, Futuro. 'Escreve' — ELE, Presente. 'Escrevem' — ELES, Presente. 'Escrevo' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PARTIR.",
+      "sentence": "O embaixador ___ para Lisboa na semana passada após as negociações.",
+      "options": ["parte", "partia", "partirá", "partiu", "partiram", "parti"],
+      "correct": 3,
+      "explanation": "'Na semana passada' обозначает единичное завершённое прошедшее событие — Pretérito Perfeito, форма ELE (partiu). 'Parte' — ELE, Presente. 'Partia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Partirá' — ELE, Futuro. 'Partiram' — ELES, Pretérito Perfeito. 'Parti' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ABRIR.",
+      "sentence": "Antigamente, os comerciantes ___ as lojas ao amanhecer e fechavam ao anoitecer.",
+      "options": ["abrem", "abriram", "abrirão", "abria", "abriam", "abríamos"],
+      "correct": 4,
+      "explanation": "'Antigamente' указывает на привычное прошедшее действие — Pretérito Imperfeito, форма ELES/VOCÊS (abriam). 'Abrem' — Presente. 'Abriram' — Pretérito Perfeito. 'Abrirão' — Futuro. 'Abria' — EU/ELE, Imperfeito. 'Abríamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DIVIDIR.",
+      "sentence": "Na próxima reunião, nós ___ as responsabilidades de cada departamento de forma clara.",
+      "options": ["dividimos", "dividíamos", "divide", "dividirá", "dividirão", "dividiremos"],
+      "correct": 5,
+      "explanation": "'Na próxima reunião' относит действие к будущему — Futuro, форма NÓS (dividiremos). 'Dividimos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -IR). 'Dividíamos' — NÓS, Imperfeito. 'Divide' — ELE, Presente. 'Dividirá' — ELE, Futuro. 'Dividirão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола COMER.",
+      "sentence": "No ano que vem, o atleta ___ apenas alimentos com baixo teor de gordura.",
+      "options": ["comerá", "come", "comeu", "comia", "comerei", "comerão"],
+      "correct": 0,
+      "explanation": "'No ano que vem' указывает на будущее намерение — Futuro, форма ELE (comerá). 'Come' — ELE, Presente. 'Comeu' — ELE, Pretérito Perfeito. 'Comia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Comerei' — EU, Futuro. 'Comerão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола BEBER.",
+      "sentence": "Quando vivíamos no campo, nós ___ sempre água da fonte local.",
+      "options": ["bebemos", "bebíamos", "beberemos", "bebia", "bebiam", "bebeu"],
+      "correct": 1,
+      "explanation": "'Quando vivíamos no campo' задаёт привычный прошедший контекст — Pretérito Imperfeito, форма NÓS (bebíamos). 'Bebemos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -ER). 'Beberemos' — NÓS, Futuro. 'Bebia' — EU/ELE, Imperfeito. 'Bebiam' — ELES, Imperfeito. 'Bebeu' — ELE, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESCREVER.",
+      "sentence": "Na semana passada, eu ___ uma proposta detalhada para o novo projecto.",
+      "options": ["escrevo", "escrevia", "escrevi", "escreverei", "escreveu", "escreveram"],
+      "correct": 2,
+      "explanation": "'Na semana passada' обозначает единичное завершённое прошедшее событие — Pretérito Perfeito, форма EU (escrevi). 'Escrevo' — EU, Presente. 'Escrevia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Escreverei' — EU, Futuro. 'Escreveu' — ELE, Pretérito Perfeito. 'Escreveram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PARTIR.",
+      "sentence": "Os comboios ___ pontualmente de hora a hora a partir das seis da manhã.",
+      "options": ["partiram", "partiam", "partirão", "partem", "parte", "parto"],
+      "correct": 3,
+      "explanation": "Контекст расписания без маркера прошлого указывает на настоящее привычное действие — Presente, форма ELES/VOCÊS (partem). 'Partiram' — Pretérito Perfeito. 'Partiam' — Pretérito Imperfeito. 'Partirão' — Futuro. 'Parte' — ELE, Presente. 'Parto' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ABRIR.",
+      "sentence": "No próximo mês, o novo museu ___ as suas portas ao público pela primeira vez.",
+      "options": ["abre", "abriu", "abria", "abrirão", "abrirá", "abrirei"],
+      "correct": 4,
+      "explanation": "'No próximo mês' относит действие к будущему — Futuro, форма ELE (abrirá). 'Abre' — ELE, Presente. 'Abriu' — ELE, Pretérito Perfeito. 'Abria' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Abrirão' — ELES, Futuro. 'Abrirei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DIVIDIR.",
+      "sentence": "Quando era responsável pela equipa, eu ___ as tarefas de acordo com as competências de cada um.",
+      "options": ["divido", "dividi", "dividirei", "divide", "dividiam", "dividia"],
+      "correct": 5,
+      "explanation": "'Quando era responsável pela equipa' задаёт привычный прошедший контекст — Pretérito Imperfeito, форма EU (dividia). Примечание: 'dividia' — общая форма для EU и ELE; подлежащее 'eu' делает её однозначной. 'Divido' — EU, Presente. 'Dividi' — EU, Pretérito Perfeito. 'Dividirei' — EU, Futuro. 'Divide' — ELE, Presente. 'Dividiam' — ELES, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола COMER.",
+      "sentence": "Antes de ter filhos, nós ___ sempre em restaurantes durante o fim-de-semana.",
+      "options": ["comíamos", "comemos", "comeremos", "comia", "comiam", "comeu"],
+      "correct": 0,
+      "explanation": "'Antes de ter filhos' + 'sempre' указывают на привычный прошедший образ жизни — Pretérito Imperfeito, форма NÓS (comíamos). 'Comemos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -ER). 'Comeremos' — NÓS, Futuro. 'Comia' — EU/ELE, Imperfeito. 'Comiam' — ELES, Imperfeito. 'Comeu' — ELE, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола BEBER.",
+      "sentence": "O médico ___ dois litros de água por dia e recomenda o mesmo aos seus pacientes.",
+      "options": ["bebi", "bebe", "bebia", "beberá", "bebem", "bebo"],
+      "correct": 1,
+      "explanation": "Контекст настоящей привычки указывает на Presente, форма ELE (bebe). 'Bebi' — EU, Pretérito Perfeito. 'Bebia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Beberá' — ELE, Futuro. 'Bebem' — ELES, Presente. 'Bebo' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESCREVER.",
+      "sentence": "No próximo semestre, os investigadores ___ os resultados finais do estudo.",
+      "options": ["escrevem", "escreveram", "escreverão", "escreviam", "escreverá", "escreverei"],
+      "correct": 2,
+      "explanation": "'No próximo semestre' относит действие к будущему — Futuro, форма ELES/VOCÊS (escreverão). 'Escrevem' — Presente. 'Escreveram' — Pretérito Perfeito. 'Escreviam' — Pretérito Imperfeito. 'Escreverá' — ELE, Futuro. 'Escreverei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PARTIR.",
+      "sentence": "Antes da reforma, eu ___ para o escritório todos os dias às sete da manhã.",
+      "options": ["parto", "parti", "partirei", "partia", "partiam", "partíamos"],
+      "correct": 3,
+      "explanation": "'Antes da reforma' + 'todos os dias' задают привычный прошедший контекст — Pretérito Imperfeito, форма EU (partia). Примечание: 'partia' — общая форма EU и ELE; подлежащее 'eu' делает её однозначной. 'Parto' — EU, Presente. 'Parti' — EU, Pretérito Perfeito. 'Partirei' — EU, Futuro. 'Partiam' — ELES, Imperfeito. 'Partíamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ABRIR.",
+      "sentence": "Nós ___ sempre as janelas do escritório logo de manhã para renovar o ar.",
+      "options": ["abríamos", "abriremos", "abriu", "abrem", "abrimos", "abro"],
+      "correct": 4,
+      "explanation": "'Sempre' в настоящем контексте указывает на привычное действие — Presente, форма NÓS (abrimos). У -IR глаголов NÓS Presente и Pretérito Perfeito совпадают; 'sempre' делает Presente однозначным. 'Abríamos' — NÓS, Imperfeito. 'Abriremos' — NÓS, Futuro. 'Abriu' — ELE, Pretérito Perfeito. 'Abrem' — ELES, Presente. 'Abro' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DIVIDIR.",
+      "sentence": "Na reunião de ontem, os sócios ___ os lucros do trimestre de forma equitativa.",
+      "options": ["dividem", "dividiam", "dividirão", "dividiu", "dividi", "dividiram"],
+      "correct": 5,
+      "explanation": "'Na reunião de ontem' обозначает завершённое прошедшее событие — Pretérito Perfeito, форма ELES/VOCÊS (dividiram). 'Dividem' — Presente. 'Dividiam' — Pretérito Imperfeito. 'Dividirão' — Futuro. 'Dividiu' — ELE, Pretérito Perfeito. 'Dividi' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESCREVER.",
+      "sentence": "No próximo mês, eu ___ um artigo sobre as últimas tendências do sector.",
+      "options": ["escreverei", "escrevo", "escrevi", "escrevia", "escreverá", "escreveremos"],
+      "correct": 0,
+      "explanation": "'No próximo mês' относит действие к будущему — Futuro, форма EU (escreverei). 'Escrevo' — EU, Presente. 'Escrevi' — EU, Pretérito Perfeito. 'Escrevia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Escreverá' — ELE, Futuro. 'Escreveremos' — NÓS, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PARTIR.",
+      "sentence": "Quando trabalhávamos naquela empresa, nós ___ sempre antes do horário de pico.",
+      "options": ["partimos", "partíamos", "partiremos", "partia", "partiam", "partiram"],
+      "correct": 1,
+      "explanation": "'Quando trabalhávamos naquela empresa' задаёт привычный прошедший контекст — Pretérito Imperfeito, форма NÓS (partíamos). 'Partimos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -IR). 'Partiremos' — NÓS, Futuro. 'Partia' — EU/ELE, Imperfeito. 'Partiam' — ELES, Imperfeito. 'Partiram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ABRIR.",
+      "sentence": "Todos os dias eu ___ a correspondência logo ao chegar ao escritório.",
+      "options": ["abri", "abria", "abro", "abrirei", "abre", "abrem"],
+      "correct": 2,
+      "explanation": "'Todos os dias' без маркера прошлого указывает на привычное настоящее действие — Presente, форма EU (abro). 'Abri' — EU, Pretérito Perfeito. 'Abria' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Abrirei' — EU, Futuro. 'Abre' — ELE, Presente. 'Abrem' — ELES, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола BEBER.",
+      "sentence": "No jantar de ontem, você ___ um vinho que nunca tinha experimentado antes.",
+      "options": ["bebe", "bebia", "beberá", "bebeu", "beberam", "bebi"],
+      "correct": 3,
+      "explanation": "'No jantar de ontem' обозначает завершённое прошедшее событие — Pretérito Perfeito, форма ELE/VOCÊ (bebeu). 'Bebe' — ELE/VOCÊ, Presente. 'Bebia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Beberá' — ELE/VOCÊ, Futuro. 'Beberam' — ELES, Pretérito Perfeito. 'Bebi' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DIVIDIR.",
+      "sentence": "Antes da reestruturação, os directores ___ as responsabilidades por área geográfica.",
+      "options": ["dividem", "dividiram", "dividirão", "dividia", "dividiam", "dividíamos"],
+      "correct": 4,
+      "explanation": "'Antes da reestruturação' указывает на привычный прошедший порядок — Pretérito Imperfeito, форма ELES/VOCÊS (dividiam). 'Dividem' — Presente. 'Dividiram' — Pretérito Perfeito. 'Dividirão' — Futuro. 'Dividia' — EU/ELE, Imperfeito. 'Dividíamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола COMER.",
+      "sentence": "No próximo domingo, nós ___ juntos em casa para celebrar o aniversário da empresa.",
+      "options": ["comemos", "comíamos", "comia", "comerá", "comerão", "comeremos"],
+      "correct": 5,
+      "explanation": "'No próximo domingo' относит действие к будущему — Futuro, форма NÓS (comeremos). 'Comemos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -ER). 'Comíamos' — NÓS, Imperfeito. 'Comia' — EU/ELE, Imperfeito. 'Comerá' — ELE, Futuro. 'Comerão' — ELES, Futuro."
+    }
+  ]
+}

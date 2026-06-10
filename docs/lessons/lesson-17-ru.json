@@ -1,0 +1,218 @@
+{
+  "id": "lesson-17-ru",
+  "title": "Правильные глаголы на -AR: выбор времени",
+  "type": "fill_gap",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Выберите правильную форму глагола FALAR.",
+      "sentence": "Normalmente, eu ___ com os fornecedores por correio electrónico.",
+      "options": ["falo", "falei", "falarei", "fala", "falaram", "falávamos"],
+      "correct": 0,
+      "explanation": "'Normalmente' указывает на привычное действие в настоящем — Presente, форма EU (falo). 'Falei' — EU, Pretérito Perfeito. 'Falarei' — EU, Futuro. 'Fala' — форма ELE/VOCÊ Presente. 'Falaram' — ELES/VOCÊS, Pretérito Perfeito. 'Falávamos' — NÓS, Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TRABALHAR.",
+      "sentence": "Os auditores ___ durante todo o fim-de-semana passado para concluir o relatório.",
+      "options": ["trabalham", "trabalharam", "trabalhavam", "trabalharão", "trabalhou", "trabalhei"],
+      "correct": 1,
+      "explanation": "'Fim-de-semana passado' обозначает завершённое прошедшее действие — Pretérito Perfeito, форма ELES/VOCÊS (trabalharam). 'Trabalham' — Presente. 'Trabalhavam' — Pretérito Imperfeito. 'Trabalharão' — Futuro. 'Trabalhou' — ELE, Pretérito Perfeito. 'Trabalhei' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола COMPRAR.",
+      "sentence": "Antigamente, o gestor ___ todos os materiais directamente ao fabricante.",
+      "options": ["compra", "comprou", "comprava", "comprará", "compravam", "compro"],
+      "correct": 2,
+      "explanation": "'Antigamente' указывает на привычное действие в прошлом — Pretérito Imperfeito, форма ELE (comprava). Примечание: 'comprava' — общая форма для EU и ELE; подлежащее 'o gestor' однозначно указывает на ELE. 'Compra' — ELE, Presente. 'Comprou' — ELE, Pretérito Perfeito. 'Comprará' — ELE, Futuro. 'Compravam' — ELES, Pretérito Imperfeito. 'Compro' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола GOSTAR.",
+      "sentence": "Tenho a certeza de que nós ___ muito da nova sede da empresa.",
+      "options": ["gostamos", "gostávamos", "gostará", "gostaremos", "gostarão", "gostarei"],
+      "correct": 3,
+      "explanation": "'Tenho a certeza de que' + ситуация в будущем — Futuro, форма NÓS (gostaremos). 'Gostamos' — NÓS, Presente или Pretérito Perfeito (формы совпадают у -AR глаголов). 'Gostávamos' — NÓS, Pretérito Imperfeito. 'Gostará' — ELE, Futuro. 'Gostarão' — ELES, Futuro. 'Gostarei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TOMAR.",
+      "sentence": "Ontem de manhã, eu ___ o medicamento prescrito pelo médico.",
+      "options": ["tomo", "tomava", "tomarei", "tomou", "tomei", "tomaram"],
+      "correct": 4,
+      "explanation": "'Ontem de manhã' обозначает конкретный завершённый момент в прошлом — Pretérito Perfeito, форма EU (tomei). 'Tomo' — EU, Presente. 'Tomava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Tomarei' — EU, Futuro. 'Tomou' — ELE, Pretérito Perfeito. 'Tomaram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PASSAR.",
+      "sentence": "O secretário ___ as informações relevantes aos membros da equipa todos os dias.",
+      "options": ["passei", "passava", "passará", "passaram", "passo", "passa"],
+      "correct": 5,
+      "explanation": "'Todos os dias' указывает на привычное действие в настоящем — Presente, форма ELE (passa). 'Passei' — EU, Pretérito Perfeito. 'Passava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Passará' — ELE, Futuro. 'Passaram' — ELES, Pretérito Perfeito. 'Passo' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FALAR.",
+      "sentence": "Quando trabalhávamos juntos, nós ___ português em todas as reuniões de equipa.",
+      "options": ["falávamos", "falamos", "falaremos", "falava", "falavam", "falou"],
+      "correct": 0,
+      "explanation": "'Quando trabalhávamos juntos' задаёт привычный прошедший контекст — Pretérito Imperfeito, форма NÓS (falávamos). 'Falamos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -AR). 'Falaremos' — NÓS, Futuro. 'Falava' — форма EU/ELE Imperfeito. 'Falavam' — ELES, Pretérito Imperfeito. 'Falou' — ELE, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TRABALHAR.",
+      "sentence": "No próximo semestre, eu ___ em regime de teletrabalho a tempo inteiro.",
+      "options": ["trabalho", "trabalharei", "trabalhei", "trabalhava", "trabalhará", "trabalharão"],
+      "correct": 1,
+      "explanation": "'No próximo semestre' относит действие к будущему — Futuro, форма EU (trabalharei). 'Trabalho' — EU, Presente. 'Trabalhei' — EU, Pretérito Perfeito. 'Trabalhava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Trabalhará' — ELE, Futuro. 'Trabalharão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола COMPRAR.",
+      "sentence": "Os funcionários do departamento ___ sempre os bilhetes de comboio com antecedência.",
+      "options": ["compraram", "compravam", "compram", "comprarão", "compra", "compro"],
+      "correct": 2,
+      "explanation": "'Sempre' без маркера прошлого указывает на привычное действие в настоящем — Presente, форма ELES/VOCÊS (compram). 'Compraram' — Pretérito Perfeito. 'Compravam' — Pretérito Imperfeito. 'Comprarão' — Futuro. 'Compra' — ELE, Presente. 'Compro' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола GOSTAR.",
+      "sentence": "O director ___ muito da apresentação realizada na semana passada.",
+      "options": ["gosta", "gostava", "gostará", "gostou", "gostaram", "gostei"],
+      "correct": 3,
+      "explanation": "'Na semana passada' обозначает единичное завершённое событие в прошлом — Pretérito Perfeito, форма ELE (gostou). 'Gosta' — ELE, Presente. 'Gostava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Gostará' — ELE, Futuro. 'Gostaram' — ELES, Pretérito Perfeito. 'Gostei' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TOMAR.",
+      "sentence": "Naquela época, nós ___ o pequeno-almoço juntos antes das reuniões matinais.",
+      "options": ["tomamos", "tomaremos", "tomava", "tomaram", "tomávamos", "tomavam"],
+      "correct": 4,
+      "explanation": "'Naquela época' задаёт привычный прошедший контекст — Pretérito Imperfeito, форма NÓS (tomávamos). 'Tomamos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -AR). 'Tomaremos' — NÓS, Futuro. 'Tomava' — EU/ELE, Imperfeito. 'Tomaram' — ELES, Pretérito Perfeito. 'Tomavam' — ELES, Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PASSAR.",
+      "sentence": "No próximo mês, os inspectores ___ pela fábrica para realizar a auditoria anual.",
+      "options": ["passam", "passaram", "passavam", "passará", "passarei", "passarão"],
+      "correct": 5,
+      "explanation": "'No próximo mês' относит действие к будущему — Futuro, форма ELES/VOCÊS (passarão). 'Passam' — Presente. 'Passaram' — Pretérito Perfeito. 'Passavam' — Pretérito Imperfeito. 'Passará' — ELE, Futuro. 'Passarei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FALAR.",
+      "sentence": "Na conferência da semana passada, os delegados ___ sobre a nova legislação ambiental.",
+      "options": ["falaram", "falam", "falavam", "falarão", "falou", "falávamos"],
+      "correct": 0,
+      "explanation": "'Na conferência da semana passada' обозначает единичное завершённое событие — Pretérito Perfeito, форма ELES/VOCÊS (falaram). 'Falam' — Presente. 'Falavam' — Pretérito Imperfeito. 'Falarão' — Futuro. 'Falou' — ELE, Pretérito Perfeito. 'Falávamos' — NÓS, Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TRABALHAR.",
+      "sentence": "Antes da reforma, o senhor ___ como director regional durante mais de dez anos.",
+      "options": ["trabalha", "trabalhava", "trabalhou", "trabalhará", "trabalhavam", "trabalhávamos"],
+      "correct": 1,
+      "explanation": "'Antes da reforma' + 'durante mais de dez anos' указывают на длительное прошедшее состояние — Pretérito Imperfeito, форма ELE (trabalhava). Примечание: 'trabalhava' — общая форма для EU и ELE. 'Trabalha' — ELE, Presente. 'Trabalhou' — ELE, Pretérito Perfeito. 'Trabalhará' — ELE, Futuro. 'Trabalhavam' — ELES, Imperfeito. 'Trabalhávamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола COMPRAR.",
+      "sentence": "No ano que vem, eu ___ um apartamento mais próximo do escritório.",
+      "options": ["compro", "comprei", "comprarei", "comprava", "comprará", "compraremos"],
+      "correct": 2,
+      "explanation": "'No ano que vem' относит действие к будущему — Futuro, форма EU (comprarei). 'Compro' — EU, Presente. 'Comprei' — EU, Pretérito Perfeito. 'Comprava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Comprará' — ELE, Futuro. 'Compraremos' — NÓS, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола GOSTAR.",
+      "sentence": "Naquela época, os estudantes ___ muito das aulas práticas no laboratório.",
+      "options": ["gostam", "gostaram", "gostarão", "gostavam", "gostava", "gostávamos"],
+      "correct": 3,
+      "explanation": "'Naquela época' указывает на привычное действие в прошлом — Pretérito Imperfeito, форма ELES/VOCÊS (gostavam). 'Gostam' — Presente. 'Gostaram' — Pretérito Perfeito. 'Gostarão' — Futuro. 'Gostava' — EU/ELE, Imperfeito. 'Gostávamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PASSAR.",
+      "sentence": "Na semana passada, eu ___ toda a manhã a rever os documentos do contrato.",
+      "options": ["passo", "passava", "passarei", "passou", "passei", "passaram"],
+      "correct": 4,
+      "explanation": "'Na semana passada' обозначает завершённое прошедшее событие — Pretérito Perfeito, форма EU (passei). 'Passo' — EU, Presente. 'Passava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Passarei' — EU, Futuro. 'Passou' — ELE, Pretérito Perfeito. 'Passaram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TOMAR.",
+      "sentence": "A partir de amanhã, o paciente ___ dois comprimidos por dia conforme a prescrição.",
+      "options": ["toma", "tomou", "tomava", "tomarão", "tomarei", "tomará"],
+      "correct": 5,
+      "explanation": "'A partir de amanhã' относит действие к будущему — Futuro, форма ELE (tomará). 'Toma' — ELE, Presente. 'Tomou' — ELE, Pretérito Perfeito. 'Tomava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Tomarão' — ELES, Futuro. 'Tomarei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FALAR.",
+      "sentence": "No próximo mês, o porta-voz ___ à imprensa sobre os novos projectos de expansão.",
+      "options": ["falará", "fala", "falou", "falava", "falarei", "falarão"],
+      "correct": 0,
+      "explanation": "'No próximo mês' указывает на действие в будущем — Futuro, форма ELE/VOCÊ (falará). 'Fala' — ELE, Presente. 'Falou' — ELE, Pretérito Perfeito. 'Falava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Falarei' — EU, Futuro. 'Falarão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TRABALHAR.",
+      "sentence": "Nós ___ habitualmente das nove às dezoito horas, com uma hora de pausa para o almoço.",
+      "options": ["trabalhávamos", "trabalhamos", "trabalharemos", "trabalha", "trabalham", "trabalhei"],
+      "correct": 1,
+      "explanation": "'Habitualmente' указывает на привычное настоящее действие — Presente, форма NÓS (trabalhamos). У -AR глаголов форма NÓS для Presente и Pretérito Perfeito совпадает; 'habitualmente' однозначно указывает на настоящее. 'Trabalhávamos' — NÓS, Imperfeito. 'Trabalharemos' — NÓS, Futuro. 'Trabalha' — ELE, Presente. 'Trabalham' — ELES, Presente. 'Trabalhei' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола COMPRAR.",
+      "sentence": "Antigamente, nós ___ todos os suprimentos junto do mesmo fornecedor local.",
+      "options": ["compramos", "compraremos", "comprávamos", "comprava", "compravam", "compraram"],
+      "correct": 2,
+      "explanation": "'Antigamente' указывает на привычное прошедшее действие — Pretérito Imperfeito, форма NÓS (comprávamos). 'Compramos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -AR). 'Compraremos' — NÓS, Futuro. 'Comprava' — EU/ELE, Imperfeito. 'Compravam' — ELES, Imperfeito. 'Compraram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола GOSTAR.",
+      "sentence": "Eu ___ muito de trabalhar em projectos com equipas internacionais e multidisciplinares.",
+      "options": ["gostei", "gostava", "gostarei", "gosto", "gosta", "gostam"],
+      "correct": 3,
+      "explanation": "Предложение описывает постоянное предпочтение в настоящем — Presente, форма EU (gosto). 'Gostei' — EU, Pretérito Perfeito. 'Gostava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Gostarei' — EU, Futuro. 'Gosta' — ELE/VOCÊ, Presente. 'Gostam' — ELES/VOCÊS, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FALAR.",
+      "sentence": "No relatório que entregou ontem, você ___ sobre todos os aspectos do projecto.",
+      "options": ["fala", "falava", "falará", "falaram", "falou", "falei"],
+      "correct": 4,
+      "explanation": "'No relatório que entregou ontem' обозначает завершённое прошедшее действие — Pretérito Perfeito, форма ELE/VOCÊ (falou). 'Fala' — ELE/VOCÊ, Presente. 'Falava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Falará' — ELE/VOCÊ, Futuro. 'Falaram' — ELES, Pretérito Perfeito. 'Falei' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TOMAR.",
+      "sentence": "Os membros da comissão ___ as decisões por maioria de votos em todas as sessões.",
+      "options": ["tomaram", "tomavam", "tomarão", "toma", "tomo", "tomam"],
+      "correct": 5,
+      "explanation": "'Em todas as sessões' без маркера прошлого указывает на привычную практику в настоящем — Presente, форма ELES/VOCÊS (tomam). 'Tomaram' — Pretérito Perfeito. 'Tomavam' — Pretérito Imperfeito. 'Tomarão' — Futuro. 'Toma' — ELE, Presente. 'Tomo' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FALAR.",
+      "sentence": "Quando vivia no estrangeiro, eu ___ português apenas com os membros da família.",
+      "options": ["falava", "falo", "falei", "falarei", "falavam", "falávamos"],
+      "correct": 0,
+      "explanation": "'Quando vivia no estrangeiro' задаёт привычный прошедший контекст — Pretérito Imperfeito, форма EU (falava). Примечание: 'falava' — общая форма для EU и ELE; подлежащее 'eu' делает её однозначной. 'Falo' — EU, Presente. 'Falei' — EU, Pretérito Perfeito. 'Falarei' — EU, Futuro. 'Falavam' — ELES, Imperfeito. 'Falávamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола TRABALHAR.",
+      "sentence": "No próximo ano, as equipas de investigação ___ em parceria com institutos europeus.",
+      "options": ["trabalham", "trabalharão", "trabalharam", "trabalhavam", "trabalhará", "trabalharei"],
+      "correct": 1,
+      "explanation": "'No próximo ano' указывает на будущее действие — Futuro, форма ELES/VOCÊS (trabalharão). 'Trabalham' — Presente. 'Trabalharam' — Pretérito Perfeito. 'Trabalhavam' — Pretérito Imperfeito. 'Trabalhará' — ELE, Futuro. 'Trabalharei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола COMPRAR.",
+      "sentence": "O departamento de logística ___ novos equipamentos de refrigeração no mês passado.",
+      "options": ["compra", "comprava", "comprou", "comprará", "compraram", "comprei"],
+      "correct": 2,
+      "explanation": "'No mês passado' обозначает единичную завершённую покупку — Pretérito Perfeito, форма ELE (comprou). 'Compra' — ELE, Presente. 'Comprava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Comprará' — ELE, Futuro. 'Compraram' — ELES, Pretérito Perfeito. 'Comprei' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола GOSTAR.",
+      "sentence": "Quando éramos mais jovens, nós ___ muito de actividades ao ar livre nos fins-de-semana.",
+      "options": ["gostamos", "gostaremos", "gostava", "gostávamos", "gostavam", "gostaram"],
+      "correct": 3,
+      "explanation": "'Quando éramos mais jovens' задаёт привычный прошедший контекст — Pretérito Imperfeito, форма NÓS (gostávamos). 'Gostamos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -AR). 'Gostaremos' — NÓS, Futuro. 'Gostava' — EU/ELE, Imperfeito. 'Gostavam' — ELES, Imperfeito. 'Gostaram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола PASSAR.",
+      "sentence": "Antes da pandemia, o director ___ vários dias por semana em deslocações de trabalho.",
+      "options": ["passa", "passou", "passará", "passavam", "passava", "passávamos"],
+      "correct": 4,
+      "explanation": "'Antes da pandemia' + 'vários dias por semana' указывают на привычное прошедшее действие — Pretérito Imperfeito, форма ELE (passava). 'Passa' — ELE, Presente. 'Passou' — ELE, Pretérito Perfeito. 'Passará' — ELE, Futuro. 'Passavam' — ELES, Imperfeito. 'Passávamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола FALAR.",
+      "sentence": "Na próxima reunião plenária, nós ___ sobre os resultados do relatório anual de sustentabilidade.",
+      "options": ["falamos", "falávamos", "falou", "falarei", "falarão", "falaremos"],
+      "correct": 5,
+      "explanation": "'Na próxima reunião plenária' относит действие к будущему — Futuro, форма NÓS (falaremos). 'Falamos' — NÓS Presente или Pretérito Perfeito (формы совпадают у -AR). 'Falávamos' — NÓS, Imperfeito. 'Falou' — ELE, Pretérito Perfeito. 'Falarei' — EU, Futuro. 'Falarão' — ELES, Futuro."
+    }
+  ]
+}

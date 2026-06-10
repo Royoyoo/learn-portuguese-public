@@ -1,0 +1,218 @@
+{
+  "id": "lesson-20-ru",
+  "title": "Неправильные глаголы I — SER, ESTAR, IR, DAR: выбор времени",
+  "type": "fill_gap",
+  "lang": "ru",
+  "exercises": [
+    {
+      "prompt": "Выберите правильную форму глагола SER.",
+      "sentence": "Eu ___ formado em direito e trabalho actualmente como consultor jurídico.",
+      "options": ["sou", "fui", "serei", "é", "foram", "éramos"],
+      "correct": 0,
+      "explanation": "Контекст настоящего времени ('trabalho actualmente') и профессиональная идентичность указывают на Presente, форма EU (sou). 'Fui' — EU, Pretérito Perfeito. 'Serei' — EU, Futuro. 'É' — ELE/VOCÊ, Presente. 'Foram' — ELES/VOCÊS, Pretérito Perfeito. 'Éramos' — NÓS, Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESTAR.",
+      "sentence": "Os documentos ___ prontos e disponíveis para consulta na semana passada.",
+      "options": ["estão", "estiveram", "estavam", "estarão", "esteve", "estive"],
+      "correct": 1,
+      "explanation": "'Na semana passada' обозначает завершённое прошедшее состояние — Pretérito Perfeito, форма ELES/VOCÊS (estiveram). 'Estão' — Presente. 'Estavam' — Pretérito Imperfeito. 'Estarão' — Futuro. 'Esteve' — ELE, Pretérito Perfeito. 'Estive' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола IR.",
+      "sentence": "Antes da pandemia, o inspector ___ frequentemente às instalações para verificar os procedimentos.",
+      "options": ["vai", "foi", "ia", "irá", "iam", "íamos"],
+      "correct": 2,
+      "explanation": "'Antes da pandemia' + 'frequentemente' указывают на привычное прошедшее движение — Pretérito Imperfeito, форма ELE (ia). Примечание: 'ia' — общая форма EU и ELE; подлежащее 'o inspector' однозначно указывает на ELE. 'Vai' — ELE, Presente. 'Foi' — ELE, Pretérito Perfeito. 'Irá' — ELE, Futuro. 'Iam' — ELES, Imperfeito. 'Íamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DAR.",
+      "sentence": "Na próxima reunião, nós ___ uma explicação detalhada sobre os resultados do estudo.",
+      "options": ["damos", "demos", "dávamos", "daremos", "darão", "darei"],
+      "correct": 3,
+      "explanation": "'Na próxima reunião' относит действие к будущему — Futuro, форма NÓS (daremos). 'Damos' — NÓS, Presente. 'Demos' — NÓS, Pretérito Perfeito (обратите внимание: у DAR NÓS Presente 'damos' ≠ NÓS Perfeito 'demos'). 'Dávamos' — NÓS, Pretérito Imperfeito. 'Darão' — ELES, Futuro. 'Darei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола SER.",
+      "sentence": "Naquela época, as condições de trabalho ___ muito mais exigentes do que são hoje.",
+      "options": ["são", "foram", "serão", "era", "eram", "éramos"],
+      "correct": 4,
+      "explanation": "'Naquela época' обозначает длительное прошедшее состояние — Pretérito Imperfeito, форма ELES/VOCÊS (eram). 'São' — ELES, Presente. 'Foram' — ELES, Pretérito Perfeito. 'Serão' — ELES, Futuro. 'Era' — EU/ELE, Imperfeito. 'Éramos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESTAR.",
+      "sentence": "Ontem, eu ___ no arquivo durante a tarde a organizar os documentos históricos.",
+      "options": ["estou", "estava", "estarei", "esteve", "estiveram", "estive"],
+      "correct": 5,
+      "explanation": "'Ontem' обозначает завершённое прошедшее действие — Pretérito Perfeito, форма EU (estive). 'Estou' — EU, Presente. 'Estava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Estarei' — EU, Futuro. 'Esteve' — ELE, Pretérito Perfeito. 'Estiveram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола IR.",
+      "sentence": "Nós ___ a todas as reuniões de conselho sem excepção, independentemente da agenda.",
+      "options": ["vamos", "fomos", "íamos", "iremos", "vai", "vão"],
+      "correct": 0,
+      "explanation": "Настоящее привычное утверждение указывает на Presente, форма NÓS (vamos). 'Fomos' — NÓS, Pretérito Perfeito. 'Íamos' — NÓS, Pretérito Imperfeito. 'Iremos' — NÓS, Futuro. 'Vai' — ELE, Presente. 'Vão' — ELES, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DAR.",
+      "sentence": "Ontem de manhã, eu ___ início formal ao processo de avaliação de desempenho.",
+      "options": ["dou", "dei", "dava", "darei", "deu", "deram"],
+      "correct": 1,
+      "explanation": "'Ontem de manhã' обозначает завершённое прошедшее действие — Pretérito Perfeito, форма EU (dei). 'Dou' — EU, Presente. 'Dava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Darei' — EU, Futuro. 'Deu' — ELE, Pretérito Perfeito. 'Deram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола SER.",
+      "sentence": "Nós ___ a empresa com maior quota de mercado no sector há mais de vinte anos.",
+      "options": ["éramos", "seremos", "somos", "fomos", "são", "sou"],
+      "correct": 2,
+      "explanation": "Настоящее утверждение указывает на Presente, форма NÓS (somos). 'Éramos' — NÓS, Pretérito Imperfeito. 'Seremos' — NÓS, Futuro. 'Fomos' — NÓS, Pretérito Perfeito. 'São' — ELES, Presente. 'Sou' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESTAR.",
+      "sentence": "O relatório ___ disponível para consulta a partir da próxima semana.",
+      "options": ["está", "esteve", "estava", "estará", "estaremos", "estarei"],
+      "correct": 3,
+      "explanation": "'A partir da próxima semana' относит состояние к будущему — Futuro, форма ELE (estará). 'Está' — ELE, Presente. 'Esteve' — ELE, Pretérito Perfeito. 'Estava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Estaremos' — NÓS, Futuro. 'Estarei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола IR.",
+      "sentence": "Os delegados ___ para Genebra na semana passada para as negociações bilaterais.",
+      "options": ["vão", "iam", "irão", "foi", "foram", "fui"],
+      "correct": 4,
+      "explanation": "'Para Genebra na semana passada' обозначает завершённое прошедшее перемещение — Pretérito Perfeito, форма ELES/VOCÊS (foram). Контекст ('para Genebra') подтверждает IR (движение в место), а не SER. 'Vão' — ELES, Presente. 'Iam' — ELES, Imperfeito. 'Irão' — ELES, Futuro. 'Foi' — ELE, Pretérito Perfeito. 'Fui' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DAR.",
+      "sentence": "Antigamente, o banco ___ crédito com condições muito mais favoráveis aos pequenos empresários.",
+      "options": ["dá", "deu", "dará", "dão", "dou", "dava"],
+      "correct": 5,
+      "explanation": "'Antigamente' указывает на привычную прошедшую практику — Pretérito Imperfeito, форма ELE (dava). Примечание: 'dava' — общая форма EU и ELE; подлежащее 'o banco' однозначно указывает на ELE. 'Dá' — ELE, Presente. 'Deu' — ELE, Pretérito Perfeito. 'Dará' — ELE, Futuro. 'Dão' — ELES, Presente. 'Dou' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола SER.",
+      "sentence": "Quando trabalhava nessa empresa, o director ___ bastante acessível a todos os colaboradores.",
+      "options": ["era", "é", "foi", "será", "eram", "éramos"],
+      "correct": 0,
+      "explanation": "'Quando trabalhava nessa empresa' задаёт контекст длительного прошедшего качества — Pretérito Imperfeito, форма ELE (era). Примечание: 'era' — общая форма EU и ELE; подлежащее 'o director' однозначно указывает на ELE. 'É' — ELE, Presente. 'Foi' — ELE, Pretérito Perfeito. 'Será' — ELE, Futuro. 'Eram' — ELES, Imperfeito. 'Éramos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESTAR.",
+      "sentence": "No final do projecto, nós ___ bem posicionados para expandir para novos mercados.",
+      "options": ["estamos", "estaremos", "estávamos", "estivemos", "estarão", "estarei"],
+      "correct": 1,
+      "explanation": "'No final do projecto' (будущий конечный момент) — Futuro, форма NÓS (estaremos). 'Estamos' — NÓS, Presente. 'Estávamos' — NÓS, Imperfeito. 'Estivemos' — NÓS, Pretérito Perfeito. 'Estarão' — ELES, Futuro. 'Estarei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола IR.",
+      "sentence": "No próximo mês, nós ___ a Paris para apresentar o projecto ao conselho europeu.",
+      "options": ["vamos", "fomos", "iremos", "íamos", "vai", "irão"],
+      "correct": 2,
+      "explanation": "'No próximo mês' относит движение к будущему — Futuro, форма NÓS (iremos). 'Vamos' — NÓS, Presente. 'Fomos' — NÓS, Pretérito Perfeito. 'Íamos' — NÓS, Imperfeito. 'Vai' — ELE, Presente. 'Irão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DAR.",
+      "sentence": "As autoridades ___ prioridade às zonas com maior densidade populacional no plano de investimento.",
+      "options": ["deram", "davam", "darão", "dão", "dá", "dou"],
+      "correct": 3,
+      "explanation": "Настоящее привычное утверждение указывает на Presente, форма ELES/VOCÊS (dão). 'Deram' — Pretérito Perfeito. 'Davam' — Pretérito Imperfeito. 'Darão' — Futuro. 'Dá' — ELE, Presente. 'Dou' — EU, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола SER.",
+      "sentence": "Os resultados da auditoria ___ muito satisfatórios para a administração.",
+      "options": ["são", "eram", "serão", "foi", "foram", "fomos"],
+      "correct": 4,
+      "explanation": "Предложение описывает качественную оценку прошедших результатов — Pretérito Perfeito, форма ELES/VOCÊS (foram). 'Resultados...satisfatórios' — это идентичность/качество (SER, не IR); 'foram' здесь означает 'были' (не 'пошли'). 'São' — ELES, Presente. 'Eram' — ELES, Imperfeito. 'Serão' — ELES, Futuro. 'Foi' — ELE, Pretérito Perfeito. 'Fomos' — NÓS, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESTAR.",
+      "sentence": "Quando chegámos ao escritório, o director ___ a reunir-se com os representantes dos clientes.",
+      "options": ["está", "esteve", "estará", "estavam", "estive", "estava"],
+      "correct": 5,
+      "explanation": "'Quando chegámos' задаёт контекст прошедшего длительного действия, прерванного прибытием — Pretérito Imperfeito, форма ELE (estava). Примечание: 'estava' — общая форма EU и ELE; подлежащее 'o director' однозначно указывает на ELE. 'Está' — ELE, Presente. 'Esteve' — ELE, Pretérito Perfeito. 'Estará' — ELE, Futuro. 'Estavam' — ELES, Imperfeito. 'Estive' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола IR.",
+      "sentence": "Eu ___ ao arquivo todos os dias para consultar os registos do projecto.",
+      "options": ["vou", "fui", "ia", "irei", "vai", "vão"],
+      "correct": 0,
+      "explanation": "'Todos os dias' без маркера прошлого указывает на привычное настоящее движение — Presente, форма EU (vou). 'Fui' — EU, Pretérito Perfeito. 'Ia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Irei' — EU, Futuro. 'Vai' — ELE, Presente. 'Vão' — ELES, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DAR.",
+      "sentence": "Eu ___ formação aos novos colaboradores durante o primeiro mês após a contratação.",
+      "options": ["dei", "dou", "dava", "darei", "dá", "dão"],
+      "correct": 1,
+      "explanation": "Настоящая привычная роль указывает на Presente, форма EU (dou). 'Dei' — EU, Pretérito Perfeito. 'Dava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Darei' — EU, Futuro. 'Dá' — ELE, Presente. 'Dão' — ELES, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола SER.",
+      "sentence": "O próximo responsável pelo departamento ___ alguém recrutado de fora da organização.",
+      "options": ["é", "foi", "será", "era", "serei", "serão"],
+      "correct": 2,
+      "explanation": "'O próximo responsável' + 'recrutado de fora' относит идентичность к будущему — Futuro, форма ELE (será). 'É' — ELE, Presente. 'Foi' — ELE, Pretérito Perfeito. 'Era' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Serei' — EU, Futuro. 'Serão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESTAR.",
+      "sentence": "Eu ___ satisfeito com a evolução do projecto ao longo deste semestre.",
+      "options": ["estive", "estava", "estarei", "estou", "está", "estão"],
+      "correct": 3,
+      "explanation": "Контекст настоящего времени ('ao longo deste semestre' — текущая продолжающаяся ситуация) указывает на Presente, форма EU (estou). 'Estive' — EU, Pretérito Perfeito. 'Estava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Estarei' — EU, Futuro. 'Está' — ELE, Presente. 'Estão' — ELES, Presente."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола IR.",
+      "sentence": "Ontem de manhã, eu ___ ao notário para assinar os documentos do contrato.",
+      "options": ["vou", "ia", "irei", "foi", "fui", "foram"],
+      "correct": 4,
+      "explanation": "'Ontem de manhã' обозначает завершённое прошедшее перемещение — Pretérito Perfeito, форма EU (fui). 'Ao notário' подтверждает IR (движение в место), а не SER. 'Vou' — EU, Presente. 'Ia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Irei' — EU, Futuro. 'Foi' — ELE, Pretérito Perfeito. 'Foram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DAR.",
+      "sentence": "Os responsáveis ___ uma resposta formal às queixas apresentadas na semana passada.",
+      "options": ["dão", "davam", "darão", "deu", "dei", "deram"],
+      "correct": 5,
+      "explanation": "'Na semana passada' обозначает завершённое прошедшее действие — Pretérito Perfeito, форма ELES/VOCÊS (deram). 'Dão' — ELES, Presente. 'Davam' — ELES, Imperfeito. 'Darão' — ELES, Futuro. 'Deu' — ELE, Pretérito Perfeito. 'Dei' — EU, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола SER.",
+      "sentence": "Nós ___ os responsáveis pela coordenação do evento no próximo trimestre.",
+      "options": ["seremos", "somos", "fomos", "éramos", "serão", "serei"],
+      "correct": 0,
+      "explanation": "'No próximo trimestre' относит роль к будущему — Futuro, форма NÓS (seremos). 'Somos' — NÓS, Presente. 'Fomos' — NÓS, Pretérito Perfeito. 'Éramos' — NÓS, Imperfeito. 'Serão' — ELES, Futuro. 'Serei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола ESTAR.",
+      "sentence": "Antes da renovação, os escritórios ___ em condições precárias para o trabalho diário.",
+      "options": ["estão", "estavam", "estiveram", "estarão", "estava", "estávamos"],
+      "correct": 1,
+      "explanation": "'Antes da renovação' указывает на длительное прошедшее состояние — Pretérito Imperfeito, форма ELES/VOCÊS (estavam). 'Estão' — ELES, Presente. 'Estiveram' — ELES, Pretérito Perfeito. 'Estarão' — ELES, Futuro. 'Estava' — EU/ELE, Imperfeito. 'Estávamos' — NÓS, Imperfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола IR.",
+      "sentence": "O inspector ___ à instalação na próxima semana para a vistoria anual.",
+      "options": ["vai", "foi", "irá", "ia", "irei", "irão"],
+      "correct": 2,
+      "explanation": "'Na próxima semana' относит движение к будущему — Futuro, форма ELE (irá). 'Vai' — ELE, Presente. 'Foi' — ELE, Pretérito Perfeito. 'Ia' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Irei' — EU, Futuro. 'Irão' — ELES, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола DAR.",
+      "sentence": "O tribunal ___ a sentença final na próxima sessão plenária.",
+      "options": ["dá", "deu", "dava", "dará", "daremos", "darei"],
+      "correct": 3,
+      "explanation": "'Na próxima sessão plenária' относит действие к будущему — Futuro, форма ELE (dará). 'Dá' — ELE, Presente. 'Deu' — ELE, Pretérito Perfeito. 'Dava' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Daremos' — NÓS, Futuro. 'Darei' — EU, Futuro."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола SER.",
+      "sentence": "Eu ___ o primeiro a apresentar uma proposta formal ao comité de selecção.",
+      "options": ["sou", "era", "serei", "foi", "fui", "foram"],
+      "correct": 4,
+      "explanation": "'O primeiro a apresentar' описывает роль или идентичность в прошлом — Pretérito Perfeito, форма EU (fui). Контекст ('o primeiro a apresentar' = идентичность/роль) подтверждает SER, а не IR. 'Fui' здесь означает 'я был', а не 'я пошёл'. 'Sou' — EU, Presente. 'Era' — Pretérito Imperfeito (форма EU/ELE совпадает). 'Serei' — EU, Futuro. 'Foi' — ELE, Pretérito Perfeito. 'Foram' — ELES, Pretérito Perfeito."
+    },
+    {
+      "prompt": "Выберите правильную форму глагола IR.",
+      "sentence": "Antes da fusão, os técnicos ___ regularmente às filiais para formação no terreno.",
+      "options": ["vão", "foram", "irão", "ia", "íamos", "iam"],
+      "correct": 5,
+      "explanation": "'Antes da fusão' + 'regularmente' указывают на привычное прошедшее перемещение — Pretérito Imperfeito, форма ELES/VOCÊS (iam). 'Vão' — ELES, Presente. 'Foram' — ELES, Pretérito Perfeito. 'Irão' — ELES, Futuro. 'Ia' — EU/ELE, Imperfeito. 'Íamos' — NÓS, Imperfeito."
+    }
+  ]
+}

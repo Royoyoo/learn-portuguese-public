@@ -1,0 +1,218 @@
+{
+  "id": "lesson-18-en",
+  "title": "Regular -ER / -IR Verbs: Choosing the Right Tense",
+  "type": "fill_gap",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "Select the correct form of COMER.",
+      "sentence": "Eu ___ sempre uma refeição leve ao almoço durante os dias de trabalho.",
+      "options": ["como", "comi", "comerei", "come", "comeram", "comíamos"],
+      "correct": 0,
+      "explanation": "'Sempre' with a present habitual frame signals Presente of EU (como). 'Comi' is EU Pretérito Perfeito. 'Comerei' is EU Futuro. 'Come' is ELE/VOCÊ Presente. 'Comeram' is ELES/VOCÊS Pretérito Perfeito. 'Comíamos' is NÓS Pretérito Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of BEBER.",
+      "sentence": "Os convidados ___ toda a água mineral disponível durante o evento de ontem.",
+      "options": ["bebem", "beberam", "bebiam", "beberão", "bebeu", "bebi"],
+      "correct": 1,
+      "explanation": "'De ontem' marks a completed past event — Pretérito Perfeito of ELES/VOCÊS (beberam). 'Bebem' is Presente. 'Bebiam' is Pretérito Imperfeito. 'Beberão' is Futuro. 'Bebeu' is ELE singular Pretérito Perfeito. 'Bebi' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of ESCREVER.",
+      "sentence": "Antigamente, o jornalista ___ artigos de opinião para vários periódicos nacionais.",
+      "options": ["escreve", "escreveu", "escrevia", "escreverá", "escreviam", "escrevo"],
+      "correct": 2,
+      "explanation": "'Antigamente' signals a habitual past routine — Pretérito Imperfeito of ELE (escrevia). Note: 'escrevia' is also the EU form; 'o jornalista' establishes ELE. 'Escreve' is ELE Presente. 'Escreveu' is ELE Pretérito Perfeito. 'Escreverá' is ELE Futuro. 'Escreviam' is ELES Imperfeito. 'Escrevo' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of PARTIR.",
+      "sentence": "Na próxima semana, nós ___ para Berlim para participar na conferência internacional.",
+      "options": ["partimos", "partíamos", "parte", "partiremos", "partirão", "partirei"],
+      "correct": 3,
+      "explanation": "'Na próxima semana' places the action in the future — Futuro of NÓS (partiremos). 'Partimos' is NÓS Presente or Pretérito Perfeito (identical for -IR). 'Partíamos' is NÓS Pretérito Imperfeito. 'Parte' is ELE Presente. 'Partirão' is ELES Futuro. 'Partirei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of ABRIR.",
+      "sentence": "Ontem de manhã, eu ___ o gabinete mais cedo do que o habitual.",
+      "options": ["abro", "abria", "abrirei", "abriu", "abri", "abriram"],
+      "correct": 4,
+      "explanation": "'Ontem de manhã' marks a specific completed past action — Pretérito Perfeito of EU (abri). 'Abro' is EU Presente. 'Abria' is Pretérito Imperfeito (EU/ELE share this form). 'Abrirei' is EU Futuro. 'Abriu' is ELE Pretérito Perfeito. 'Abriram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of DIVIDIR.",
+      "sentence": "O chefe de equipa ___ sempre as tarefas de forma equilibrada entre todos os membros.",
+      "options": ["dividiu", "dividia", "dividirá", "dividem", "divido", "divide"],
+      "correct": 5,
+      "explanation": "'Sempre' with a present frame signals Presente of ELE (divide). 'Dividiu' is ELE Pretérito Perfeito. 'Dividia' is Pretérito Imperfeito (EU/ELE form). 'Dividirá' is ELE Futuro. 'Dividem' is ELES Presente. 'Divido' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of COMER.",
+      "sentence": "Naquela época, os operários ___ na cantina da fábrica todos os dias.",
+      "options": ["comiam", "comem", "comeram", "comerão", "comia", "comíamos"],
+      "correct": 0,
+      "explanation": "'Naquela época' marks a repeated past habit — Pretérito Imperfeito of ELES/VOCÊS (comiam). 'Comem' is Presente. 'Comeram' is Pretérito Perfeito. 'Comerão' is Futuro. 'Comia' is EU/ELE Imperfeito (singular). 'Comíamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of BEBER.",
+      "sentence": "No próximo mês, eu ___ apenas água e sumos naturais durante a dieta.",
+      "options": ["bebo", "beberei", "bebi", "bebia", "beberá", "beberão"],
+      "correct": 1,
+      "explanation": "'No próximo mês' places the action in the future — Futuro of EU (beberei). 'Bebo' is EU Presente. 'Bebi' is EU Pretérito Perfeito. 'Bebia' is Pretérito Imperfeito (EU/ELE form). 'Beberá' is ELE Futuro. 'Beberão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of ESCREVER.",
+      "sentence": "Nós ___ habitualmente os relatórios em formato digital, sem versão impressa.",
+      "options": ["escrevíamos", "escreveremos", "escrevemos", "escreve", "escrevem", "escrevo"],
+      "correct": 2,
+      "explanation": "'Habitualmente' signals a habitual present practice — Presente of NÓS (escrevemos). Note: NÓS Presente and Pretérito Perfeito are identical for -ER verbs; 'habitualmente' makes the Presente reading unambiguous. 'Escrevíamos' is NÓS Imperfeito. 'Escreveremos' is NÓS Futuro. 'Escreve' is ELE Presente. 'Escrevem' is ELES Presente. 'Escrevo' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of PARTIR.",
+      "sentence": "O embaixador ___ para Lisboa na semana passada após as negociações.",
+      "options": ["parte", "partia", "partirá", "partiu", "partiram", "parti"],
+      "correct": 3,
+      "explanation": "'Na semana passada' marks a single completed past departure — Pretérito Perfeito of ELE (partiu). 'Parte' is ELE Presente. 'Partia' is Pretérito Imperfeito (EU/ELE form). 'Partirá' is ELE Futuro. 'Partiram' is ELES Pretérito Perfeito. 'Parti' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of ABRIR.",
+      "sentence": "Antigamente, os comerciantes ___ as lojas ao amanhecer e fechavam ao anoitecer.",
+      "options": ["abrem", "abriram", "abrirão", "abria", "abriam", "abríamos"],
+      "correct": 4,
+      "explanation": "'Antigamente' signals a repeated past habit — Pretérito Imperfeito of ELES/VOCÊS (abriam). 'Abrem' is Presente. 'Abriram' is Pretérito Perfeito. 'Abrirão' is Futuro. 'Abria' is EU/ELE Imperfeito (singular). 'Abríamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of DIVIDIR.",
+      "sentence": "Na próxima reunião, nós ___ as responsabilidades de cada departamento de forma clara.",
+      "options": ["dividimos", "dividíamos", "divide", "dividirá", "dividirão", "dividiremos"],
+      "correct": 5,
+      "explanation": "'Na próxima reunião' places the action in the future — Futuro of NÓS (dividiremos). 'Dividimos' is NÓS Presente or Pretérito Perfeito (identical for -IR). 'Dividíamos' is NÓS Imperfeito. 'Divide' is ELE Presente. 'Dividirá' is ELE Futuro. 'Dividirão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of COMER.",
+      "sentence": "No ano que vem, o atleta ___ apenas alimentos com baixo teor de gordura.",
+      "options": ["comerá", "come", "comeu", "comia", "comerei", "comerão"],
+      "correct": 0,
+      "explanation": "'No ano que vem' marks a future intention — Futuro of ELE (comerá). 'Come' is ELE Presente. 'Comeu' is ELE Pretérito Perfeito. 'Comia' is Pretérito Imperfeito (EU/ELE form). 'Comerei' is EU Futuro. 'Comerão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of BEBER.",
+      "sentence": "Quando vivíamos no campo, nós ___ sempre água da fonte local.",
+      "options": ["bebemos", "bebíamos", "beberemos", "bebia", "bebiam", "bebeu"],
+      "correct": 1,
+      "explanation": "'Quando vivíamos no campo' frames a past habitual context — Pretérito Imperfeito of NÓS (bebíamos). 'Bebemos' is NÓS Presente or Pretérito Perfeito (identical for -ER). 'Beberemos' is NÓS Futuro. 'Bebia' is EU/ELE Imperfeito. 'Bebiam' is ELES Imperfeito. 'Bebeu' is ELE Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of ESCREVER.",
+      "sentence": "Na semana passada, eu ___ uma proposta detalhada para o novo projecto.",
+      "options": ["escrevo", "escrevia", "escrevi", "escreverei", "escreveu", "escreveram"],
+      "correct": 2,
+      "explanation": "'Na semana passada' marks a single completed past event — Pretérito Perfeito of EU (escrevi). 'Escrevo' is EU Presente. 'Escrevia' is Pretérito Imperfeito (EU/ELE form). 'Escreverei' is EU Futuro. 'Escreveu' is ELE Pretérito Perfeito. 'Escreveram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of PARTIR.",
+      "sentence": "Os comboios ___ pontualmente de hora a hora a partir das seis da manhã.",
+      "options": ["partiram", "partiam", "partirão", "partem", "parte", "parto"],
+      "correct": 3,
+      "explanation": "'De hora a hora a partir das seis da manhã' with no past marker describes a present habitual schedule — Presente of ELES/VOCÊS (partem). 'Partiram' is Pretérito Perfeito. 'Partiam' is Pretérito Imperfeito. 'Partirão' is Futuro. 'Parte' is ELE singular Presente. 'Parto' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of ABRIR.",
+      "sentence": "No próximo mês, o novo museu ___ as suas portas ao público pela primeira vez.",
+      "options": ["abre", "abriu", "abria", "abrirão", "abrirá", "abrirei"],
+      "correct": 4,
+      "explanation": "'No próximo mês' places the action in the future — Futuro of ELE (abrirá). 'Abre' is ELE Presente. 'Abriu' is ELE Pretérito Perfeito. 'Abria' is Pretérito Imperfeito (EU/ELE form). 'Abrirão' is ELES Futuro. 'Abrirei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of DIVIDIR.",
+      "sentence": "Quando era responsável pela equipa, eu ___ as tarefas de acordo com as competências de cada um.",
+      "options": ["divido", "dividi", "dividirei", "divide", "dividiam", "dividia"],
+      "correct": 5,
+      "explanation": "'Quando era responsável pela equipa' frames a past habitual practice — Pretérito Imperfeito of EU (dividia). Note: 'dividia' is also the ELE/VOCÊ form; subject 'eu' makes it unambiguous. 'Divido' is EU Presente. 'Dividi' is EU Pretérito Perfeito. 'Dividirei' is EU Futuro. 'Divide' is ELE Presente. 'Dividiam' is ELES Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of COMER.",
+      "sentence": "Antes de ter filhos, nós ___ sempre em restaurantes durante o fim-de-semana.",
+      "options": ["comíamos", "comemos", "comeremos", "comia", "comiam", "comeu"],
+      "correct": 0,
+      "explanation": "'Antes de ter filhos' + 'sempre' frames a past habitual routine — Pretérito Imperfeito of NÓS (comíamos). 'Comemos' is NÓS Presente or Pretérito Perfeito (identical for -ER). 'Comeremos' is NÓS Futuro. 'Comia' is EU/ELE Imperfeito. 'Comiam' is ELES Imperfeito. 'Comeu' is ELE Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of BEBER.",
+      "sentence": "O médico ___ dois litros de água por dia e recomenda o mesmo aos seus pacientes.",
+      "options": ["bebi", "bebe", "bebia", "beberá", "bebem", "bebo"],
+      "correct": 1,
+      "explanation": "The present habitual frame signals Presente of ELE (bebe). 'Bebi' is EU Pretérito Perfeito. 'Bebia' is Pretérito Imperfeito (EU/ELE form). 'Beberá' is ELE Futuro. 'Bebem' is ELES Presente. 'Bebo' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of ESCREVER.",
+      "sentence": "No próximo semestre, os investigadores ___ os resultados finais do estudo.",
+      "options": ["escrevem", "escreveram", "escreverão", "escreviam", "escreverá", "escreverei"],
+      "correct": 2,
+      "explanation": "'No próximo semestre' places the action in the future — Futuro of ELES/VOCÊS (escreverão). 'Escrevem' is Presente. 'Escreveram' is Pretérito Perfeito. 'Escreviam' is Pretérito Imperfeito. 'Escreverá' is ELE Futuro. 'Escreverei' is EU Futuro."
+    },
+    {
+      "prompt": "Select the correct form of PARTIR.",
+      "sentence": "Antes da reforma, eu ___ para o escritório todos os dias às sete da manhã.",
+      "options": ["parto", "parti", "partirei", "partia", "partiam", "partíamos"],
+      "correct": 3,
+      "explanation": "'Antes da reforma' + 'todos os dias' frames a past habitual routine — Pretérito Imperfeito of EU (partia). Note: 'partia' is also the ELE/VOCÊ form; subject 'eu' makes it unambiguous. 'Parto' is EU Presente. 'Parti' is EU Pretérito Perfeito. 'Partirei' is EU Futuro. 'Partiam' is ELES Imperfeito. 'Partíamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of ABRIR.",
+      "sentence": "Nós ___ sempre as janelas do escritório logo de manhã para renovar o ar.",
+      "options": ["abríamos", "abriremos", "abriu", "abrem", "abrimos", "abro"],
+      "correct": 4,
+      "explanation": "'Sempre' with a present frame signals Presente of NÓS (abrimos). Note: NÓS Presente and Pretérito Perfeito are identical for -IR verbs; 'sempre' makes the Presente reading unambiguous. 'Abríamos' is NÓS Imperfeito. 'Abriremos' is NÓS Futuro. 'Abriu' is ELE Pretérito Perfeito. 'Abrem' is ELES Presente. 'Abro' is EU Presente."
+    },
+    {
+      "prompt": "Select the correct form of DIVIDIR.",
+      "sentence": "Na reunião de ontem, os sócios ___ os lucros do trimestre de forma equitativa.",
+      "options": ["dividem", "dividiam", "dividirão", "dividiu", "dividi", "dividiram"],
+      "correct": 5,
+      "explanation": "'Na reunião de ontem' marks a completed past event — Pretérito Perfeito of ELES/VOCÊS (dividiram). 'Dividem' is Presente. 'Dividiam' is Pretérito Imperfeito. 'Dividirão' is Futuro. 'Dividiu' is ELE singular Pretérito Perfeito. 'Dividi' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of ESCREVER.",
+      "sentence": "No próximo mês, eu ___ um artigo sobre as últimas tendências do sector.",
+      "options": ["escreverei", "escrevo", "escrevi", "escrevia", "escreverá", "escreveremos"],
+      "correct": 0,
+      "explanation": "'No próximo mês' places the action in the future — Futuro of EU (escreverei). 'Escrevo' is EU Presente. 'Escrevi' is EU Pretérito Perfeito. 'Escrevia' is Pretérito Imperfeito (EU/ELE form). 'Escreverá' is ELE Futuro. 'Escreveremos' is NÓS Futuro."
+    },
+    {
+      "prompt": "Select the correct form of PARTIR.",
+      "sentence": "Quando trabalhávamos naquela empresa, nós ___ sempre antes do horário de pico.",
+      "options": ["partimos", "partíamos", "partiremos", "partia", "partiam", "partiram"],
+      "correct": 1,
+      "explanation": "'Quando trabalhávamos naquela empresa' frames a past habitual context — Pretérito Imperfeito of NÓS (partíamos). 'Partimos' is NÓS Presente or Pretérito Perfeito (identical for -IR). 'Partiremos' is NÓS Futuro. 'Partia' is EU/ELE Imperfeito. 'Partiam' is ELES Imperfeito. 'Partiram' is ELES Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of ABRIR.",
+      "sentence": "Todos os dias eu ___ a correspondência logo ao chegar ao escritório.",
+      "options": ["abri", "abria", "abro", "abrirei", "abre", "abrem"],
+      "correct": 2,
+      "explanation": "'Todos os dias' with no past marker signals a habitual present action — Presente of EU (abro). 'Abri' is EU Pretérito Perfeito. 'Abria' is Pretérito Imperfeito (EU/ELE form). 'Abrirei' is EU Futuro. 'Abre' is ELE Presente. 'Abrem' is ELES Presente."
+    },
+    {
+      "prompt": "Select the correct form of BEBER.",
+      "sentence": "No jantar de ontem, você ___ um vinho que nunca tinha experimentado antes.",
+      "options": ["bebe", "bebia", "beberá", "bebeu", "beberam", "bebi"],
+      "correct": 3,
+      "explanation": "'No jantar de ontem' marks a completed past event — Pretérito Perfeito of ELE/VOCÊ (bebeu). 'Bebe' is ELE/VOCÊ Presente. 'Bebia' is Pretérito Imperfeito (EU/ELE form). 'Beberá' is ELE/VOCÊ Futuro. 'Beberam' is ELES Pretérito Perfeito. 'Bebi' is EU Pretérito Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of DIVIDIR.",
+      "sentence": "Antes da reestruturação, os directores ___ as responsabilidades por área geográfica.",
+      "options": ["dividem", "dividiram", "dividirão", "dividia", "dividiam", "dividíamos"],
+      "correct": 4,
+      "explanation": "'Antes da reestruturação' signals a past habitual arrangement — Pretérito Imperfeito of ELES/VOCÊS (dividiam). 'Dividem' is Presente. 'Dividiram' is Pretérito Perfeito. 'Dividirão' is Futuro. 'Dividia' is EU/ELE Imperfeito (singular). 'Dividíamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of COMER.",
+      "sentence": "No próximo domingo, nós ___ juntos em casa para celebrar o aniversário da empresa.",
+      "options": ["comemos", "comíamos", "comia", "comerá", "comerão", "comeremos"],
+      "correct": 5,
+      "explanation": "'No próximo domingo' places the action in the future — Futuro of NÓS (comeremos). 'Comemos' is NÓS Presente or Pretérito Perfeito (identical for -ER). 'Comíamos' is NÓS Imperfeito. 'Comia' is EU/ELE Imperfeito. 'Comerá' is ELE Futuro. 'Comerão' is ELES Futuro."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "lesson-21-en",
+  "title": "Irregular Verbs II — FAZER, TER and More: Choosing the Right Tense",
+  "type": "fill_gap",
+  "lang": "en",
+  "exercises": [
+    {
+      "prompt": "Select the correct form of FAZER.",
+      "sentence": "Eu ___ parte de uma equipa de consultores especializados em transformação digital.",
+      "options": ["faço", "fiz", "fazia", "farei", "faz", "fazemos"],
+      "correct": 0,
+      "explanation": "Current professional membership — Presente, EU (faço). 'Fiz' is EU Pretérito Perfeito. 'Fazia' is the shared EU/ELE Pretérito Imperfeito form. 'Farei' is EU Futuro. 'Faz' is ELE/VOCÊ Presente. 'Fazemos' is NÓS Presente."
+    },
+    {
+      "prompt": "Select the correct form of TER.",
+      "sentence": "O projecto ___ um impacto significativo no desenvolvimento regional ao longo do ano passado.",
+      "options": ["tem", "tive", "terá", "teve", "tivemos", "tiveram"],
+      "correct": 3,
+      "explanation": "'Ao longo do ano passado' marks a completed past impact — Pretérito Perfeito, ELE (teve). 'Tem' is ELE Presente. 'Tive' is EU Perfeito. 'Terá' is ELE Futuro. 'Tivemos' is NÓS Perfeito. 'Tiveram' is ELES Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of FAZER.",
+      "sentence": "O director ___ uma proposta de reestruturação durante a última assembleia geral.",
+      "options": ["faz", "fez", "fazia", "fiz", "fará", "fizemos"],
+      "correct": 1,
+      "explanation": "'Durante a última assembleia geral' marks a completed past action — Pretérito Perfeito, ELE (fez). 'Faz' is ELE Presente. 'Fazia' is the shared EU/ELE Imperfeito form. 'Fiz' is EU Perfeito. 'Fará' is ELE Futuro. 'Fizemos' is NÓS Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of DIZER.",
+      "sentence": "Antigamente, eu sempre ___ o que pensava, mesmo quando a situação era delicada.",
+      "options": ["digo", "disse", "dizia", "direi", "diz", "diziam"],
+      "correct": 2,
+      "explanation": "'Antigamente' + 'sempre' indicate a habitual past stance — Pretérito Imperfeito, EU (dizia). Note: 'dizia' is the shared EU/ELE form; 'eu' disambiguates. 'Digo' is EU Presente. 'Disse' is the shared EU/ELE Pretérito Perfeito form. 'Direi' is EU Futuro. 'Diz' is ELE Presente. 'Diziam' is ELES Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of PODER.",
+      "sentence": "Eu ___ confirmar a disponibilidade para a reunião assim que tiver a agenda completa.",
+      "options": ["pude", "podia", "pode", "poderei", "posso", "podem"],
+      "correct": 4,
+      "explanation": "Current ability to confirm — Presente, EU (posso). 'Pude' is EU Pretérito Perfeito. 'Podia' is the shared EU/ELE Imperfeito form. 'Pode' is ELE Presente. 'Poderei' is EU Futuro. 'Podem' is ELES Presente."
+    },
+    {
+      "prompt": "Select the correct form of TER.",
+      "sentence": "As empresas do sector ___ dificuldades crescentes em recrutar especialistas qualificados.",
+      "options": ["tenho", "tem", "tiveram", "tinham", "temos", "têm"],
+      "correct": 5,
+      "explanation": "Ongoing present difficulty — Presente, ELES/VOCÊS (têm). Note the accent: 'têm' (ELES) vs. 'tem' (ELE). 'Tenho' is EU Presente. 'Tem' is ELE Presente. 'Tiveram' is ELES Perfeito. 'Tinham' is ELES Imperfeito. 'Temos' is NÓS Presente."
+    },
+    {
+      "prompt": "Select the correct form of DIZER.",
+      "sentence": "Eu ___ sempre a verdade nos relatórios internos, mesmo quando os resultados são negativos.",
+      "options": ["digo", "disse", "dizia", "direi", "diz", "dizemos"],
+      "correct": 0,
+      "explanation": "Habitual present commitment — Presente, EU (digo). 'Disse' is the shared EU/ELE Pretérito Perfeito form. 'Dizia' is the shared EU/ELE Imperfeito form. 'Direi' is EU Futuro. 'Diz' is ELE Presente. 'Dizemos' is NÓS Presente."
+    },
+    {
+      "prompt": "Select the correct form of FAZER.",
+      "sentence": "Na próxima semana, eu ___ uma apresentação detalhada dos resultados ao conselho de administração.",
+      "options": ["faço", "farei", "fiz", "fazia", "fará", "farão"],
+      "correct": 1,
+      "explanation": "'Na próxima semana' marks a future action — Futuro, EU (farei). 'Faço' is EU Presente. 'Fiz' is EU Perfeito. 'Fazia' is the shared EU/ELE Imperfeito form. 'Fará' is ELE Futuro. 'Farão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of VIR.",
+      "sentence": "Eu ___ de Lisboa a todas as reuniões do conselho de forma regular.",
+      "options": ["vim", "vinha", "venho", "virei", "vem", "vêm"],
+      "correct": 2,
+      "explanation": "Habitual present travel — Presente, EU (venho). 'Vim' is EU Pretérito Perfeito. 'Vinha' is the shared EU/ELE Imperfeito form. 'Virei' is EU Futuro. 'Vem' is ELE Presente. 'Vêm' is ELES Presente."
+    },
+    {
+      "prompt": "Select the correct form of VER.",
+      "sentence": "Ontem, eu ___ os dados finais do relatório e os resultados foram muito positivos.",
+      "options": ["vejo", "via", "verei", "vi", "viu", "viram"],
+      "correct": 3,
+      "explanation": "'Ontem' marks a completed past action — Pretérito Perfeito, EU (vi). 'Vejo' is EU Presente. 'Via' is the shared EU/ELE Imperfeito form. 'Verei' is EU Futuro. 'Viu' is ELE Perfeito. 'Viram' is ELES Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of FAZER.",
+      "sentence": "Os técnicos ___ a manutenção preventiva dos equipamentos duas vezes por ano.",
+      "options": ["faço", "faz", "fizeram", "fazemos", "fazem", "farão"],
+      "correct": 4,
+      "explanation": "Habitual present schedule — Presente, ELES/VOCÊS (fazem). 'Faço' is EU Presente. 'Faz' is ELE Presente. 'Fizeram' is ELES Perfeito. 'Fazemos' is NÓS Presente. 'Farão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of VER.",
+      "sentence": "Amanhã, eu ___ os resultados finais da auditoria e tomarei as decisões adequadas.",
+      "options": ["vejo", "vi", "via", "verá", "veremos", "verei"],
+      "correct": 5,
+      "explanation": "'Amanhã' + 'tomarei' (consistent future) — Futuro, EU (verei). 'Vejo' is EU Presente. 'Vi' is EU Perfeito. 'Via' is the shared EU/ELE Imperfeito form. 'Verá' is ELE Futuro. 'Veremos' is NÓS Futuro."
+    },
+    {
+      "prompt": "Select the correct form of TER.",
+      "sentence": "Antes da digitalização, os departamentos ___ dificuldade em partilhar informação de forma eficiente.",
+      "options": ["tinham", "têm", "tinha", "tiveram", "tínhamos", "terão"],
+      "correct": 0,
+      "explanation": "'Antes da digitalização' marks an ongoing past difficulty — Pretérito Imperfeito, ELES (tinham). 'Têm' is ELES Presente. 'Tinha' is the shared EU/ELE Imperfeito form (singular). 'Tiveram' is ELES Perfeito. 'Tínhamos' is NÓS Imperfeito. 'Terão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of TER.",
+      "sentence": "No ano passado, eu ___ a oportunidade de representar a empresa numa conferência internacional.",
+      "options": ["tenho", "tive", "tinha", "terei", "teve", "tiveram"],
+      "correct": 1,
+      "explanation": "'No ano passado' marks a completed past opportunity — Pretérito Perfeito, EU (tive). 'Tenho' is EU Presente. 'Tinha' is the shared EU/ELE Imperfeito form. 'Terei' is EU Futuro. 'Teve' is ELE Perfeito. 'Tiveram' is ELES Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of TER.",
+      "sentence": "Eu ___ reunião com o conselho de administração todas as terças-feiras de manhã.",
+      "options": ["tive", "tinha", "tenho", "terei", "tem", "têm"],
+      "correct": 2,
+      "explanation": "Habitual present schedule — Presente, EU (tenho). 'Tive' is EU Perfeito. 'Tinha' is the shared EU/ELE Imperfeito form. 'Terei' is EU Futuro. 'Tem' is ELE Presente. 'Têm' is ELES Presente."
+    },
+    {
+      "prompt": "Select the correct form of VIR.",
+      "sentence": "Na semana passada, eu ___ de Bruxelas com propostas formais para o acordo de cooperação.",
+      "options": ["venho", "vinha", "virei", "vim", "veio", "vieram"],
+      "correct": 3,
+      "explanation": "'Na semana passada' marks a completed past journey — Pretérito Perfeito, EU (vim). 'Venho' is EU Presente. 'Vinha' is the shared EU/ELE Imperfeito form. 'Virei' is EU Futuro. 'Veio' is ELE Perfeito. 'Vieram' is ELES Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of TER.",
+      "sentence": "No próximo trimestre, nós ___ acesso às novas ferramentas de análise de dados.",
+      "options": ["temos", "terei", "tivemos", "terá", "teremos", "terão"],
+      "correct": 4,
+      "explanation": "'No próximo trimestre' marks a future state — Futuro, NÓS (teremos). 'Temos' is NÓS Presente. 'Terei' is EU Futuro. 'Tivemos' is NÓS Perfeito. 'Terá' is ELE Futuro. 'Terão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of FAZER.",
+      "sentence": "Na última revisão anual, nós ___ uma análise completa dos processos operacionais.",
+      "options": ["fazemos", "fiz", "fez", "faremos", "fizeram", "fizemos"],
+      "correct": 5,
+      "explanation": "'Na última revisão anual' marks a completed past analysis — Pretérito Perfeito, NÓS (fizemos). 'Fazemos' is NÓS Presente. 'Fiz' is EU Perfeito. 'Fez' is ELE Perfeito. 'Faremos' is NÓS Futuro. 'Fizeram' is ELES Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of PODER.",
+      "sentence": "Quando era mais jovem, eu ___ trabalhar durante muitas horas seguidas sem dificuldade.",
+      "options": ["podia", "posso", "pude", "poderei", "pode", "podiam"],
+      "correct": 0,
+      "explanation": "'Quando era mais jovem' establishes a past ongoing ability — Pretérito Imperfeito, EU (podia). Note: 'podia' is the shared EU/ELE form; 'eu' disambiguates. 'Posso' is EU Presente. 'Pude' is EU Perfeito. 'Poderei' is EU Futuro. 'Pode' is ELE Presente. 'Podiam' is ELES Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of PODER.",
+      "sentence": "No próximo semestre, eu ___ dedicar mais tempo à investigação graças à nova bolsa de financiamento.",
+      "options": ["posso", "poderei", "pude", "podia", "poderá", "poderemos"],
+      "correct": 1,
+      "explanation": "'No próximo semestre' + 'nova bolsa' mark a future ability — Futuro, EU (poderei). 'Posso' is EU Presente. 'Pude' is EU Perfeito. 'Podia' is the shared EU/ELE Imperfeito form. 'Poderá' is ELE Futuro. 'Poderemos' is NÓS Futuro."
+    },
+    {
+      "prompt": "Select the correct form of FAZER.",
+      "sentence": "Antes da pandemia, nós ___ reuniões trimestrais presenciais com todas as equipas regionais.",
+      "options": ["fazemos", "fazia", "fazíamos", "fizemos", "faziam", "faremos"],
+      "correct": 2,
+      "explanation": "'Antes da pandemia' + 'trimestrais' indicate a habitual past practice — Pretérito Imperfeito, NÓS (fazíamos). 'Fazemos' is NÓS Presente. 'Fazia' is the shared EU/ELE Imperfeito form (singular). 'Fizemos' is NÓS Perfeito. 'Faziam' is ELES Imperfeito. 'Faremos' is NÓS Futuro."
+    },
+    {
+      "prompt": "Select the correct form of FAZER.",
+      "sentence": "Os engenheiros ___ os testes de carga na nova infraestrutura no próximo mês.",
+      "options": ["fazem", "farei", "fará", "farão", "fizeram", "faremos"],
+      "correct": 3,
+      "explanation": "'No próximo mês' marks a future action — Futuro, ELES/VOCÊS (farão). 'Fazem' is ELES Presente. 'Farei' is EU Futuro. 'Fará' is ELE Futuro. 'Fizeram' is ELES Perfeito. 'Faremos' is NÓS Futuro."
+    },
+    {
+      "prompt": "Select the correct form of VER.",
+      "sentence": "Quando estudava no estrangeiro, eu ___ os meus colegas apenas nos períodos de férias.",
+      "options": ["vejo", "vi", "verei", "vê", "via", "víamos"],
+      "correct": 4,
+      "explanation": "'Quando estudava no estrangeiro' marks a habitual past action — Pretérito Imperfeito, EU (via). Note: 'via' is the shared EU/ELE form; 'eu' disambiguates. 'Vejo' is EU Presente. 'Vi' is EU Perfeito. 'Verei' is EU Futuro. 'Vê' is ELE Presente. 'Víamos' is NÓS Imperfeito."
+    },
+    {
+      "prompt": "Select the correct form of PODER.",
+      "sentence": "Na última conferência, eu ___ apresentar os resultados da investigação a um público especializado.",
+      "options": ["posso", "podia", "poderei", "pôde", "puderam", "pude"],
+      "correct": 5,
+      "explanation": "'Na última conferência' marks a completed past action — Pretérito Perfeito, EU (pude). 'Posso' is EU Presente. 'Podia' is the shared EU/ELE Imperfeito form. 'Poderei' is EU Futuro. 'Pôde' is ELE Perfeito. 'Puderam' is ELES Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of FAZER.",
+      "sentence": "Nos anos anteriores, os colaboradores ___ horas extraordinárias sem qualquer compensação adicional.",
+      "options": ["faziam", "fazem", "fazia", "fizeram", "fazíamos", "farão"],
+      "correct": 0,
+      "explanation": "'Nos anos anteriores' marks an ongoing past practice — Pretérito Imperfeito, ELES (faziam). 'Fazem' is ELES Presente. 'Fazia' is the shared EU/ELE Imperfeito form (singular). 'Fizeram' is ELES Perfeito. 'Fazíamos' is NÓS Imperfeito. 'Farão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of DIZER.",
+      "sentence": "Ontem, eu ___ ao responsável que o prazo precisava de ser revisto com urgência.",
+      "options": ["digo", "disse", "dizia", "direi", "diz", "disseram"],
+      "correct": 1,
+      "explanation": "'Ontem' marks a completed past statement — Pretérito Perfeito, EU (disse). Note: 'disse' is the shared EU/ELE form; 'eu' disambiguates. 'Digo' is EU Presente. 'Dizia' is the shared EU/ELE Imperfeito form. 'Direi' is EU Futuro. 'Diz' is ELE Presente. 'Disseram' is ELES Perfeito."
+    },
+    {
+      "prompt": "Select the correct form of VER.",
+      "sentence": "Eu ___ claramente a necessidade de reformar os procedimentos internos de controlo.",
+      "options": ["vi", "via", "vejo", "verei", "vê", "vemos"],
+      "correct": 2,
+      "explanation": "Present recognition of a current situation — Presente, EU (vejo). 'Vi' is EU Perfeito. 'Via' is the shared EU/ELE Imperfeito form. 'Verei' is EU Futuro. 'Vê' is ELE Presente. 'Vemos' is NÓS Presente."
+    },
+    {
+      "prompt": "Select the correct form of DIZER.",
+      "sentence": "Amanhã, eu ___ oficialmente a minha posição sobre o projecto durante a reunião plenária.",
+      "options": ["digo", "disse", "dizia", "direi", "dirá", "diremos"],
+      "correct": 3,
+      "explanation": "'Amanhã' marks a future statement — Futuro, EU (direi). 'Digo' is EU Presente. 'Disse' is the shared EU/ELE Pretérito Perfeito form. 'Dizia' is the shared EU/ELE Imperfeito form. 'Dirá' is ELE Futuro. 'Diremos' is NÓS Futuro."
+    },
+    {
+      "prompt": "Select the correct form of SAIR.",
+      "sentence": "Na próxima sexta-feira, eu ___ mais cedo para poder chegar a tempo à assembleia municipal.",
+      "options": ["saio", "saí", "saía", "sairá", "sairei", "sairão"],
+      "correct": 4,
+      "explanation": "'Na próxima sexta-feira' marks a future action — Futuro, EU (sairei). 'Saio' is EU Presente. 'Saí' is EU Pretérito Perfeito. 'Saía' is the shared EU/ELE Imperfeito form. 'Sairá' is ELE Futuro. 'Sairão' is ELES Futuro."
+    },
+    {
+      "prompt": "Select the correct form of SAIR.",
+      "sentence": "Quando trabalhava nessa empresa, eu ___ invariavelmente às dezoito horas para ir buscar os filhos.",
+      "options": ["saio", "saí", "sairei", "sai", "saíam", "saía"],
+      "correct": 5,
+      "explanation": "'Quando trabalhava nessa empresa' marks a habitual past routine — Pretérito Imperfeito, EU (saía). Note: 'saía' is the shared EU/ELE form; 'eu' disambiguates. 'Saio' is EU Presente. 'Saí' is EU Perfeito. 'Sairei' is EU Futuro. 'Sai' is ELE Presente. 'Saíam' is ELES Imperfeito."
+    }
+  ]
+}
