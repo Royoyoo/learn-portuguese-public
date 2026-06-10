@@ -41,7 +41,7 @@ function renderExercise({ exercise, getIsAnswered, onAnswered, renderNextButton 
   const feedbackContainer = createElement("div");
   const actions = createElement("div", { className: "actions" });
   const answerTokens = tokenizeAnswer(exercise.answer);
-  const placedTokens = [];
+  const slots = answerTokens.map(() => null);
   const poolTokens = shuffleTokens([
     ...answerTokens.map((token, index) => ({ id: `answer-${index}`, text: token })),
     ...exercise.distractors.map((token, index) => ({ id: `distractor-${index}`, text: token })),
@@ -51,25 +51,26 @@ function renderExercise({ exercise, getIsAnswered, onAnswered, renderNextButton 
     answerRow.replaceChildren();
     tokenPool.replaceChildren();
 
-    if (placedTokens.length === 0) {
-      answerRow.append(createElement("span", { className: "empty-row", text: t("answerPlaceholder") }));
-    }
-
-    placedTokens.forEach((token, index) => {
-      const button = createElement("button", {
-        className: "token-button",
-        text: token.text,
-        attributes: { type: "button" },
-      });
-      button.disabled = getIsAnswered();
-      button.addEventListener("click", () => {
-        if (getIsAnswered()) {
-          return;
-        }
-        poolTokens.push(...placedTokens.splice(index, 1));
-        renderRows();
-      });
-      answerRow.append(button);
+    slots.forEach((token, index) => {
+      if (token === null) {
+        answerRow.append(createElement("span", { className: "gap", text: "___" }));
+      } else {
+        const button = createElement("button", {
+          className: "token-button",
+          text: token.text,
+          attributes: { type: "button" },
+        });
+        button.disabled = getIsAnswered();
+        button.addEventListener("click", () => {
+          if (getIsAnswered()) {
+            return;
+          }
+          poolTokens.push(slots[index]);
+          slots[index] = null;
+          renderRows();
+        });
+        answerRow.append(button);
+      }
     });
 
     poolTokens.forEach((token, index) => {
@@ -83,7 +84,11 @@ function renderExercise({ exercise, getIsAnswered, onAnswered, renderNextButton 
         if (getIsAnswered()) {
           return;
         }
-        placedTokens.push(...poolTokens.splice(index, 1));
+        const firstEmpty = slots.indexOf(null);
+        if (firstEmpty === -1) {
+          return;
+        }
+        slots[firstEmpty] = poolTokens.splice(index, 1)[0];
         renderRows();
         maybeValidateWordBlocks();
       });
@@ -92,11 +97,11 @@ function renderExercise({ exercise, getIsAnswered, onAnswered, renderNextButton 
   }
 
   function maybeValidateWordBlocks() {
-    if (placedTokens.length !== answerTokens.length || getIsAnswered()) {
+    if (slots.some((s) => s === null) || getIsAnswered()) {
       return;
     }
 
-    const learnerAnswer = placedTokens.map((token) => token.text).join(" ");
+    const learnerAnswer = slots.map((token) => token.text).join(" ");
     const isCorrect = normalizeAnswer(learnerAnswer) === normalizeAnswer(exercise.answer);
     answerRow.classList.add(isCorrect ? "correct" : "incorrect");
     onAnswered(isCorrect);
